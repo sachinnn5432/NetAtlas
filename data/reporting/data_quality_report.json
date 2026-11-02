@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-11-02 12:43:44 UTC",
+  "summary": {
+    "total_submarine_cables": 713,
+    "total_landing_stations": 1928,
+    "total_ixps": 1337,
+    "total_facilities": 3000,
+    "total_networks": 2500,
+    "total_network_ix_relationships": 4172,
+    "active_data_sources": 8
+  },
+  "cable_quality": {
+    "record_count": 713,
+    "missing_commission_year_pct": 83.87,
+    "missing_length_pct": 86.4,
+    "verified_geometries_pct": 100.0,
+    "outlier_lengths_detected": 0
+  },
+  "landing_station_quality": {
+    "total_records": 1928,
+    "valid_coordinates": 1928,
+    "invalid_or_missing_coordinates": 0,
+    "coordinate_completeness_pct": 100.0
+  },
+  "facility_quality": {
+    "total_records": 3000,
+    "valid_coordinates": 2710,
+    "invalid_or_missing_coordinates": 290,
+    "coordinate_completeness_pct": 90.33
+  },
+  "ixp_quality": {
+    "total_records": 1337,
+    "missing_city_pct": 0.0,
+    "ixps_with_connected_networks_pct": 92.6
+  }
+}

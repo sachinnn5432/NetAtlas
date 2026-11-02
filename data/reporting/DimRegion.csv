@@ -1,0 +1,18 @@
+Region,Subregion,RegionKey
+North America,Northern America,1
+Asia,Southern Asia,2
+Europe,Northern Europe,3
+Europe,Western Europe,4
+Asia,South-Eastern Asia,5
+Asia,Eastern Asia,6
+Oceania,Australia and New Zealand,7
+South America,South America,8
+Africa,Southern Africa,9
+Africa,Eastern Africa,10
+Africa,Western Africa,11
+Africa,Northern Africa,12
+Middle East,Western Asia,13
+North America,Central America,14
+Europe,Southern Europe,15
+Europe/Asia,Eastern Europe,16
+Europe,Eastern Europe,17

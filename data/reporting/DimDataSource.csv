@@ -1,0 +1,9 @@
+SourceKey,SourceName,SourceURL,License,GeographicCoverage,TemporalCoverage
+peeringdb_ix,PeeringDB Internet Exchange Points,https://www.peeringdb.com/api/ix,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global (200+ countries and territories),2004 - Present (Continuously community updated)
+peeringdb_fac,PeeringDB Interconnection Facilities & Data Centres,https://www.peeringdb.com/api/fac,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global,2004 - Present
+peeringdb_net,PeeringDB Networks and Autonomous Systems,https://www.peeringdb.com/api/net,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global,2004 - Present
+peeringdb_netixlan,PeeringDB Network-to-IX Interconnections,https://www.peeringdb.com/api/netixlan,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global,2004 - Present
+telegeography_cables,TeleGeography Submarine Cable Geometries,https://www.submarinecablemap.com/api/v3/cable/cable-geo.json,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global oceans and coastal corridors,1989 - 2028 (Operational and announced systems)
+telegeography_landing_stations,TeleGeography Cable Landing Points,https://www.submarinecablemap.com/api/v3/landing-point/landing-point-geo.json,Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0),Global coastal landing locations,Historical to current
+world_bank_ict,World Bank Digital Development Infrastructure Indicators,https://datacatalog.worldbank.org/,Creative Commons Attribution 4.0 International (CC BY 4.0),Global sovereign nations (217 economies),1990 - 2024
+osm_reference,OpenStreetMap Geographic Reference & Boundaries,https://www.openstreetmap.org/,Open Database License (ODbL) 1.0,Global,Current

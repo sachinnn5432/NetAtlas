@@ -1,0 +1,230 @@
+/* ====================================================================
+   NETATLAS POWER BI DAX MEASURES LIBRARY
+   Platform: NetAtlas Global Internet Infrastructure Intelligence
+   Evaluation Standard: University MCA Data Visualization / BI Specialist
+   ==================================================================== */
+
+// ====================================================================
+// SECTION 1: GLOBAL INFRASTRUCTURE OVERVIEW MEASURES (PAGE 1)
+// ====================================================================
+
+[Total Submarine Cables] = 
+DISTINCTCOUNT(FactCable[CableID])
+
+[Total Cable Landing Stations] = 
+DISTINCTCOUNT(FactLandingStation[StationID])
+
+[Total Internet Exchanges] = 
+DISTINCTCOUNT(FactIXP[IXPID])
+
+[Total Colocation Facilities] = 
+DISTINCTCOUNT(FactFacility[FacilityID])
+
+[Total Network Operators] = 
+DISTINCTCOUNT(FactNetworkRelationship[ASN])
+
+[Total Peering Interconnections] = 
+COUNTROWS(FactNetworkRelationship)
+
+[Countries With Subsea Landings] = 
+CALCULATE(
+    DISTINCTCOUNT(FactLandingStation[CountryKey]),
+    FactLandingStation[CountryKey] <> "XX"
+)
+
+[Countries With Peering Exchanges] = 
+CALCULATE(
+    DISTINCTCOUNT(FactIXP[CountryKey])
+)
+
+[Operational Cables] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[IsPlanned] = 0
+)
+
+[Planned Subsea Cables] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[IsPlanned] = 1
+)
+
+[Planned Subsea Cable Ratio] = 
+DIVIDE([Planned Subsea Cables], [Total Submarine Cables], 0)
+
+// ====================================================================
+// SECTION 2: SUBMARINE CABLE INTELLIGENCE MEASURES (PAGE 2)
+// ====================================================================
+
+[Total Subsea Fiber Length (KM)] = 
+SUM(FactCable[LengthKM])
+
+[Average Cable Length (KM)] = 
+AVERAGE(FactCable[LengthKM])
+
+[Max Cable Length (KM)] = 
+MAX(FactCable[LengthKM])
+
+[Average Landing Stations Per Cable] = 
+AVERAGEX(
+    FactCable,
+    FactCable[LandingPointsCount]
+)
+
+[Cables Commissioned Pre-2000] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[RFS_Year] < 2000 && NOT(ISBLANK(FactCable[RFS_Year]))
+)
+
+[Cables Commissioned 2000-2015] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[RFS_Year] >= 2000 && FactCable[RFS_Year] <= 2015
+)
+
+[Cables Commissioned Modern (2016-2024)] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[RFS_Year] >= 2016 && FactCable[RFS_Year] <= 2024
+)
+
+[Future Planned Commissionings (2025+)] = 
+CALCULATE(
+    [Total Submarine Cables],
+    FactCable[RFS_Year] >= 2025
+)
+
+// ====================================================================
+// SECTION 3: INTERNET EXCHANGE ANALYTICS MEASURES (PAGE 3)
+// ====================================================================
+
+[Average Networks Per Exchange] = 
+AVERAGEX(
+    FactIXP,
+    FactIXP[ConnectedNetworksCount]
+)
+
+[Max Networks On Single Exchange] = 
+MAX(FactIXP[ConnectedNetworksCount])
+
+[IPv6 Enabled Exchange Ratio] = 
+DIVIDE(
+    CALCULATE([Total Internet Exchanges], FactIXP[SupportsIPv6] = 1),
+    [Total Internet Exchanges],
+    0
+)
+
+[Multicast Enabled Exchange Ratio] = 
+DIVIDE(
+    CALCULATE([Total Internet Exchanges], FactIXP[SupportsMulticast] = 1),
+    [Total Internet Exchanges],
+    0
+)
+
+[IXP Regional Concentration Score] = 
+DIVIDE(
+    [Total Internet Exchanges],
+    CALCULATE([Total Internet Exchanges], ALL(DimCountry))
+)
+
+// ====================================================================
+// SECTION 4: DATA CENTRE & FACILITY ANALYTICS MEASURES (PAGE 4)
+// ====================================================================
+
+[Geocoded Facility Ratio] = 
+DIVIDE(
+    CALCULATE([Total Colocation Facilities], NOT(ISBLANK(FactFacility[Latitude]))),
+    [Total Colocation Facilities],
+    0
+)
+
+[Average Networks Per Facility] = 
+AVERAGEX(
+    FactFacility,
+    FactFacility[ConnectedNetworksCount]
+)
+
+[Facilities With IXP Presence] = 
+CALCULATE(
+    [Total Colocation Facilities],
+    FactFacility[IXPCount] > 0
+)
+
+[Facility IXP Attachment Ratio] = 
+DIVIDE(
+    [Facilities With IXP Presence],
+    [Total Colocation Facilities],
+    0
+)
+
+// ====================================================================
+// SECTION 5: GLOBAL NETWORK CONNECTIVITY MEASURES (PAGE 5)
+// ====================================================================
+
+[Average IXPs Per Network] = 
+DIVIDE(
+    [Total Peering Interconnections],
+    [Total Network Operators],
+    0
+)
+
+[Route Server Peer Interconnections] = 
+CALCULATE(
+    COUNTROWS(FactNetworkRelationship),
+    FactNetworkRelationship[IsRouteServerPeer] = 1
+)
+
+[Route Server Peer Adoption %] = 
+DIVIDE(
+    [Route Server Peer Interconnections],
+    [Total Peering Interconnections],
+    0
+)
+
+[Total Provisioned Interconnection Capacity (Gbps)] = 
+DIVIDE(
+    SUM(FactNetworkRelationship[SpeedMbps]),
+    1000,
+    0
+)
+
+[Average Port Speed (Gbps)] = 
+DIVIDE(
+    AVERAGE(FactNetworkRelationship[SpeedMbps]),
+    1000,
+    0
+)
+
+// ====================================================================
+// SECTION 6: DATA QUALITY, METRICS HEALTH & METHODOLOGY (PAGE 6)
+// ====================================================================
+
+[Cable Length Completeness %] = 
+DIVIDE(
+    CALCULATE(COUNTROWS(FactCable), NOT(ISBLANK(FactCable[LengthKM]))),
+    COUNTROWS(FactCable),
+    0
+)
+
+[Cable Commission Year Completeness %] = 
+DIVIDE(
+    CALCULATE(COUNTROWS(FactCable), NOT(ISBLANK(FactCable[RFS_Year]))),
+    COUNTROWS(FactCable),
+    0
+)
+
+[Landing Station Geocode Completeness %] = 
+DIVIDE(
+    CALCULATE(COUNTROWS(FactLandingStation), NOT(ISBLANK(FactLandingStation[Latitude]))),
+    COUNTROWS(FactLandingStation),
+    0
+)
+
+[Facility Geocode Completeness %] = 
+DIVIDE(
+    CALCULATE(COUNTROWS(FactFacility), NOT(ISBLANK(FactFacility[Latitude]))),
+    COUNTROWS(FactFacility),
+    0
+)
+

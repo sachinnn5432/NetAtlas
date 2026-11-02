@@ -1,0 +1,714 @@
+CableID,CableName,RFS_Year,LengthKM,IsPlanned,LandingPointsCount,Owners,Suppliers,SourceKey,TypeKey
+auur,AUÐUR,2030.0,1285.0,1,2,Korda,Unavailable,telegeography_cables,1
+apx-west,APX West,2029.0,4600.0,1,4,SUBCO,Unavailable,telegeography_cables,1
+apx-north,APX North,2029.0,9500.0,1,3,SUBCO,Unavailable,telegeography_cables,1
+apx-east-2,APX East-2,2029.0,10000.0,1,2,SUBCO,Unavailable,telegeography_cables,1
+petal,Petal,2029.0,7000.0,1,2,Meta,NEC,telegeography_cables,1
+exa-meridian,EXA Meridian,2029.0,6552.0,1,2,EXA Infrastructure,Xtera,telegeography_cables,1
+staonuk,Sta’O’Nuk,2029.0,,1,2,Amazon Web Services,Unavailable,telegeography_cables,1
+teide,Teide,2027.0,225.0,1,2,Canalink,Unavailable,telegeography_cables,1
+sharm-el-sheikhtaba,Sharm El Sheikh–Taba,2027.0,200.0,1,2,Telecom Egypt,Unavailable,telegeography_cables,1
+reunion,ReuNION,2028.0,,1,2,"Free Reunion (Telco OI), La Réunion Connectée, Orange, Zeop (incl. Reunicable)",ASN,telegeography_cables,1
+aurora,Aurora,2028.0,7268.0,1,2,Meta,ASN,telegeography_cables,1
+ebla,Ebla,2028.0,236.0,1,2,"Cyta, Syrian Telecommunications Establishment, UNIFI Communications",Prysmian,telegeography_cables,1
+canoa,Canoa,,,1,2,Google,Unavailable,telegeography_cables,1
+olaluz,OlaLuz,,,1,2,Google,Unavailable,telegeography_cables,1
+alisios,Alisios,2028.0,,1,4,Google,Unavailable,telegeography_cables,1
+fnix,Fénix,2026.0,378.0,1,2,"CANTV, Liberty Networks",Unavailable,telegeography_cables,1
+ion-cable-system-1-ics1,ION Cable System-1 (ICS1),2027.0,1041.0,1,9,ION Network,CCSI,telegeography_cables,1
+i-2sea,I-2SEA,2029.0,3600.0,1,4,"Lightstorm, Microsoft, Singtel, Tata Communications",NEC,telegeography_cables,1
+mvista,MViSTA,2029.0,2569.0,1,5,AsiaHub1,Unavailable,telegeography_cables,1
+bernacchi-1,Bernacchi-1,2027.0,200.0,1,1,"Firmus, SUBCO",ASN,telegeography_cables,1
+kunoa-north,Kunoa North,2028.0,,1,6,Hawaiian Telcom,Prysmian,telegeography_cables,1
+oceanic-tatitlek-telecommunications-enhancement-route-otter,Oceanic Tatitlek Telecommunications Enhancement Route (OTTER),2027.0,50.0,1,2,Copper Valley Telecom,Unavailable,telegeography_cables,1
+iokwe,IOKWE,2029.0,,1,1,Marshall Islands Telecommunications Authority,SubCom,telegeography_cables,1
+andromeda,ANDROMEDA,,,1,4,"Etisalat Group, Exelera, Grid Telecom",Unavailable,telegeography_cables,1
+norte-conectado-infovia-06,Norte Conectado (Infovia 06),2028.0,2847.0,1,2,Entidade Administradora da Faixa (EAF),Unavailable,telegeography_cables,1
+norte-conectado-infovia-08,Norte Conectado (Infovia 08),2028.0,2766.0,1,2,Entidade Administradora da Faixa (EAF),Unavailable,telegeography_cables,1
+norte-conectado-infovia-05,Norte Conectado (Infovia 05),2028.0,1116.0,1,9,Entidade Administradora da Faixa (EAF),Unavailable,telegeography_cables,1
+fea,FEA,1997.0,,0,8,FLAG,SubCom,telegeography_cables,1
+pasela,PASELA,2027.0,1100.0,1,2,Telkom Indonesia,"HMN Tech, PT. Lintas Teknologi Indonesia",telegeography_cables,1
+kattegat-cable,Kattegat Cable,2027.0,92.0,1,2,GlobalConnect,Unavailable,telegeography_cables,1
+le-vasa,Le Vasa,2027.0,,1,1,ASTCA,SubCom,telegeography_cables,1
+apx-east,APX East,2028.0,13000.0,1,4,SUBCO,Unavailable,telegeography_cables,1
+i-am-cable,I-AM Cable,2029.0,8100.0,1,6,"Intra‑Asia Marine Networks Co., Ltd.",ASN,telegeography_cables,1
+barracuda,Barracuda,2028.0,1050.0,1,2,Valencia Digital Port Connect,Unavailable,telegeography_cables,1
+thetis-express,Thetis Express,2027.0,340.0,1,3,Vodafone,Unavailable,telegeography_cables,1
+antigua-st-kitts,Antigua-St.Kitts,1995.0,141.0,0,2,Liberty Networks,ASN,telegeography_cables,1
+panam-south,PanAm South,1999.0,1340.0,0,2,"Corporacion Nacional de Telecomunicaciones (CNT), Liberty Networks","ASN, SubCom",telegeography_cables,1
+grand-bahama-bimini-submarine-cable,Grand Bahama Bimini Submarine Cable,2005.0,117.0,0,2,Bahamas Telecommunications Company,Unavailable,telegeography_cables,1
+adamasia-cable-system-1,Adamasia Cable System 1,2027.0,1015.0,1,1,Solomon Island Submarine Cable Company,SubCom,telegeography_cables,1
+red-hook-little-saint-james,Red Hook-Little Saint James,2005.0,5.0,0,2,Virgin Islands Water and Power Authority,Prysmian,telegeography_cables,1
+verena,Verena,2028.0,630.0,1,2,Midgard Infra,Xtera,telegeography_cables,1
+dhivaru,Dhivaru,2028.0,,1,3,Google,SubCom,telegeography_cables,1
+fastnet,Fastnet,2028.0,,1,2,Amazon Web Services,Unavailable,telegeography_cables,1
+longyearbyen-ny-lesund,Longyearbyen-Ny-Ålesund,2015.0,540.0,0,2,Sikt,Nexans,telegeography_cables,1
+portsmouth-ryde-11,Portsmouth-Ryde 11,2015.0,,0,2,BT,Hexatronic,telegeography_cables,1
+portsmouth-ryde-10,Portsmouth-Ryde 10,2015.0,,0,2,BT,Hexatronic,telegeography_cables,1
+cowes-fawley-2,Cowes-Fawley 2,2018.0,,0,2,BT,Unavailable,telegeography_cables,1
+kardesa,Kardesa,2027.0,1385.0,1,4,"Neqsol Holding, Vodafone",Xtera,telegeography_cables,1
+asia-united-gateway-east-aug-east,Asia United Gateway East (AUG East),2029.0,8900.0,1,9,"Amazon Web Services, Arteria, Chunghwa Telecom, Dreamline, Globe Telecom, Microsoft, Singtel, Telekom Malaysia, Unified National Networks (UNN)",NEC,telegeography_cables,1
+trans-global-cable-system-tgcs,Trans Global Cable System (TGCS),2027.0,1200.0,1,7,Trans Indonesia Supercorridor,HMN Tech,telegeography_cables,1
+tmx5,TMX5,2025.0,383.0,0,2,Telmex,Unavailable,telegeography_cables,1
+candle,Candle,2028.0,8000.0,1,7,"Globe Telecom, IPS, Inc., Meta, Softbank, Telekom Malaysia, XLSmart",NEC,telegeography_cables,1
+mobily-red-sea-cable-mrsc,Mobily Red Sea Cable (MRSC),2027.0,,1,2,Mobily,Unavailable,telegeography_cables,1
+challenger-one-bermuda,Challenger One Bermuda,2024.0,,0,1,ATN International,ASN,telegeography_cables,1
+americas-ii-west,Americas-II West,2000.0,217.0,0,2,"AT&T, Liberty Networks, Sparkle",SubCom,telegeography_cables,1
+daraja,Daraja,2027.0,4108.0,1,2,Meta,ASN,telegeography_cables,1
+ithaafushi-maafushi-hulhumale,Ithaafushi-Maafushi-Hulhumale,2025.0,,0,3,Ooredoo Maldives,Unavailable,telegeography_cables,1
+farewell-change-fogo,Farewell-Change-Fogo,2025.0,16.0,0,3,Bell Canada,Unavailable,telegeography_cables,1
+indonesia-tengah-cable-systems,Indonesia Tengah Cable Systems,2027.0,2641.0,1,10,"PT Jejaring Mitra Persada, Triasmitra",Unavailable,telegeography_cables,1
+manx-northern-ireland,Manx-Northern Ireland,2000.0,59.0,0,2,BT,Unavailable,telegeography_cables,1
+jako,JAKO,2027.0,260.0,1,2,"Amazon Web Services, Arteria, Dreamline, Microsoft",LS Cable & System,telegeography_cables,1
+taiwan-matsu-no-4,Taiwan-Matsu No.4,2026.0,300.0,0,4,Chunghwa Telecom,Unavailable,telegeography_cables,1
+sol,Sol,2029.0,8153.0,1,4,Google,SubCom,telegeography_cables,1
+mjolner-east,Mjolner East,2027.0,450.0,1,4,GlobalConnect,Unavailable,telegeography_cables,1
+mjolner-west,Mjolner West,2027.0,250.0,1,2,GlobalConnect,Unavailable,telegeography_cables,1
+rising-8,RISING 8,2026.0,1104.0,0,3,"Moratelindo, Triasmitra","ASN, Norddeutsche Seekabelwerke GmbH (NSW)",telegeography_cables,1
+project-waterworth,Project Waterworth,,50000.0,1,9,Meta,Unavailable,telegeography_cables,1
+qe-south,Q&E South,2026.0,141.0,0,2,euNetworks,Unavailable,telegeography_cables,1
+qe-north,Q&E North,2025.0,112.0,0,2,EXA Infrastructure,Unavailable,telegeography_cables,1
+e2a,E2A,2029.0,12500.0,1,6,"Chunghwa Telecom, SK Broadband, Softbank, Verizon",ASN,telegeography_cables,1
+fibre-in-gulf-fig,Fibre in Gulf (FIG),2027.0,1931.0,1,7,Ooredoo,ASN,telegeography_cables,1
+tanjung-pandan-sungai-kakap,Tanjung Pandan-Sungai Kakap,2019.0,348.0,0,2,Moratelindo,Unavailable,telegeography_cables,1
+groote-eylandt,Groote Eylandt,2011.0,95.0,0,2,Telstra,Unavailable,telegeography_cables,1
+sovetskaya-gavan-ilyinskoye,Sovetskaya Gavan-Ilyinskoye,2007.0,214.0,0,2,TTK,Unavailable,telegeography_cables,1
+tampnet-south,Tampnet South,1999.0,1751.0,0,2,Tampnet,"Ericsson, Nexans",telegeography_cables,1
+tampnet-north,Tampnet North,1999.0,1751.0,0,3,Tampnet,"Ericsson, Nexans",telegeography_cables,1
+sx-tasman-express-sx-tx,SX Tasman Express (SX-TX),2028.0,2276.0,1,2,Southern Cross Cable Network,ASN,telegeography_cables,1
+padang-tua-pejat,Padang-Tua Pejat,2019.0,160.0,0,2,Telkom Indonesia,Unavailable,telegeography_cables,1
+orient-island-ring,Orient Island Ring,2028.0,553.0,1,8,Canalink,Unavailable,telegeography_cables,1
+arctic-way,Arctic Way,2028.0,2568.0,1,4,Space Norway,SubCom,telegeography_cables,1
+thailand-domestic-submarine-cable-network-tdscn,Thailand Domestic Submarine Cable Network (TDSCN),2001.0,884.0,0,5,National Telecom,Unavailable,telegeography_cables,1
+cat-submarine-network-csn,CAT Submarine Network (CSN),2013.0,1240.0,0,2,National Telecom,Unavailable,telegeography_cables,1
+orca,ORCA,2027.0,12482.0,1,3,Meta,ASN,telegeography_cables,1
+cyclades-a,Cyclades A,2018.0,222.0,0,5,Grid Telecom,"Hellenic Cables, Prysmian",telegeography_cables,1
+cyclades-b,Cyclades B,2020.0,52.0,0,3,Grid Telecom,Hellenic Cables,telegeography_cables,1
+lake-tanganyika,Lake Tanganyika,2025.0,370.0,0,2,Bandwidth and Cloud Services (BCS),Unavailable,telegeography_cables,1
+lake-albert-1,Lake Albert 1,2019.0,51.0,0,2,Bandwidth and Cloud Services (BCS),Unavailable,telegeography_cables,1
+lake-albert-2,Lake Albert 2,2020.0,44.0,0,2,Bandwidth and Cloud Services (BCS),Unavailable,telegeography_cables,1
+celia,CELIA,2027.0,3700.0,1,8,"APUA, Orange, SETAR, Telxius",ASN,telegeography_cables,1
+awashima-murakami,Awashima-Murakami,2022.0,66.0,0,2,Awashimaura Village,Unavailable,telegeography_cables,1
+tasman-ring-network-phase-1,Tasman Ring Network-Phase 1,2029.0,2300.0,1,2,Datagrid New Zealand,"ASN, OMS Group",telegeography_cables,1
+okinawa-miyakojima-ishigaki,Okinawa-Miyakojima-Ishigaki,2004.0,467.0,0,3,NTT,Unavailable,telegeography_cables,1
+mishima-village,Mishima Village,2010.0,192.0,0,4,Mishima Village,Unavailable,telegeography_cables,1
+talaylink,TalayLink,2027.0,,1,4,Google,SubCom,telegeography_cables,1
+bosun,Bosun,2028.0,,1,2,Google,SubCom,telegeography_cables,1
+finland-estonia-connection-1-fec-1,Finland Estonia Connection 1 (FEC-1),2000.0,,0,2,Elisa Corporation,ASN,telegeography_cables,1
+eagle,EAGLE,2029.0,1900.0,1,3,"4iG Group, Telecom Egypt",Unavailable,telegeography_cables,1
+e-finest,E-FINEST,2019.0,,0,2,Elisa Corporation,Unavailable,telegeography_cables,1
+finland-estonia-connection-2-fec-2,Finland Estonia Connection 2 (FEC-2),2000.0,,0,2,Elisa Corporation,ASN,telegeography_cables,1
+sealink-south,SEALink South,2024.0,159.0,0,3,Alaska Power & Telephone Company Wireless (APTW),Unavailable,telegeography_cables,1
+isle-au-haut-cable,Isle Au Haut Cable,2024.0,10.0,0,2,Axiom Technologies,SubCom,telegeography_cables,1
+hokkaido-rebun-rishiri,Hokkaido-Rebun-Rishiri,2011.0,64.0,0,3,NTT,Unavailable,telegeography_cables,1
+okinawa-remote-islands,Okinawa Remote Islands,2017.0,915.0,0,9,Okinawa Prefecture,Unavailable,telegeography_cables,1
+minamidaito-island,Minamidaito Island,2011.0,410.0,0,2,Okinawa Prefecture,Unavailable,telegeography_cables,1
+kitadaito-island,Kitadaito Island,2022.0,410.0,0,2,Okinawa Prefecture,Unavailable,telegeography_cables,1
+daito-loop,Daito Loop,2025.0,18.0,0,2,Okinawa Prefecture,Unavailable,telegeography_cables,1
+vaka,VAKA,2027.0,668.0,1,1,Tuvalu Telecommunications Corporation (TTC),SubCom,telegeography_cables,1
+konstanz-friedrichshafen,Konstanz-Friedrichshafen,2007.0,26.0,0,2,Stadtwerke Konstanz,Unavailable,telegeography_cables,1
+konstanz-meersburg,Konstanz-Meersburg,2010.0,5.0,0,2,Stadtwerke Konstanz,Unavailable,telegeography_cables,1
+muroran-hachinohe,Muroran-Hachinohe,2002.0,280.0,0,2,Softbank,NEC,telegeography_cables,1
+emc-west-1,EMC West-1,2027.0,3639.0,1,5,EMC Subsea Cable Company Limited,ASN,telegeography_cables,1
+emc-west-2,EMC West-2,2027.0,3978.0,1,4,EMC Subsea Cable Company Limited,ASN,telegeography_cables,1
+asia-connect-cable-1-acc-1,Asia Connect Cable-1 (ACC-1),,19000.0,1,10,Inligo Networks,Unavailable,telegeography_cables,1
+norte-conectado-infovia-00,Norte Conectado (Infovia 00),2022.0,770.0,0,5,"Aquamar Group, BR.Digital Telecom, ICOM Telecom, SEA Telecom, Telefonica, Wirelink",Prysmian,telegeography_cables,1
+norte-conectado-infovia-01,Norte Conectado (Infovia 01),2023.0,1100.0,0,11,"Alloha Fibra, América Móvil (Claro), Aquamar Group, BR Fibra, ICOM Telecom, Ozônio Telecom, PPLink, SEA Telecom, TIM Brasil, Telefonica, V.tal, Você Telecom","HMN Tech, HT Cabos",telegeography_cables,1
+norte-conectado-infovia-02,Norte Conectado (Infovia 02),2026.0,1796.0,0,13,Entidade Administradora da Faixa (EAF),ZTT,telegeography_cables,1
+norte-conectado-infovia-03,Norte Conectado (Infovia 03),2025.0,600.0,0,8,Entidade Administradora da Faixa (EAF),ZTT,telegeography_cables,1
+norte-conectado-infovia-04,Norte Conectado (Infovia 04),2026.0,515.0,0,4,Entidade Administradora da Faixa (EAF),ZTT,telegeography_cables,1
+projeto-amaznia-conectada-pac-01,Projeto Amazônia Conectada (PAC 01),2017.0,800.0,0,6,Government of Brazil,Unavailable,telegeography_cables,1
+projeto-amaznia-conectada-pac-02,Projeto Amazônia Conectada (PAC 02),2021.0,1001.0,0,5,Government of Brazil,Unavailable,telegeography_cables,1
+barat-timur-indonesia-2-bti-2,Barat Timur Indonesia-2 (BTI-2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+trans-caspian-fiber-optic-cable,Trans-Caspian Fiber Optic Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kangaroo-island-2,Kangaroo Island 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bangladesh-private-cable-system-bpcs,Bangladesh Private Cable System (BPCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+vstervik-visby,Västervik-Visby,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+oskarshamn-visby,Oskarshamn-Visby,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-6-gc6,GlobalConnect 6 (GC6),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+vietnam-singapore-cable-system-vts,Vietnam-Singapore Cable System (VTS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lake-michigan-crossing-peninsula-and-island-connection,Lake Michigan Crossing Peninsula and Island Connection,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lake-michigan-chicago-crossing,Lake Michigan Chicago Crossing,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nongsa-changi,Nongsa-Changi,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+insica,INSICA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ioema-1,IOEMA-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+umoja,Umoja,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+proa,Proa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taihei,Taihei,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+new-cam-ring,New CAM Ring,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sto-hel-one,STO-HEL-One,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sovetskaya-gavan-uglegorsk,Sovetskaya Gavan-Uglegorsk,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+rompin-tioman-island,Rompin-Tioman Island,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+besut-perhentian-islands,Besut-Perhentian Islands,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lumut-pangkor-island,Lumut-Pangkor Island,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+calvi-st-florent,Calvi-St. Florent,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+romsar-2,ROMSAR 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+les-dhyres-cable,Îles d'Hyères Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lic-lin-lamp,Lic-Lin-Lamp,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ruppione-isolella,Ruppione-Isolella,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sarco,SARCO,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+honomoana,Honomoana,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tabua,Tabua,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawaiian-islands-fiber-link-hifl,Hawaiian Islands Fiber Link (HIFL),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+5-villages-6-islands,5 Villages 6 Islands,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+izu-islands-cable-system,Izu Islands Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hachijojima-mainland,Hachijojima-Mainland,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ogasawara-cable-network,Ogasawara Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bulikula,Bulikula,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+halaihai,Halaihai,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+coral-bridge,Coral Bridge,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tamtam,Tamtam,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+barat-timur-indonesia-1-bti-1,Barat Timur Indonesia-1 (BTI-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jeju-udo,Jeju-Udo,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+domestic-submarine-cable-of-maldives-dscom,Domestic Submarine Cable of Maldives (DSCoM),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nome-to-homer-express-nthe,Nome to Homer Express (NTHE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mercator,Mercator,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+iceni,Iceni,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tam-1,TAM-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cross-sound-cable,Cross Sound Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tautira-teahupoo,Tautira-Teahupo'o,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+whidbey-island-seattle,Whidbey Island-Seattle,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+whidbey-island-everett,Whidbey Island-Everett,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+whidbey-island-hat-island,Whidbey Island-Hat Island,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+whidbey-island-camano-island,Whidbey Island-Camano Island,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+israel-coasting-1-ic-1,Israel Coasting 1 (IC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+zayo-festoon,Zayo Festoon,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fish-south,FISH South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+patara-2,Patara-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nuvem,Nuvem,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tko-connect,TKO Connect,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+airraq,Airraq,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+javali,JAVALI,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jalapati,Jalapati,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fish-north,FISH North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sydney-melbourne-adelaide-perth-smap,Sydney-Melbourne-Adelaide-Perth (SMAP),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ulleung-mainland-2,Ulleung-Mainland 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jeju-mainland-3,Jeju-Mainland 3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jeju-mainland-2,Jeju-Mainland 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+yuza-tobishima,Yuza-Tobishima,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+yui,YUI,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+beaufort,Beaufort,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tpu,TPU,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sihanoukville-hong-kong-shv-hk,Sihanoukville-Hong Kong (SHV-HK),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+american-1,AmeriCan-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+anjana,Anjana,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sunoque-ii,Sunoque II,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sunoque-i,Sunoque I,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+vancouver-bowen-island-vancouver-island,Vancouver-Bowen Island-Vancouver Island,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fish-west,FISH West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sunoque-iii,Sunoque III,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+t3,T3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+submarine-cable-in-the-philippines-scip,Submarine Cable in the Philippines (SCiP),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taiwan-penghu-kinmen-matsu-no-2-tpkm2,Taiwan Penghu Kinmen Matsu No.2 (TPKM2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+red2med,Red2Med,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+r100-north,R100 North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+piano-isole-minori,Piano Isole Minori,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+east-micronesia-cable-system-emcs,East Micronesia Cable System (EMCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+energy-bridge-cable,Energy Bridge Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-aurora,GlobalConnect Aurora,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tikal-amx3,TIKAL-AMX3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+connected-coast,Connected Coast,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+haikou-beihai-cable,Haikou-Beihai Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ningbo-zhoushan-cable,Ningbo-Zhoushan Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dalian-yantai-cable,Dalian-Yantai Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+petropavlovsk-kamchatsky---anadyr,Petropavlovsk-Kamchatsky - Anadyr,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cadmos-2,CADMOS-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+norfest,Norfest,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+arimao,ARIMAO,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eastern-light-sweden-finland-ii,Eastern Light Sweden-Finland II,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+timor-leste-south-submarine-cable-tlssc,Timor-Leste South Submarine Cable (TLSSC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+medloop,Medloop,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-link-cable-alc,Asia Link Cable (ALC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+manta,MANTA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taiwan-penghu-kinmen-matsu-no-3-tpkm3,Taiwan Penghu Kinmen Matsu No.3 (TPKM3),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+unitirreno,Unitirreno,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kochi-lakshadweep-islands-kli-sofc,Kochi-Lakshadweep Islands (KLI-SOFC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sagres,Sagres,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+continente-madeira,Continente-Madeira,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+almera-melilla-alme,Almería-Melilla (ALME),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+roquetas-melilla-cam,Roquetas-Melilla (CAM),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+philippine-domestic-submarine-cable-network-pdscn,Philippine Domestic Submarine Cable Network (PDSCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+groix-4,Groix 4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+thetis,Thetis,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+juno,JUNO,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+vodafone-greece-domestic,Vodafone Greece Domestic,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apocs-1,APOCS 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apocs-2,APOCS 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+unitel-north-submarine-cable-unsc,Unitel North Submarine Cable (UNSC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+romulo,Romulo,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+penbal-4,Penbal-4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+trans-adriatic-express-tae,Trans Adriatic Express (TAE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+olisipo,Olisipo,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+carnival-submarine-network-1-csn-1,Carnival Submarine Network-1 (CSN-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sea-h2x,SEA-H2X,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hronn,Hronn,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cook-strait,Cook Strait,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+minoas-east-and-west,Minoas East and West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apollo-east-and-west,Apollo East and West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seamewe-6,SeaMeWe-6,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+biznet-nusantara-cable-system-1-bncs-1,Biznet Nusantara Cable System-1 (BNCS-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hokkaido-akita-cable,Hokkaido-Akita Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+topaz,Topaz,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+medusa-submarine-cable-system,Medusa Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+saudi-vision,Saudi Vision,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+scotland-northern-ireland-4,Scotland-Northern Ireland 4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+scotland-northern-ireland-3,Scotland-Northern Ireland 3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawaiki-nui-1,Hawaiki Nui 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+blue,Blue,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+raman,Raman,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kingisepp-kaliningrad-system-baltika,Kingisepp-Kaliningrad System (Baltika),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+deep-blue-one,Deep Blue One,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apricot,Apricot,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+scylla,Scylla,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+polar-express,Polar Express,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+darwin-jakarta-singapore-cable-djsc,Darwin-Jakarta-Singapore Cable (DJSC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+zeus,Zeus,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+india-asia-xpress-iax,India Asia Xpress (IAX),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+india-europe-xpress-iex,India Europe Xpress (IEX),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+firmina,Firmina,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ionian,Ionian,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sape-labuan-bajo-ende-kupang,Sape-Labuan Bajo-Ende-Kupang,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kupang-alor-cable-systems,Kupang-Alor Cable Systems,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+denpasar-waingapu-cable-systems,Denpasar-Waingapu Cable Systems,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bifrost,Bifrost,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+echo,Echo,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jamaica-submarine-cable-festoon-system-jscfs,Jamaica Submarine Cable Festoon System (JSCFS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kafos,KAFOS,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jakarta-bangka-batam-singapore-b2js,Jakarta-Bangka-Batam-Singapore (B2JS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+maroc-telecom-west-africa,Maroc Telecom West Africa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+africa-1,Africa-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+natitua-sud,Natitua Sud,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cogim,COGIM,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+au-aleutian,AU-Aleutian,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sealink,SEALink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+colombian-festoon,Colombian Festoon,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+iris,IRIS,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+amitie,Amitie,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gulf-of-mexico-fiber-optic-network,Gulf of Mexico Fiber Optic Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+havsil,Havsil,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+grace-hopper,Grace Hopper,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-direct-cable-adc,Asia Direct Cable (ADC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eaufon-3,EAUFON 3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eaufon-2,EAUFON 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eaufon-1,EAUFON 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+2africa,2Africa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sir-abu-nuayr-cable,Sir Abu Nu’ayr Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+senegal-horn-of-africa-regional-express-share-cable,Senegal Horn of Africa Regional Express (SHARE) Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gondwana-2picot-2,Gondwana-2/Picot-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+java-kalimantan-sulawesi-jakasusi,Java-Kalimantan-Sulawesi (JAKASUSI),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ixchel,Ixchel,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dos-continentes-l-ll,DOS CONTINENTES l & ll,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+crosschannel-fibre,CrossChannel Fibre,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+x-link-submarine-cable,X-Link Submarine Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+maldives-sri-lanka-cable-msc,Maldives Sri Lanka Cable (MSC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eviny-digital,Eviny Digital,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tokelau-submarine-cable,Tokelau Submarine Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mist,MIST,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+la-gomera-el-hierro,La Gomera-El Hierro,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tegopa,TEGOPA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tenerife-la-palma,Tenerife-La Palma,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tenerife-gran-canaria,Tenerife-Gran Canaria,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+candalta,CANDALTA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+transcan-2,TRANSCAN-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+converge-domestic-submarine-cable-network-cdscn,Converge Domestic Submarine Cable Network (CDSCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+guadeloupe-cable-des-iles-du-sud-gcis,Guadeloupe Cable des Iles du Sud (GCIS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+rockabill,Rockabill,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+oman-australia-cable-oac,Oman Australia Cable (OAC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hainan-to-hong-kong-express-h2he,Hainan to Hong Kong Express (H2HE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ketchcan1-submarine-fiber-cable-system,KetchCan1 Submarine Fiber Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+equiano,Equiano,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+south-pacific-cable-system-spcsmistral,South Pacific Cable System (SPCS)/Mistral,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+n0r5ke-viking,N0r5ke Viking,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+okinawa-cellular-cable,Okinawa Cellular Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cabo-verde-telecom-domestic-submarine-cable-phase-2,Cabo Verde Telecom Domestic Submarine Cable Phase 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cabo-verde-telecom-domestic-submarine-cable-phase-3,Cabo Verde Telecom Domestic Submarine Cable Phase 3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cabo-verde-telecom-domestic-submarine-cable-phase-1,Cabo Verde Telecom Domestic Submarine Cable Phase 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+miyazaki-okinawa-cable-moc,Miyazaki-Okinawa Cable (MOC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+japan-information-highway-jih,Japan Information Highway (JIH),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lazaro-cardenas-manzanillo-santiago-submarine-cable-system-lcmsscs,Lazaro Cardenas-Manzanillo Santiago Submarine Cable System (LCMSSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fibra-optica-al-pacfico,Fibra Optica al Pacífico,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+batam-sarawak-internet-cable-system-basics,Batam Sarawak Internet Cable System (BaSICS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eastern-light-sweden-finland-i,Eastern Light Sweden-Finland I,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sorsogon-samar-submarine-fiber-optical-interconnection-project-sssfoip,Sorsogon-Samar Submarine Fiber Optical Interconnection Project (SSSFOIP),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+manatua,Manatua,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+malta-italy-interconnector,Malta-Italy Interconnector,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+caribbean-regional-communications-infrastructure-program-carcip,Caribbean Regional Communications Infrastructure Program (CARCIP),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+energinet-laeso-varberg,Energinet Laeso-Varberg,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+energinet-lyngsa-laeso,Energinet Lyngsa-Laeso,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+skagenfiber-west,Skagenfiber West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pasuli,PASULI,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sjjk,SJJK,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-5-phase-2,Link 5 Phase-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-4-phase-2,Link 4 Phase-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-3-phase-2,Link 3 Phase-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-2-phase-2,Link 2 Phase-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-1-phase-2,Link 1 Phase-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-3-phase-1,Link 3 Phase-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-2-phase-1,Link 2 Phase-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+link-1-phase-1,Link 1 Phase-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+prat,Prat,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ultramar-ge,Ultramar GE,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+umo,UMO,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+polar-circle-cable,Polar Circle Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tverrlinken,Tverrlinken,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+national-digital-transmission-network-ndtn,National Digital Transmission Network (NDTN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+rnne-rdvig,Rønne-Rødvig,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+chennai-andaman-nicobar-islands-cable-cani,Chennai-Andaman & Nicobar Islands Cable (CANI),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dunant,Dunant,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gulf-of-california-cable,Gulf of California Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+coral-sea-cable-system-cs,Coral Sea Cable System (CS²),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+malbec,Malbec,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+st-pierre-and-miquelon-cable,St. Pierre and Miquelon Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sea2shore,sea2shore,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nordbalt,NordBalt,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+southeast-asia-japan-cable-2-sjc2,Southeast Asia-Japan Cable 2 (SJC2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+no-uk,NO-UK,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sakhalin-kuril-islands-cable,Sakhalin-Kuril Islands Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+meltingpot-indianoceanic-submarine-system-metiss,Meltingpot Indianoceanic Submarine System (METISS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+java-bali-cable-system-jbcs,Java Bali Cable System (JBCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jakarta-surabaya-cable-system-jayabaya,Jakarta Surabaya Cable System (JAYABAYA),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+southern-cross-next,Southern Cross NEXT,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+havfrueaec-2,Havfrue/AEC-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+damai-cable-system,DAMAI Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+japan-guam-australia-south-jga-s,Japan-Guam-Australia South (JGA-S),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+japan-guam-australia-north-jga-n,Japan-Guam-Australia North (JGA-N),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tonga-domestic-cable-extension-tdce,Tonga Domestic Cable Extension (TDCE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+paniolo-cable-network,Paniolo Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bodo-rost-cable,Bodo-Rost Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+malta-gozo-cable,Malta-Gozo Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mauritius-and-rodrigues-submarine-cable-system-mars,Mauritius and Rodrigues Submarine Cable System (MARS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+palapa-ring-east,Palapa Ring East,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+palapa-ring-west,Palapa Ring West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+palapa-ring-middle,Palapa Ring Middle,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ulysses-2,Ulysses 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+natitua,Natitua,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+curie,Curie,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+venezuelan-festoon,Venezuelan Festoon,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fibra-optica-austral,Fibra Optica Austral,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+djibouti-africa-regional-express-1-dare-1,Djibouti Africa Regional Express 1 (DARE 1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+peace-cable,PEACE Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jupiter,JUPITER,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+crosslake-fibre,Crosslake Fibre,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gtmo-pr,GTMO-PR,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gtmo-1,GTMO-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+havhingstennorth-sea-connect-nsc,Havhingsten/North Sea Connect (NSC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+havhingstenceltixconnect-2-cc-2,Havhingsten/CeltixConnect-2 (CC-2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cobracable,COBRAcable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kanawa,Kanawa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fly-lion3,FLY-LION3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nelson-levin,Nelson-Levin,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+png-lng,PNG LNG,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kumul-domestic-submarine-cable-system,Kumul Domestic Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pukpuk-1-cable-system,Pukpuk-1 Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+strategic-evolution-underwater-link-seul,Strategic Evolution Underwater Link (SEUL),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+labuan-brunei-submarine-cable,Labuan-Brunei Submarine Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+marea,MAREA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+brazilian-festoon,Brazilian Festoon,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nationwide-submarine-cable-ooredoo-maldives-nascom,Nationwide Submarine Cable Ooredoo Maldives (NaSCOM),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+saba-statia-cable-system-sscs,"Saba, Statia Cable System (SSCS)",,,0,0,Unavailable,Unavailable,telegeography_cables,1
+east-west-submarine-cable-system,East-West Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+smpcs-packet-1,SMPCS Packet-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+smpcs-packet-2,SMPCS Packet-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+luwuk-tutuyan-cable-system-ltcs,Luwuk Tutuyan Cable System (LTCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tarakan-selor-cable-system-tscs,Tarakan Selor Cable System (TSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sumatera-bangka-cable-system-sbcs,Sumatera Bangka Cable System (SBCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+s-u-b-cable-system,S-U-B Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+indigo-west,INDIGO-West,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+junior,Junior,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+skagerrak-4,Skagerrak 4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+atisa,Atisa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tui-samoa,Tui-Samoa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bugio,BUGIO,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+quintillion-subsea-cable-network,Quintillion Subsea Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+arsat-submarine-fiber-optic-cable,ARSAT Submarine Fiber Optic Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+balok,BALOK,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pencan-9,Pencan-9,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taba-aqaba,Taba-Aqaba,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tannat,Tannat,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+south-atlantic-inter-link-sail,South Atlantic Inter Link (SAIL),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+brusa,BRUSA,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ellalink,EllaLink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gulf2africa-g2a,Gulf2Africa (G2A),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+nigeria-cameroon-submarine-cable-system-ncscs,Nigeria Cameroon Submarine Cable System (NCSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+san-andres-isla-tolu-submarine-cable-sait,San Andres Isla Tolu Submarine Cable (SAIT),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lynn-canal-fiber,Lynn Canal Fiber,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawaii-island-fibre-network-hifn,Hawaii Island Fibre Network (HIFN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawaii-inter-island-cable-system-hics,Hawaii Inter-Island Cable System (HICS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+unisur,Unisur,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+transcan-3,TRANSCAN-3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+northern-lights,Northern Lights,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jambi-batam-cable-system-jiba,Jambi-Batam Cable System (JIBA),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+segunda-fos-canal-de-chacao,Segunda FOS Canal de Chacao,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sistem-kabel-rakyat-1malaysia-skr1m,Sistem Kabel Rakyat 1Malaysia (SKR1M),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+aqualink,Aqualink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bt-highlands-and-islands-submarine-cable-system,BT Highlands and Islands Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+c-lion1,C-Lion1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+far-east-submarine-cable-system,Far East Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+isles-of-scilly-cable,Isles of Scilly Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+new-cross-pacific-ncp-cable-system,New Cross Pacific (NCP) Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+monet,Monet,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sea-us,SEA-US,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+faster,FASTER,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kerch-strait-cable,Kerch Strait Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+north-west-cable-system,North-West Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+terra-sw,TERRA SW,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alaska-united-turnagain-arm-auta,Alaska United Turnagain Arm (AUTA),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+acs-alaska-oregon-network-akorn,ACS Alaska-Oregon Network (AKORN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+adria-1,Adria-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+africa-coast-to-europe-ace,Africa Coast to Europe (ACE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alaska-united-east-au-east,Alaska United East (AU-East),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alaska-united-west-au-west,Alaska United West (AU-West),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alba-1,ALBA-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+aletar,Aletar,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alonso-de-ojeda,Alonso de Ojeda,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+americas-i-north,Americas-I North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+amerigo-vespucci,Amerigo Vespucci,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+antillas-1,Antillas 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seax-1,SEAX-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apollo,Apollo,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+arcos,ARCOS,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-america-gateway-aag-cable-system,Asia-America Gateway (AAG) Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+atlantic-crossing-1-ac-1,Atlantic Crossing-1 (AC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+atlas-offshore,Atlas Offshore,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+australia-japan-cable-ajc,Australia-Japan Cable (AJC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+apcn-2,APCN-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+australia-singapore-cable-asc,Australia-Singapore Cable (ASC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+azores-fiber-optic-system-afos,Azores Fiber Optic System (AFOS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bahamas-2,Bahamas 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bahamas-domestic-submarine-network-bdsni,Bahamas Domestic Submarine Network (BDSNi),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bahamas-internet-cable-system-bics,Bahamas Internet Cable System (BICS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+balalink,Balalink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+baltica,Baltica,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bass-strait-1,Bass Strait-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bass-strait-2,Bass Strait-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+basslink,Basslink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+batam-singapore-cable-system-bscs,Batam Singapore Cable System (BSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sweden-latvia,Sweden-Latvia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bcs-east-west-interlink,BCS East-West Interlink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bcs-north---phase-1,BCS North - Phase 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bcs-north---phase-2,BCS North - Phase 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+berytar,BERYTAR,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bharat-lanka-cable-system,Bharat Lanka Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bicentenario,Bicentenario,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+botnia,Botnia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bt-mt-1,BT-MT-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cadmos,CADMOS,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cam-ring,CAM Ring,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+canalink,Canalink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cantat-3,CANTAT-3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+caribbean-bermuda-u-s-cbus,Caribbean-Bermuda U.S. (CBUS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+caucasus-cable-system,Caucasus Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cayman-jamaica-fiber-system-cjfs,Cayman-Jamaica Fiber System (CJFS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ceiba-2,Ceiba-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ceiba-1,Ceiba-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+celtixconnect-1-cc-1,CeltixConnect-1 (CC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+columbus-ii-b,Columbus-II b,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+columbus-iii-azores-portugal,Columbus-III Azores-Portugal,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+comoros-domestic-cable-system,Comoros Domestic Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+corse-continent-4-cc4,Corse-Continent 4 (CC4),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+corse-continent-5-cc5,Corse-Continent 5 (CC5),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+danica-north,Danica North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+danice,DANICE,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+denmark-sweden-17,Denmark-Sweden 17,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+denmark-sweden-18,Denmark-Sweden 18,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dhiraagu-cable-network,Dhiraagu Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dhiraagu-slt-submarine-cable-network,Dhiraagu-SLT Submarine Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+east-west-cable-ewc,East-West Cable (EWC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eastern-caribbean-fiber-system-ecfs,Eastern Caribbean Fiber System (ECFS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ec-link,EC Link,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+elektra-globalconnect-1-gc1,Elektra-GlobalConnect 1 (GC1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+emerald-bridge-fibres,Emerald Bridge Fibres,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+aec-1,AEC-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+esat-2,ESAT-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+est-tet,Est-Tet,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+farice-1,FARICE-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fehmarn-blt,Fehmarn Bält,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fiber-optic-gulf-fog,Fiber Optic Gulf (FOG),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fibralink,Fibralink,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+finland-estonia-2-eesf-2,Finland-Estonia 2 (EESF-2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+flag-atlantic-1-fa-1,FLAG Atlantic-1 (FA-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+flag-north-asia-loopreach-north-asia-loop,FLAG North Asia Loop/REACH North Asia Loop,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+flores-corvo-cable-system,Flores-Corvo Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gemini-bermuda,Gemini Bermuda,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+geo-eirgrid,Geo-Eirgrid,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+georgia-russia,Georgia-Russia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+germany-denmark-3,Germany-Denmark 3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+glo-1,Glo-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+southern-caribbean-fiber,Southern Caribbean Fiber,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-2-gc2,GlobalConnect 2 (GC2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-3-gc3,GlobalConnect 3 (GC3),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-kpn,GlobalConnect-KPN,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globenet,GlobeNet,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+go-1-mediterranean-cable-system,GO-1 Mediterranean Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gondwana-1,Gondwana-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+oteglobe-kokkini-bari,OTEGLOBE Kokkini-Bari,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+greenland-connect-north,Greenland Connect North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+greenland-connect,Greenland Connect,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+guam-okinawa-kyushu-incheon-goki,Guam Okinawa Kyushu Incheon (GOKI),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+guernsey-jersey-4,Guernsey-Jersey-4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+gulf-bridge-international-cable-systemmiddle-east-north-africa-cable-system-gbicsmena,Gulf Bridge International Cable System/Middle East North Africa Cable System (GBICS/MENA),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hantru1-cable-system,HANTRU1 Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawaiki,Hawaiki,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hawk,Hawk,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+exa-north-and-south,EXA North and South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+exa-express,EXA Express,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+high-capacity-undersea-guernsey-optical-fibre-hugo,High-capacity Undersea Guernsey Optical-fibre (HUGO),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hokkaido-sakhalin-cable-system-hscs,Hokkaido-Sakhalin Cable System (HSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+honotua,Honotua,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+i2i-cable-network-i2icn,i2i Cable Network (i2icn),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ingrid,INGRID,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+interchange-cable-network-1-icn1,Interchange Cable Network 1 (ICN1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+globalconnect-denmark-sweden,GlobalConnect Denmark-Sweden,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-albania,Italy-Albania,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-croatia,Italy-Croatia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-greece-1-ig-1,Italy-Greece 1 (IG-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-libya,Italy-Libya,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-monaco,Italy-Monaco,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jaka2ladema,JaKa2LaDeMa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jakabare,JAKABARE,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+janna,Janna,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+chi,CHI,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jerry-newton,Jerry Newton,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jonah,Jonah,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kattegat-2,Kattegat 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kodiak-kenai-fiber-link-kkfl,Kodiak Kenai Fiber Link (KKFL),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+korea-japan-cable-network-kjcn,Korea-Japan Cable Network (KJCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+kuwait-iran,Kuwait-Iran,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lanis-1,Lanis-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lanis-2,Lanis-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+latvia-sweden-1-lv-se-1,Latvia-Sweden 1 (LV-SE 1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lfon-libyan-fiber-optic-network,LFON (Libyan Fiber Optic Network),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+libreville-port-gentil-cable,Libreville-Port Gentil Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lower-indian-ocean-network-lion,Lower Indian Ocean Network (LION),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lower-indian-ocean-network-2-lion2,Lower Indian Ocean Network 2 (LION2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mainone,MainOne,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+malaysia-cambodia-thailand-mct-cable,Malaysia-Cambodia-Thailand (MCT) Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mariana-guam-cable,Mariana-Guam Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mataram-kupang-cable-system-mkcs,Mataram Kupang Cable System (MKCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+matrix-cable-system,Matrix Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+maya-1-2,Maya-1.2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+med-cable-network,Med Cable Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+melita-1,Melita 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mid-atlantic-crossing-mac,Mid-Atlantic Crossing (MAC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+moratelindo-international-cable-system-1-mic-1,Moratelindo International Cable System-1 (MIC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+northstar,NorthStar,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+oran-valencia-orval,Oran-Valencia (ORVAL),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pacific-caribbean-cable-system-pccs,Pacific Caribbean Cable System (PCCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pacific-crossing-1-pc-1,Pacific Crossing-1 (PC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+palawan-iloilo-cable-system,Palawan-Iloilo Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pan-american-crossing-pac,Pan-American Crossing (PAC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+penbal-5,Penbal-5,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pencan-8,Pencan-8,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+persona,Persona,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+picot-1,Picot-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pipe-pacific-cable-1-ppc-1,PIPE Pacific Cable-1 (PPC-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+poseidon,POSEIDON,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+qatar-u-a-e-submarine-cable-system,Qatar-U.A.E. Submarine Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+fos-quellon-chacabuco,FOS Quellon-Chacabuco,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+russia-japan-cable-network-rjcn,Russia-Japan Cable Network (RJCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+safe,SAFE,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sint-maarten-puerto-rico-network-one-smpr-1,Sint Maarten Puerto Rico Network One (SMPR-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+samoa-american-samoa-sas,Samoa-American Samoa (SAS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sat-3wasc,SAT-3/WASC,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+scandinavian-ring-north,Scandinavian Ring North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+scandinavian-ring-south,Scandinavian Ring South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seabras-1,Seabras-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seychelles-to-east-africa-system-seas,Seychelles to East Africa System (SEAS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+shefa-2,SHEFA-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+silphium,Silphium,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sirius-south,Sirius South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sirius-north,Sirius North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+south-america-1-sam-1,South America-1 (SAm-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+south-american-crossing-sac,South American Crossing (SAC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+south-atlantic-cable-system-sacs,South Atlantic Cable System (SACS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+southern-cross-cable-network-sccn,Southern Cross Cable Network (SCCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+st-thomas-st-croix-system,St. Thomas-St. Croix System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+subcan-link-1,Subcan Link 1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+subcan-link-2,Subcan Link 2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+suriname-guyana-submarine-cable-system-sg-scs,Suriname-Guyana Submarine Cable System (SG-SCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+svalbard-undersea-cable-system,Svalbard Undersea Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+sweden-estonia-ee-s-1,Sweden-Estonia (EE-S 1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taino-carib,Taino-Carib,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+taiwan-strait-express-1-tse-1,Taiwan Strait Express-1 (TSE-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+exelera-north,Exelera North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tangerine,Tangerine,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tasman-global-access-tga-cable,Tasman Global Access (TGA) Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-atlantic-south,Tata TGN-Atlantic South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-gulf,Tata TGN-Gulf,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-pacific,Tata TGN-Pacific,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-tata-indicom,Tata TGN-Tata Indicom,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-western-europe,Tata TGN-Western Europe,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+te-northtgn-eurasiaseacomalexandrosmedex,TE North/TGN-Eurasia/SEACOM/Alexandros/Medex,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+telstra-endeavour,Telstra Endeavour,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+thailand-indonesia-singapore-tis,Thailand-Indonesia-Singapore (TIS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+the-east-african-marine-system-teams,The East African Marine System (TEAMS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tobrok-emasaed-cable-system,Tobrok-Emasaed Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tonga-cable,Tonga Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+trans-pacific-express-tpe-cable-system,Trans-Pacific Express (TPE) Cable System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+transworld-tw1,Transworld (TW1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tt1,TT1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+turcyos-1,Turcyos-1,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+turcyos-2,Turcyos-2,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+uae-iran,UAE-Iran,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+ugarit,UGARIT,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+uk-channel-islands-8,UK-Channel Islands-8,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+unity,Unity,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+west-africa-cable-system-wacs,West Africa Cable System (WACS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+cross-straits-cable-network-cscn,Cross-Straits Cable Network (CSCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+yellow,Yellow,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+baltic-sea-submarine-cable,Baltic Sea Submarine Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+solas,Solas,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pan-european-crossing-uk-ireland,Pan European Crossing (UK-Ireland),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+alaska-united-southeast-au-se,Alaska United Southeast (AU-SE),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+america-movil-submarine-cable-system-1-amx-1,America Movil Submarine Cable System-1 (AMX-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+avassa,Avassa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+indigo-central,INDIGO-Central,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eastern-africa-submarine-system-eassy,Eastern Africa Submarine System (EASSy),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+dumai-melaka-cable-system-dmcs,Dumai-Melaka Cable System (DMCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+aden-djibouti,Aden-Djibouti,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+chuuk-pohnpei-cable,Chuuk-Pohnpei Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pacific-light-cable-network-plcn,Pacific Light Cable Network (PLCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+colombia-florida-express-cfx-1,Colombia-Florida Express (CFX-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+imewe,IMEWE,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seacomtata-tgn-eurasia,SEACOM/Tata TGN-Eurasia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+middle-east-north-africa-mena-cable-systemgulf-bridge-international,Middle East North Africa (MENA) Cable System/Gulf Bridge International,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+saudi-arabia-sudan-2-sas-2,Saudi Arabia-Sudan-2 (SAS-2),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+eac-c2c,EAC-C2C,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-submarine-cable-express-asecahaya-malaysia,Asia Submarine-cable Express (ASE)/Cahaya Malaysia,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pldt-domestic-fiber-optic-network-dfon,PLDT Domestic Fiber Optic Network (DFON),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+tata-tgn-intra-asia-tgn-ia,Tata TGN-Intra Asia (TGN-IA),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-pacific-gateway-apg,Asia Pacific Gateway (APG),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seamewe-4,SeaMeWe-4,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+batam-rengit-cable-system-brcs,Batam-Rengit Cable System (BRCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+southeast-asia-japan-cable-sjc,Southeast Asia-Japan Cable (SJC),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+europe-india-gateway-eig,Europe India Gateway (EIG),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+asia-africa-europe-1-aae-1,Asia Africa Europe-1 (AAE-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pishgaman-oman-iran-poi-network,Pishgaman Oman Iran (POI) Network,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+omranepeg,OMRAN/EPEG,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bay-of-bengal-gateway-bbg,Bay of Bengal Gateway (BBG),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jasuka,JaSuKa,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+indonesia-global-gateway-igg-system,Indonesia Global Gateway (IGG) System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+global-caribbean-network-gcn,Global Caribbean Network (GCN),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+jakarta-bangka-bintan-batam-singapore-b3js,Jakarta-Bangka-Bintan-Batam-Singapore (B3JS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+seamewe-5,SeaMeWe-5,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+italy-malta,Italy-Malta,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+epic-malta-sicily-cable-system-emscs,Epic Malta-Sicily Cable System (EMSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+hannibal-system,HANNIBAL System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+didon,Didon,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+mednautilus-submarine-system,MedNautilus Submarine System,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+channel-islands-9-liberty-submarine-cable,Channel Islands-9 Liberty Submarine Cable,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+circe-south,Circe South,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+uk-channel-islands-7,UK-Channel Islands-7,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pan-european-crossing-uk-belgium,Pan European Crossing (UK-Belgium),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+concerto,Concerto,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+farland-north,Farland North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+circe-north,Circe North,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+e-llan,E-LLAN,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+lanis-3,Lanis-3,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+finland-estonia-3-eesf-3,Finland-Estonia 3 (EESF-3),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+bcs-east,BCS East,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+batam-dumai-melaka-bdm,Batam Dumai Melaka (BDM),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+pgascom,PGASCOM,,,0,0,Unavailable,Unavailable,telegeography_cables,1
+boracay-palawan-submarine-cable-system-bpscs,Boracay-Palawan Submarine Cable System (BPSCS),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+saudi-arabia-sudan-1-sas-1,Saudi Arabia-Sudan-1 (SAS-1),,,0,0,Unavailable,Unavailable,telegeography_cables,1
+falcon,FALCON,,,0,0,Unavailable,Unavailable,telegeography_cables,1

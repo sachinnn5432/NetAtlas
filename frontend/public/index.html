@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NETATLAS — Global Internet Infrastructure Intelligence</title>
+
+  <!-- Typography: Inter & IBM Plex Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Leaflet & MarkerCluster CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+
+  <!-- NetAtlas Stylesheet -->
+  <link rel="stylesheet" href="css/netatlas.css">
+</head>
+<body>
+
+  <!-- Top Application Header -->
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="brand-title">NETATLAS</div>
+      <div class="brand-subtitle">Infrastructure Intelligence Platform</div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs">
+      <button class="nav-tab-btn active" data-view="map-view">Global Map</button>
+      <button class="nav-tab-btn" data-view="cables-view">Submarine Cables</button>
+      <button class="nav-tab-btn" data-view="ixps-view">Internet Exchanges</button>
+      <button class="nav-tab-btn" data-view="facilities-view">Facilities</button>
+      <button class="nav-tab-btn" data-view="analytics-view">Topology & Graphs</button>
+      <button class="nav-tab-btn" data-view="regional-view">Regional Density</button>
+      <button class="nav-tab-btn" data-view="stories-view">Data Stories</button>
+      <button class="nav-tab-btn" data-view="quality-view">Data Quality & Provenance</button>
+    </nav>
+
+    <!-- Contextual KPI Metrics Bar -->
+    <div class="kpi-metrics-bar">
+      <div class="kpi-item">
+        <span class="kpi-value" id="kpi-cables">—</span>
+        <span class="kpi-label">Subsea Cables</span>
+      </div>
+      <div class="kpi-item">
+        <span class="kpi-value" id="kpi-landings">—</span>
+        <span class="kpi-label">Landing Stations</span>
+      </div>
+      <div class="kpi-item">
+        <span class="kpi-value" id="kpi-ixps">—</span>
+        <span class="kpi-label">Internet Exchanges</span>
+      </div>
+      <div class="kpi-item">
+        <span class="kpi-value" id="kpi-facilities">—</span>
+        <span class="kpi-label">Colocation Sites</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Viewport -->
+  <main class="main-viewport">
+
+    <!-- View 1: Main Geographical Canvas -->
+    <div class="map-canvas-container">
+      <div id="map"></div>
+
+      <!-- Search & Geographic Jump Controls -->
+      <div class="map-search-bar">
+        <input type="text" id="global-search-input" class="search-input" placeholder="Search cables, exchanges, cities, or operators..." autocomplete="off">
+        <select id="country-filter" class="country-select">
+          <option value="">All Economies</option>
+        </select>
+        <div id="search-dropdown" class="search-dropdown-results"></div>
+      </div>
+
+      <!-- Map Layer Panel -->
+      <div class="map-layer-panel">
+        <div class="panel-header">
+          <span>Infrastructure Layers</span>
+        </div>
+        <div class="layer-toggle-group">
+          <label class="layer-toggle-item">
+            <input type="checkbox" id="toggle-cables" checked>
+            <span class="legend-badge badge-cable"></span>
+            <span>Submarine Cable Routes</span>
+          </label>
+          <label class="layer-toggle-item">
+            <input type="checkbox" id="toggle-landings" checked>
+            <span class="legend-badge badge-landing"></span>
+            <span>Landing Stations</span>
+          </label>
+          <label class="layer-toggle-item">
+            <input type="checkbox" id="toggle-facilities" checked>
+            <span class="legend-badge badge-facility"></span>
+            <span>Colocation Facilities</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Detail Inspector Panel -->
+      <div id="detail-inspector" class="detail-inspector-panel">
+        <div class="inspector-header">
+          <div>
+            <div id="inspector-title" class="inspector-title">—</div>
+            <div id="inspector-type" class="inspector-type">—</div>
+          </div>
+          <button class="inspector-close-btn" onclick="document.getElementById('detail-inspector').style.display='none';">&times;</button>
+        </div>
+        <div id="inspector-body" class="inspector-body"></div>
+      </div>
+    </div>
+
+    <!-- View 2: Submarine Cables Explorer -->
+    <div id="cables-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Global Submarine Fiber-Optic Cable Systems</h2>
+        <p class="view-description">Verified physical maritime routes, commercial consortia, ready-for-service (RFS) dates, and landing station counts.</p>
+      </div>
+      <div class="research-table-container">
+        <table class="research-table">
+          <thead>
+            <tr>
+              <th>Cable System</th>
+              <th>Commission Year</th>
+              <th>Length</th>
+              <th>Operational Status</th>
+              <th>Landing Stations</th>
+              <th>Owners / Consortium</th>
+            </tr>
+          </thead>
+          <tbody id="cables-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- View 3: Internet Exchanges Explorer -->
+    <div id="ixps-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Global Internet Exchange Points (IXPs)</h2>
+        <p class="view-description">Layer-2 switching fabrics facilitating peering and mutual traffic exchange between autonomous systems.</p>
+      </div>
+      <div class="research-table-container">
+        <table class="research-table">
+          <thead>
+            <tr>
+              <th>Exchange Name</th>
+              <th>City</th>
+              <th>Country</th>
+              <th>Macro-Region</th>
+              <th>Participant ASNs</th>
+              <th>Facilities</th>
+              <th>Protocols</th>
+            </tr>
+          </thead>
+          <tbody id="ixp-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- View 4: Colocation Facilities Explorer -->
+    <div id="facilities-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Interconnection Facilities & Data Centres</h2>
+        <p class="view-description">Carrier-neutral colocation facilities, carrier hotels, and interconnection campus locations from PeeringDB.</p>
+      </div>
+      <div class="research-table-container">
+        <table class="research-table">
+          <thead>
+            <tr>
+              <th>Facility Name</th>
+              <th>Operating Entity</th>
+              <th>City</th>
+              <th>Country</th>
+              <th>Connected Networks</th>
+              <th>IXP Count</th>
+              <th>Coordinates (WGS84)</th>
+            </tr>
+          </thead>
+          <tbody id="facility-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- View 5: Interconnection Analytics & Topology -->
+    <div id="analytics-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Interconnection Graph & Peering Topology Analytics</h2>
+        <p class="view-description">NetworkX graph analysis of bipartite Network-to-IX presence, degree distribution, and hyper-connected transit hubs.</p>
+      </div>
+      <div class="analytics-grid">
+        <div class="chart-card">
+          <div class="chart-card-title">Top Global Internet Exchanges by Network Degree</div>
+          <div class="chart-card-desc">Leading public exchange points by connected Autonomous Systems (ASNs)</div>
+          <div id="chart-top-ixps" class="chart-container"></div>
+        </div>
+
+        <div class="chart-card">
+          <div class="chart-card-title">Top Autonomous Systems by IXP Participation</div>
+          <div class="chart-card-desc">Networks with the broadest presence across global peering fabrics (CDNs & Hyperscalers)</div>
+          <div id="chart-top-networks" class="chart-container"></div>
+        </div>
+
+        <div class="chart-card" style="grid-column: 1 / -1;">
+          <div class="chart-card-title">Peering Degree Distribution (Scale-Free / Power-Law Analysis)</div>
+          <div class="chart-card-desc">Distribution of network presences across IXP switching fabrics on a logarithmic scale</div>
+          <div id="chart-degree-dist" class="chart-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- View 6: Regional Infrastructure Density -->
+    <div id="regional-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Macro-Regional Infrastructure Density</h2>
+        <p class="view-description">Comparative distribution of subsea landings, peering exchanges, and interconnection facilities across continental regions.</p>
+      </div>
+      <div class="chart-card" style="margin-bottom: 24px;">
+        <div class="chart-card-title">Regional Infrastructure Density Index Comparison</div>
+        <div class="chart-card-desc">Composite index aggregating submarine connectivity, landing capacity, and peering density</div>
+        <div id="chart-regional-density" class="chart-container"></div>
+      </div>
+    </div>
+
+    <!-- View 7: Data Stories -->
+    <div id="stories-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Infrastructure Intelligence Data Stories</h2>
+        <p class="view-description">Evidence-based analytical insights grounded in authentic infrastructure data distributions.</p>
+      </div>
+      <div id="stories-container"></div>
+    </div>
+
+    <!-- View 8: Data Quality & Provenance -->
+    <div id="quality-view" class="content-view">
+      <div class="view-header">
+        <h2 class="view-title">Data Quality, Methodology & Dataset Transparency</h2>
+        <p class="view-description">Audit of coordinate accuracy, attribute completeness, licensing compliance, and data limitations.</p>
+      </div>
+      <div id="quality-metrics-container"></div>
+
+      <div class="view-header" style="margin-top: 32px;">
+        <h3 class="view-title" style="font-size: 1.15rem;">Integrated Public Dataset Provenance</h3>
+      </div>
+      <div class="research-table-container">
+        <table class="research-table">
+          <thead>
+            <tr>
+              <th>Dataset Source</th>
+              <th>Authority URL</th>
+              <th>License Terms</th>
+              <th>Records Ingested</th>
+              <th>Known Limitations</th>
+            </tr>
+          </thead>
+          <tbody id="provenance-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- External GIS & Chart Libraries -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/plotly.js-dist-min@2.32.0/plotly.min.js"></script>
+
+  <!-- NetAtlas Frontend Application Scripts -->
+  <script src="js/map_controller.js"></script>
+  <script src="js/catalog_controller.js"></script>
+  <script src="js/analytics_controller.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
+

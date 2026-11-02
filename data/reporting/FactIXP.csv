@@ -1,0 +1,1338 @@
+IXPID,IXPName,City,CountryKey,RegionContinent,Media,ConnectedNetworksCount,FacilityAssociationsCount,SupportsIPv6,SupportsMulticast,SourceKey,TypeKey
+1,Equinix Ashburn,Ashburn,US,North America,Ethernet,345,3,1,0,peeringdb_ix,3
+2,Equinix Chicago,Chicago,US,North America,Ethernet,255,3,1,0,peeringdb_ix,3
+3,Equinix Dallas,Dallas,US,North America,Ethernet,209,6,1,0,peeringdb_ix,3
+4,Equinix Los Angeles,Los Angeles,US,North America,Ethernet,82,3,1,0,peeringdb_ix,3
+5,Equinix San Jose,San Jose,US,North America,Ethernet,184,5,1,0,peeringdb_ix,3
+7,Equinix Palo Alto,Palo Alto,US,North America,Ethernet,69,3,1,0,peeringdb_ix,3
+9,Equinix Atlanta,Atlanta,US,North America,Ethernet,25,3,1,0,peeringdb_ix,3
+11,Equinix Seattle,Seattle,US,North America,Ethernet,35,2,1,0,peeringdb_ix,3
+12,Equinix New York,New York,US,North America,Ethernet,103,5,1,0,peeringdb_ix,3
+13,SIX Seattle,Seattle,US,North America,Ethernet,369,15,1,0,peeringdb_ix,3
+14,NYIIX New York,New York,US,North America,Ethernet,188,7,1,0,peeringdb_ix,3
+17,Equinix Miami,Miami,US,North America,Ethernet,175,2,1,0,peeringdb_ix,3
+18,LINX LON1,London,GB,Europe,Ethernet,834,18,1,1,peeringdb_ix,3
+21,IX Australia Perth (WA-IX),Perth,AU,Australia,Ethernet,75,4,1,0,peeringdb_ix,3
+22,Digital Realty Atlanta,Atlanta,US,North America,Ethernet,145,2,1,0,peeringdb_ix,3
+23,NYIIX Los Angeles,Los Angeles,US,North America,Ethernet,21,2,1,0,peeringdb_ix,3
+24,TorIX,Toronto,CA,North America,Ethernet,233,9,1,0,peeringdb_ix,3
+26,AMS-IX,Amsterdam,NL,Europe,Ethernet,862,15,1,0,peeringdb_ix,3
+29,Equinix Zurich,Zurich,CH,Europe,Ethernet,40,3,1,0,peeringdb_ix,3
+30,JPIX TOKYO,Tokyo,JP,Asia Pacific,Ethernet,272,12,1,0,peeringdb_ix,3
+31,DE-CIX Frankfurt,Frankfurt,DE,Europe,Ethernet,1020,26,1,0,peeringdb_ix,3
+33,CIXP,Geneva,CH,Europe,Ethernet,45,3,1,0,peeringdb_ix,3
+34,SFINX,Paris,FR,Europe,Ethernet,23,2,1,1,peeringdb_ix,3
+35,MIX-IT,Milan,IT,Europe,Ethernet,403,13,1,1,peeringdb_ix,3
+42,HKIX,Hong Kong,HK,Asia Pacific,Ethernet,255,6,1,0,peeringdb_ix,3
+43,TWIX,Taipei,TW,Asia Pacific,Ethernet,24,0,1,0,peeringdb_ix,3
+48,INEX LAN1,Dublin,IE,Europe,Ethernet,107,5,1,0,peeringdb_ix,3
+50,VIX,Vienna,AT,Europe,Ethernet,174,3,1,0,peeringdb_ix,3
+52,KINX,Seoul,KR,Asia Pacific,Ethernet,92,4,1,0,peeringdb_ix,3
+53,LONAP,London,GB,Europe,Ethernet,304,14,1,0,peeringdb_ix,3
+55,BIX,Budapest,HU,Europe,Ethernet,104,6,1,0,peeringdb_ix,3
+59,BNIX,Brussels,BE,Europe,Ethernet,78,7,1,1,peeringdb_ix,3
+60,SwissIX,Zurich,CH,Europe,Ethernet,235,12,1,0,peeringdb_ix,3
+62,CATNIX,Barcelona,ES,Europe,Ethernet,53,4,1,1,peeringdb_ix,3
+63,ESpanix Madrid Lower LAN,Madrid,ES,Europe,Ethernet,160,8,1,0,peeringdb_ix,3
+64,NL-ix,"Amsterdam, Rotterdam, Brussels, Luxembourg, Frankfurt, Düsseldorf, Berlin, Dublin, London, Copenhagen, Paris, Marseille",NL,Europe,Ethernet,538,83,1,0,peeringdb_ix,3
+69,France-IX AURA,Lyon and Grenoble,FR,Europe,Ethernet,74,6,1,1,peeringdb_ix,3
+70,Netnod Stockholm GREEN -- MTU1500,Stockholm,SE,Europe,Ethernet,193,12,1,1,peeringdb_ix,3
+71,NIX.CZ,Prague,CZ,Europe,Ethernet,176,11,1,1,peeringdb_ix,3
+72,GigaPIX - LAN 1,Lisbon,PT,Europe,Ethernet,57,5,1,0,peeringdb_ix,3
+73,MegaIX Munich,Munich,DE,Europe,Ethernet,35,4,1,1,peeringdb_ix,3
+74,DE-CIX Hamburg,Hamburg,DE,Europe,Ethernet,169,8,1,0,peeringdb_ix,3
+78,DIX,Copenhagen,DK,Europe,Ethernet,28,4,1,0,peeringdb_ix,3
+82,Pacific Wave,West Coast,US,North America,Ethernet,15,5,1,1,peeringdb_ix,3
+83,NIX1,Oslo,NO,Europe,Ethernet,65,4,1,0,peeringdb_ix,3
+84,SIX.SK,Bratislava,SK,Europe,Ethernet,62,3,1,0,peeringdb_ix,3
+85,NDIX,Enschede / Münster,NL,Europe,Ethernet,15,5,1,1,peeringdb_ix,3
+87,BCIX,Berlin,DE,Europe,Ethernet,143,12,1,0,peeringdb_ix,3
+88,IAIX,Hong Kong,HK,Asia Pacific,Ethernet,18,1,1,0,peeringdb_ix,3
+89,MadIX,Madison,US,North America,Ethernet,18,2,1,1,peeringdb_ix,3
+91,MegaIX Dusseldorf,Dusseldorf,DE,Europe,Ethernet,96,3,1,1,peeringdb_ix,3
+92,DIX-IE,Tokyo,JP,Asia Pacific,Ethernet,22,4,1,0,peeringdb_ix,3
+93,SOX,Singapore,SG,Asia Pacific,Ethernet,12,2,1,0,peeringdb_ix,3
+94,Equinix Sydney,Sydney,AU,Australia,Ethernet,218,7,1,0,peeringdb_ix,3
+95,JPNAP Tokyo,Tokyo,JP,Asia Pacific,Ethernet,248,14,1,0,peeringdb_ix,3
+97,APE,Auckland,NZ,Australia,Ethernet,28,10,1,0,peeringdb_ix,3
+98,FICIX 2 (Helsinki),Helsinki,FI,Europe,Ethernet,60,3,1,0,peeringdb_ix,3
+100,MSK-IX Moscow,Moscow,RU,Europe,Ethernet,306,13,1,1,peeringdb_ix,3
+107,MSK-IX Saint-Petersburg,St.Petersburg,RU,Europe,Ethernet,60,7,1,1,peeringdb_ix,3
+115,TOP-IX,Turin,IT,Europe,Ethernet,103,8,1,1,peeringdb_ix,3
+119,Equinix São Paulo,São Paulo,BR,South America,Ethernet,163,4,1,0,peeringdb_ix,3
+121,Namex Rome,Rome,IT,Europe,Ethernet,197,5,1,0,peeringdb_ix,3
+123,KleyReX,Frankfurt,DE,Europe,Ethernet,272,12,1,0,peeringdb_ix,3
+125,Equinix Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,254,5,1,0,peeringdb_ix,3
+126,BBIX Tokyo,Tokyo,JP,Asia Pacific,Ethernet,355,16,1,0,peeringdb_ix,3
+127,Oregon Internet Exchange (OIX),"Eugene, Oregon",US,North America,Ethernet,1,1,0,0,peeringdb_ix,3
+128,SOLIX MTU1500,Stockholm,SE,Europe,Ethernet,50,5,1,1,peeringdb_ix,3
+129,JINX,Johannesburg,ZA,Africa,Ethernet,209,9,1,0,peeringdb_ix,3
+135,N-IX,Nürnberg,DE,Europe,Ethernet,23,8,1,0,peeringdb_ix,3
+141,TampaIX,Tampa,US,North America,Ethernet,2,1,0,0,peeringdb_ix,3
+142,Any2West,Los Angeles and Silicon Valley,US,North America,Ethernet,264,10,1,0,peeringdb_ix,3
+145,JPNAP Osaka,Osaka,JP,Asia Pacific,Ethernet,99,11,1,0,peeringdb_ix,3
+146,GIX Gothenburg,Gothenburg,SE,Europe,Ethernet,0,1,0,0,peeringdb_ix,3
+154,BAYANTEL,Quezon City,PH,Asia Pacific,Ethernet,3,0,0,0,peeringdb_ix,3
+155,SFMIX,San Francisco,US,North America,Ethernet,92,20,1,0,peeringdb_ix,3
+158,Equinix Singapore,Singapore,SG,Asia Pacific,Ethernet,471,5,1,0,peeringdb_ix,3
+165,NWAX,Portland,US,North America,Ethernet,94,12,1,0,peeringdb_ix,3
+167,Equinix Tokyo,Tokyo,JP,Asia Pacific,Ethernet,127,12,1,0,peeringdb_ix,3
+170,OpenCarrier OCIX,Duesseldorf,DE,Europe,Ethernet,8,4,1,0,peeringdb_ix,3
+171,IX.br (PTT.br) São Paulo,São Paulo/SP,BR,South America,Ethernet,1866,31,1,0,peeringdb_ix,3
+172,STHIX - Stockholm,Stockholm,SE,Europe,Ethernet,84,6,1,0,peeringdb_ix,3
+173,IX.br (PTT.br) Porto Alegre,Porto Alegre/RS,BR,South America,Ethernet,254,14,1,0,peeringdb_ix,3
+174,IX.br (PTT.br) Curitiba,Curitiba,BR,South America,Ethernet,181,7,1,0,peeringdb_ix,3
+175,IX.br (PTT.br) Florianópolis,Florianópolis/SC,BR,South America,Ethernet,104,5,1,0,peeringdb_ix,3
+176,IX.br (PTT.br) Belo Horizonte,Belo Horizonte/MG,BR,South America,Ethernet,83,5,1,0,peeringdb_ix,3
+177,IX.br (PTT.br) Rio de Janeiro,Rio de Janeiro/RJ,BR,South America,Ethernet,536,16,1,0,peeringdb_ix,3
+178,IX.br (PTT.br) Brasília,Brasília/DF,BR,South America,Ethernet,203,7,1,0,peeringdb_ix,3
+184,UA-IX,Kiev,UA,Europe,Ethernet,152,3,1,0,peeringdb_ix,3
+189,HIX,Honolulu,US,North America,Ethernet,1,0,1,0,peeringdb_ix,3
+190,TLLIX,Tallinn,EE,Europe,Ethernet,6,0,1,0,peeringdb_ix,3
+192,Netnod Gothenburg -- MTU1500,Gothenburg,SE,Europe,Ethernet,16,2,1,1,peeringdb_ix,3
+193,Netnod Copenhagen GREEN -- MTU9K,Malmo / Copenhagen,DK,Europe,Ethernet,65,4,1,1,peeringdb_ix,3
+194,Netnod Sundsvall -- MTU1500,Sundsvall / Gavle,SE,Europe,Ethernet,19,3,1,1,peeringdb_ix,3
+196,PIX Montreal,Montreal,CA,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+197,PIX Toronto,Toronto,CA,North America,Ethernet,0,1,1,0,peeringdb_ix,3
+198,NIXI Delhi,Delhi,IN,Asia Pacific,Ethernet,115,11,1,0,peeringdb_ix,3
+199,YRIX,"Billings, MT",US,North America,Ethernet,1,1,0,0,peeringdb_ix,3
+204,Any2East,"Washington DC, Reston, Boston, New York, Atlanta",US,North America,Ethernet,50,11,1,0,peeringdb_ix,3
+205,Any2Florida,Miami/Orlando,US,North America,Ethernet,0,4,1,0,peeringdb_ix,3
+209,MegaIX Berlin,Berlin,DE,Europe,Ethernet,43,5,1,0,peeringdb_ix,3
+210,IIX-Jakarta,Jakarta,ID,Asia Pacific,Ethernet,840,14,1,0,peeringdb_ix,3
+212,Stuttgart-IX,Stuttgart,DE,Europe,Ethernet,35,5,1,0,peeringdb_ix,3
+217,TaipeiGigaPoP,Taipei/Taiwan,TW,Asia Pacific,Ethernet,0,1,1,0,peeringdb_ix,3
+223,MSK-IX Novosibirsk,Novosibirsk,RU,Asia Pacific,Ethernet,41,1,1,1,peeringdb_ix,3
+224,NIXI Mumbai,Mumbai,IN,Asia Pacific,Ethernet,178,22,1,0,peeringdb_ix,3
+225,THAILAND IX (TH-IX),Bangkok,TH,Asia Pacific,Ethernet,58,8,1,0,peeringdb_ix,3
+226,Any2Chicago,Chicago,US,North America,Ethernet,17,2,1,0,peeringdb_ix,3
+228,RIX,Reykjavik,IS,Europe,Ethernet,25,3,1,1,peeringdb_ix,3
+230,POZIX,Poznan,PL,Europe,Ethernet,28,6,1,0,peeringdb_ix,3
+234,NSPIXP3,Osaka,JP,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+235,NIXI Chennai,Chennai,IN,Asia Pacific,Ethernet,56,7,1,0,peeringdb_ix,3
+236,KIXP - Nairobi,Nairobi,KE,Africa,Ethernet,146,4,1,0,peeringdb_ix,3
+239,ChIX,Chicago,US,North America,Ethernet,62,5,1,1,peeringdb_ix,3
+240,MINAP Milan,Milan,IT,Europe,Ethernet,114,4,1,0,peeringdb_ix,3
+241,npIX DH,Kathmandu,NP,Asia Pacific,Ethernet,31,1,1,0,peeringdb_ix,3
+248,DE-CIX Munich,Munich,DE,Europe,Ethernet,184,8,1,0,peeringdb_ix,3
+249,KCIX,Kansas City,US,North America,Ethernet,199,13,1,0,peeringdb_ix,3
+250,MyIX,Kuala Lumpur,MY,Asia Pacific,Ethernet,118,6,1,0,peeringdb_ix,3
+252,NAP Colombia,Bogota,CO,South America,Ethernet,21,4,1,0,peeringdb_ix,3
+253,NAP.EC - UIO,Quito/UIO,EC,South America,Ethernet,19,0,1,0,peeringdb_ix,3
+254,Any2Denver,Denver,US,North America,Ethernet,74,2,1,0,peeringdb_ix,3
+255,Equinix Paris,Paris,FR,Europe,Ethernet,239,8,1,0,peeringdb_ix,3
+256,Digital Realty Phoenix,Phoenix,US,North America,Ethernet,6,1,1,0,peeringdb_ix,3
+257,Netnod Lulea -- MTU9K,Lulea,SE,Europe,Ethernet,9,0,1,1,peeringdb_ix,3
+258,Norrnod,Umea,SE,Europe,Ethernet,1,0,0,0,peeringdb_ix,3
+260,OCIX,Philipsburg,SX,South America,Ethernet,5,1,1,0,peeringdb_ix,3
+262,SISPA,Swaziland,SZ,Africa,Ethernet,0,0,0,0,peeringdb_ix,3
+264,Equinix Warsaw,Warsaw,PL,Europe,Ethernet,241,3,1,0,peeringdb_ix,3
+267,DRF IX,Honolulu,US,North America,Ethernet,34,1,1,0,peeringdb_ix,3
+270,InterLAN-IX,Bucharest,RO,Europe,Ethernet,124,11,1,1,peeringdb_ix,3
+273,TIX,Florence,IT,Europe,Ethernet,17,0,1,0,peeringdb_ix,3
+274,CAIX,Cairo,EG,Middle East,Ethernet,5,1,1,0,peeringdb_ix,3
+275,BY-IX,Minsk,BY,Europe,Ethernet,7,0,1,0,peeringdb_ix,3
+287,Crimea-IX,Simferopol,RU,Europe,Ethernet,8,0,1,0,peeringdb_ix,3
+288,ACTIX,"Canberra, ACT",AU,Australia,Ethernet,2,1,1,0,peeringdb_ix,3
+291,MegaIX Hamburg,Hamburg,DE,Europe,Ethernet,56,5,1,0,peeringdb_ix,3
+297,LU-CIX,Luxembourg,LU,Europe,Ethernet,86,9,1,0,peeringdb_ix,3
+298,NIX2,Oslo,NO,Europe,Ethernet,9,0,1,0,peeringdb_ix,3
+299,NIX.SK,Bratislava,SK,Europe,Ethernet,65,5,1,1,peeringdb_ix,3
+301,RoNIX,Bucharest,RO,Europe,Ethernet,41,10,1,0,peeringdb_ix,3
+303,CIX,Zagreb,HR,Europe,Ethernet,41,3,1,0,peeringdb_ix,3
+311,VSIX,Padova,IT,Europe,Ethernet,77,2,1,0,peeringdb_ix,3
+313,R_iX,Rotterdam,NL,Europe,Ethernet,10,9,1,1,peeringdb_ix,3
+314,IX.br (PTT.br) Londrina,Londrina/PR,BR,South America,Ethernet,37,3,1,0,peeringdb_ix,3
+316,ExWest,Galway,IE,Europe,Ethernet,2,1,1,0,peeringdb_ix,3
+317,GIX,Makati City,PH,Asia Pacific,Ethernet,15,1,1,0,peeringdb_ix,3
+319,SIX SI,Ljubljana,SI,Europe,Ethernet,29,2,1,0,peeringdb_ix,3
+321,LINX LON2,London,GB,Europe,Ethernet,317,18,1,1,peeringdb_ix,3
+322,Digital Realty Dallas,Dallas,US,North America,Ethernet,12,2,1,0,peeringdb_ix,3
+325,Digital Realty New York,New York/New Jersey,US,North America,Ethernet,53,5,1,0,peeringdb_ix,3
+326,B-IX,Sofia,BG,Europe,Ethernet,55,9,1,1,peeringdb_ix,3
+327,DTEL-IX,Kiev,UA,Europe,Ethernet,204,20,1,1,peeringdb_ix,3
+328,TREX Tampere,Tampere,FI,Europe,Ethernet,25,3,1,1,peeringdb_ix,3
+331,BIX.BG,Sofia,BG,Europe,Ethernet,128,8,1,1,peeringdb_ix,3
+334,KAZ-IX,Karaganda,KZ,Asia Pacific,Ethernet,6,0,1,0,peeringdb_ix,3
+340,ULN-IX,Ulyanovsk,RU,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+344,CINX,Cape Town,ZA,Africa,Ethernet,123,6,1,0,peeringdb_ix,3
+347,GR-IX::Athens,Athens,GR,Europe,Ethernet,67,3,1,0,peeringdb_ix,3
+348,WIX-NZ,Wellington,NZ,Australia,Ethernet,18,4,1,0,peeringdb_ix,3
+349,CHIX-NZ,Christchurch,NZ,Australia,Ethernet,1,0,1,0,peeringdb_ix,3
+350,MSK-IX Ekaterinburg,Ekaterinburg,RU,Asia Pacific,Ethernet,33,2,1,0,peeringdb_ix,3
+355,CANIX Montreal,Montreal,CA,North America,Ethernet,81,5,1,0,peeringdb_ix,3
+357,SOAX,Medford,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+358,GNM-IX,Amsterdam,NL,Europe,Ethernet,442,49,1,0,peeringdb_ix,3
+359,France-IX Paris,Paris,FR,Europe,Ethernet,453,10,1,0,peeringdb_ix,3
+361,TIX Tanzania - Dar es Salaam,Dar es Salaam,TZ,Africa,Ethernet,32,4,1,0,peeringdb_ix,3
+363,SUPRnet,Saint George,US,North America,Ethernet,18,1,1,0,peeringdb_ix,3
+364,SMILE-IXP,Riga,LV,Europe,Ethernet,24,2,1,1,peeringdb_ix,3
+366,AMS-IX Caribbean,Curacao,CW,South America,Ethernet,8,1,1,0,peeringdb_ix,3
+372,Balcan-IX,Bucharest,RO,Europe,Ethernet,29,10,1,0,peeringdb_ix,3
+373,Equinix Toronto,Toronto,CA,North America,Ethernet,17,2,1,0,peeringdb_ix,3
+375,OpenIXP / NiCE,Indonesia,ID,Asia Pacific,Ethernet,631,0,1,0,peeringdb_ix,3
+377,AAIX,Klagenfurt,AT,Europe,Ethernet,23,2,1,0,peeringdb_ix,3
+378,MSK-IX Vladivostok,Vladivostok,RU,Asia Pacific,Ethernet,10,0,1,0,peeringdb_ix,3
+379,MSK-IX Samara,Samara,RU,Europe,Ethernet,13,0,1,0,peeringdb_ix,3
+380,MSK-IX Rostov-on-Don,Rostov-on-Don,RU,Europe,Ethernet,19,0,1,0,peeringdb_ix,3
+381,REUNIX,"Saint-Denis, La Reunion",RE,Africa,Ethernet,7,0,0,0,peeringdb_ix,3
+383,LIX-LV,Riga,LV,Europe,Ethernet,6,1,0,0,peeringdb_ix,3
+387,INEX LAN2,Dublin,IE,Europe,Ethernet,66,5,1,0,peeringdb_ix,3
+392,MD-IX,Chisinau,MD,Europe,Ethernet,14,2,1,0,peeringdb_ix,3
+393,IIX Israel,Petach Tikva,IL,Middle East,Ethernet,15,1,1,0,peeringdb_ix,3
+398,MSK-IX Kazan,Kazan,RU,Europe,Ethernet,6,0,1,1,peeringdb_ix,3
+400,LIPTAM,Vilnius,LT,Europe,Ethernet,4,0,1,0,peeringdb_ix,3
+415,IX.br (PTT.br) Campinas,Campinas/SP,BR,South America,Ethernet,40,5,1,0,peeringdb_ix,3
+421,Angola IXP,Luanda,AO,Africa,Ethernet,13,3,1,0,peeringdb_ix,3
+422,UIXP,Kampala,UG,Africa,Ethernet,29,2,1,0,peeringdb_ix,3
+424,SOX Serbia,Belgrade/Serbia,RS,Europe,Ethernet,44,11,1,0,peeringdb_ix,3
+428,NASA-AIX,"Mountain View, CA",US,North America,Ethernet,1,1,1,1,peeringdb_ix,3
+429,SGIX,Singapore,SG,Asia Pacific,Ethernet,252,16,1,1,peeringdb_ix,3
+430,GraX,Graz,AT,Europe,Ethernet,4,1,0,1,peeringdb_ix,3
+435,IXLeeds,Leeds / Western Yorkshire,GB,Europe,Ethernet,18,1,1,0,peeringdb_ix,3
+446,MICE,"Minneapolis, MN",US,North America,Ethernet,148,5,1,0,peeringdb_ix,3
+452,BIX Jakarta,Jakarta,ID,Asia Pacific,Ethernet,181,4,1,0,peeringdb_ix,3
+453,FIXO,Oslo,NO,Europe,Ethernet,42,3,1,0,peeringdb_ix,3
+463,GU-IX,Guam,GU,Asia Pacific,Ethernet,1,3,0,0,peeringdb_ix,3
+474,EPIX.Warszawa,Warsaw,PL,Europe,Ethernet,384,4,1,1,peeringdb_ix,3
+476,AZIX,Phoenix,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+477,CBIX,Brno,CZ,Europe,Ethernet,0,1,1,0,peeringdb_ix,3
+481,THINX Warsaw,Warsaw,PL,Europe,Ethernet,149,18,1,0,peeringdb_ix,3
+482,TPIX PL,Warsaw,PL,Europe,Ethernet,345,26,1,1,peeringdb_ix,3
+487,CyIX,Nicosia / Cyprus,CY,Europe,Ethernet,3,0,0,0,peeringdb_ix,3
+488,IXPN Lagos,Lagos,NG,Africa,Ethernet,125,8,1,0,peeringdb_ix,3
+491,EPIX.Katowice,Katowice/Silesia,PL,Europe,Ethernet,388,3,1,0,peeringdb_ix,3
+492,FICIX 3 (Oulu),Oulu,FI,Europe,Ethernet,12,1,1,0,peeringdb_ix,3
+496,BNIIX,Buffalo,US,North America,Ethernet,2,0,1,0,peeringdb_ix,3
+499,MKE-IX,Milwaukee,US,North America,Ethernet,8,1,1,1,peeringdb_ix,3
+506,GTIIX,Toronto,CA,North America,Ethernet,2,0,1,0,peeringdb_ix,3
+512,PIRIX,St.Petersburg,RU,Europe,Ethernet,6,7,1,0,peeringdb_ix,3
+513,IX Australia Melbourne (VIC-IX),Melbourne,AU,Australia,Ethernet,103,4,1,0,peeringdb_ix,3
+514,Central Oregon Internet Exchange,Bend,US,North America,Ethernet,14,2,1,0,peeringdb_ix,3
+524,CePIX.pl,Mogilno,PL,Europe,Ethernet,1,1,0,1,peeringdb_ix,3
+526,LIXP,Vilnius,LT,Europe,Ethernet,11,2,1,1,peeringdb_ix,3
+528,MOZIX,Maputo,MZ,Africa,Ethernet,18,0,1,0,peeringdb_ix,3
+529,KRS-IX,Krasnoyarsk,RU,Europe,Ethernet,4,0,0,1,peeringdb_ix,3
+538,RTIX,Tallinn,EE,Europe,Ethernet,44,3,1,0,peeringdb_ix,3
+542,Litix,Vilnius,LT,Europe,Ethernet,23,3,1,1,peeringdb_ix,3
+543,Rheintal IX,Eschen,LI,Europe,Ethernet,39,7,1,0,peeringdb_ix,3
+556,IX.br (PTT.br) Salvador,Salvador/BA,BR,South America,Ethernet,118,3,1,0,peeringdb_ix,3
+558,IX.br (PTT.br) Caxias do Sul,Caxias do Sul/RS,BR,South America,Ethernet,13,2,1,0,peeringdb_ix,3
+559,SIX.SK Košice,Košice,SK,Europe,Ethernet,3,1,0,0,peeringdb_ix,3
+563,JXIX,Jacksonville,US,North America,Ethernet,12,2,1,1,peeringdb_ix,3
+564,JPIX OSAKA,Osaka,JP,Asia Pacific,Ethernet,111,8,1,0,peeringdb_ix,3
+565,Boston Internet Exchange,"Boston, Massachusetts",US,North America,Ethernet,57,2,1,0,peeringdb_ix,3
+573,HIX Haiti,Port-au-Prince,HT,South America,Ethernet,4,0,0,0,peeringdb_ix,3
+575,IX.br (PTT.br) Goiânia,Goiânia/GO,BR,South America,Ethernet,57,5,1,0,peeringdb_ix,3
+576,IX Australia Brisbane (QLD-IX),Brisbane,AU,Australia,Ethernet,75,2,1,0,peeringdb_ix,3
+577,AMS-IX Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,45,2,1,0,peeringdb_ix,3
+580,MSK-IX Stavropol,Stavropol,RU,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+582,BIX Bergen,Bergen,NO,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+583,LINX Manchester,Manchester,GB,Europe,Ethernet,136,7,1,0,peeringdb_ix,3
+587,UAE-IX,Dubai,AE,Middle East,Ethernet,105,3,1,0,peeringdb_ix,3
+592,NAPAfrica IX Johannesburg,Johannesburg,ZA,Africa,Ethernet,544,1,1,1,peeringdb_ix,3
+597,NAPAfrica IX Cape Town,Cape Town,ZA,Africa,Ethernet,280,2,1,1,peeringdb_ix,3
+598,NIXI Hyderabad,Hyderabad,IN,Asia Pacific,Ethernet,23,2,1,0,peeringdb_ix,3
+602,Echigo-IX,Niigata,JP,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+603,IX.br (PTT.br) Campina Grande,Campina Grande/PB,BR,South America,Ethernet,33,1,1,0,peeringdb_ix,3
+606,C2IX,Jakarta,ID,Asia Pacific,Ethernet,42,2,1,0,peeringdb_ix,3
+607,MIX MNDC,Ulaanbaatar,MN,Asia Pacific,Ethernet,9,0,0,0,peeringdb_ix,3
+610,DINX,Durban,ZA,Africa,Ethernet,99,2,1,0,peeringdb_ix,3
+615,Lusaka Internet Exchange Point,Lusaka,ZM,Africa,Ethernet,12,0,1,0,peeringdb_ix,3
+624,TP-IX,Duluth,US,North America,Ethernet,2,1,1,1,peeringdb_ix,3
+626,IIX-JawaTimur,Surabaya,ID,Asia Pacific,Ethernet,73,2,1,0,peeringdb_ix,3
+628,KINIX,Kinshasa,CD,Africa,Ethernet,24,2,1,0,peeringdb_ix,3
+633,Sea-IX,Krasnodar,RU,Europe,Ethernet,20,1,1,0,peeringdb_ix,3
+635,OMSK-IX,Omsk,RU,Europe,Ethernet,3,0,0,0,peeringdb_ix,3
+639,YYCIX,Calgary,CA,North America,Ethernet,97,9,1,0,peeringdb_ix,3
+640,GCIIX,Chicago,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+655,Giganet IXN,"Amsterdam, Frankfurt am Main, Kharkiv, Kyiv, Lviv, Odesa, Warsaw, Zaporizhzhia, Zhytomyr",UA,Europe,Ethernet,267,19,1,1,peeringdb_ix,3
+662,Ninja-IX Phoenix,Phoenix,US,North America,Ethernet,58,13,1,0,peeringdb_ix,3
+672,CyrusOne IX Dallas,Dallas,US,North America,Ethernet,3,0,1,0,peeringdb_ix,3
+674,CyrusOne IX Austin,Austin,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+675,CyrusOne IX San Antonio,San Antonio,US,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+676,MegaIX Frankfurt,Frankfurt,DE,Europe,Ethernet,109,10,1,0,peeringdb_ix,3
+683,YAR-IX,Yaroslavl,RU,Europe,Ethernet,0,1,1,0,peeringdb_ix,3
+691,IX Australia Adelaide (SA-IX),Adelaide,AU,Australia,Ethernet,36,4,1,0,peeringdb_ix,3
+694,GIXA,Accra,GH,Africa,Ethernet,24,5,1,1,peeringdb_ix,3
+699,NetIX,Sofia,BG,Europe,Ethernet,136,241,1,1,peeringdb_ix,3
+703,MBIX,"Winnipeg, Manitoba",CA,North America,Ethernet,32,4,1,0,peeringdb_ix,3
+705,IX.br (PTT.br) Recife,Recife/PE,BR,South America,Ethernet,122,5,1,0,peeringdb_ix,3
+706,IX.br (PTT.br) Vitória,Vitória/ES,BR,South America,Ethernet,74,4,1,0,peeringdb_ix,3
+707,IX.br (PTT.br) Manaus,Manaus/AM,BR,South America,Ethernet,30,5,1,0,peeringdb_ix,3
+708,IX.br (PTT.br) Natal,Natal/RN,BR,South America,Ethernet,31,1,1,0,peeringdb_ix,3
+709,IX.br (PTT.br) São José do Rio Preto,São José do Rio Preto/SP,BR,South America,Ethernet,23,1,1,0,peeringdb_ix,3
+710,IX.br (PTT.br) Fortaleza,Fortaleza/CE,BR,South America,Ethernet,604,10,1,0,peeringdb_ix,3
+711,IX.br (PTT.br) Belém,Belém/PA,BR,South America,Ethernet,42,3,1,0,peeringdb_ix,3
+713,Peering.cz,"Prague, Bratislava, Vienna, Frankfurt",CZ,Europe,Ethernet,191,8,1,0,peeringdb_ix,3
+716,IX Australia Sydney (NSW-IX),Sydney,AU,Australia,Ethernet,182,8,1,0,peeringdb_ix,3
+727,MIX-BT,Blantyre,MW,Africa,Ethernet,10,1,1,0,peeringdb_ix,3
+745,LINX Scotland,Scotland,GB,Europe,Ethernet,32,2,1,0,peeringdb_ix,3
+760,CyrusOne IX Phoenix,Phoenix,US,North America,Ethernet,2,0,1,0,peeringdb_ix,3
+762,DO-IX,Dortmund,DE,Europe,Ethernet,9,1,1,0,peeringdb_ix,3
+766,DN-IX,Donetsk,UA,Europe,Ethernet,2,0,1,0,peeringdb_ix,3
+776,WPGIX,Winnipeg,CA,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+777,LINX NoVA,"Ashburn, Reston, Manassas",US,North America,Ethernet,57,12,1,1,peeringdb_ix,3
+778,CIX KR,Krakow,PL,Europe,Ethernet,8,0,0,0,peeringdb_ix,3
+779,MegaIX Melbourne,Melbourne,AU,Australia,Ethernet,136,13,1,0,peeringdb_ix,3
+780,MegaIX Sydney,Sydney,AU,Australia,Ethernet,231,21,1,0,peeringdb_ix,3
+781,MegaIX Brisbane,Brisbane,AU,Australia,Ethernet,93,11,1,0,peeringdb_ix,3
+786,BBIX Osaka,Osaka,JP,Asia Pacific,Ethernet,129,11,1,0,peeringdb_ix,3
+790,IX.br (PTT.br) Lajeado,Lajeado/RS,BR,South America,Ethernet,19,1,1,0,peeringdb_ix,3
+796,BREM-IX,Bremen,DE,Europe,Ethernet,6,6,1,0,peeringdb_ix,3
+804,DE-CIX New York,New York,US,North America,Ethernet,263,33,1,0,peeringdb_ix,3
+809,OmahaIX,Omaha,US,North America,Ethernet,52,1,1,0,peeringdb_ix,3
+810,CIVIX,Abidjan,CI,Africa,Ethernet,14,0,1,1,peeringdb_ix,3
+815,NNOV-IX,Nizhny Novgorod,RU,Europe,Ethernet,1,0,0,1,peeringdb_ix,3
+818,IX.br (PTT.br) Maringá,Maringá/PR,BR,South America,Ethernet,46,2,1,0,peeringdb_ix,3
+822,Sibir-IX,Krasnoyarsk,RU,Europe,Ethernet,13,0,1,1,peeringdb_ix,3
+823,TPIX-TW,Taipei/Taiwan,TW,Asia Pacific,Ethernet,168,3,1,0,peeringdb_ix,3
+828,RZ-IX,Rzeszow,PL,Europe,Ethernet,15,0,1,0,peeringdb_ix,3
+829,SLIX - Salt Lake City Internet Exchange,Salt Lake City,US,North America,Ethernet,35,5,1,0,peeringdb_ix,3
+832,DE-CIX Mumbai,Mumbai,IN,Asia Pacific,Ethernet,452,20,1,0,peeringdb_ix,3
+833,TPAIX,Tampa,US,North America,Ethernet,24,2,1,0,peeringdb_ix,3
+842,MLIXP,LA PAZ,BO,South America,Ethernet,5,0,0,1,peeringdb_ix,3
+851,ArmIX,Yerevan,AM,Europe,Ethernet,34,0,1,0,peeringdb_ix,3
+854,HTN-IX,Phnom Penh,KH,Asia Pacific,Ethernet,1,0,1,0,peeringdb_ix,3
+859,IX.br (PTT.br) Cuiabá,Cuiabá/MT,BR,South America,Ethernet,40,3,1,0,peeringdb_ix,3
+863,VANIX,Vancouver,CA,North America,Ethernet,80,11,1,0,peeringdb_ix,3
+864,BR-IX,Brno,CZ,Europe,Ethernet,8,2,1,1,peeringdb_ix,3
+866,SH-IX,Fujairah,AE,Middle East,Ethernet,43,1,1,0,peeringdb_ix,3
+869,Ohio IX,Columbus,US,North America,Ethernet,54,16,1,0,peeringdb_ix,3
+876,RED-IX,Krasnoyarsk,RU,Europe,Ethernet,10,0,1,0,peeringdb_ix,3
+880,France-IX Marseille,Marseille,FR,Europe,Ethernet,112,2,1,0,peeringdb_ix,3
+881,Lillix,Lille,FR,Europe,Ethernet,46,3,1,0,peeringdb_ix,3
+906,CANIX Halifax,Halifax,CA,North America,Ethernet,19,1,1,0,peeringdb_ix,3
+909,BBIX Singapore,Singapore,SG,Asia Pacific,Ethernet,164,6,1,0,peeringdb_ix,3
+916,CitraIX Yogyakarta,Yogyakarta,ID,Asia Pacific,Ethernet,58,3,1,0,peeringdb_ix,3
+922,IXP Namibia,Windhoek,NA,Africa,Ethernet,6,0,0,0,peeringdb_ix,3
+938,TahoeIX,Reno,US,North America,Ethernet,12,2,1,0,peeringdb_ix,3
+940,TTIX,Barataria,TT,South America,Ethernet,11,1,0,0,peeringdb_ix,3
+948,Equinix Osaka,Osaka,JP,Asia Pacific,Ethernet,26,2,1,0,peeringdb_ix,3
+954,FL-IX,Miami,US,North America,Ethernet,196,13,1,1,peeringdb_ix,3
+957,MiamiIX,"Miami, Florida",US,North America,Ethernet,4,3,1,0,peeringdb_ix,3
+965,MegaIX Singapore,Singapore,SG,Asia Pacific,Ethernet,42,13,1,0,peeringdb_ix,3
+967,AMS-IX Djibouti,Djibouti,DJ,Africa,Ethernet,20,1,1,0,peeringdb_ix,3
+969,NAPAfrica IX Durban,Durban,ZA,Africa,Ethernet,139,1,1,1,peeringdb_ix,3
+971,VIX.VU,Port Vila,VU,Asia Pacific,Ethernet,6,1,1,0,peeringdb_ix,3
+976,IX Australia Canberra (ACT-IX),Canberra,AU,Australia,Ethernet,7,2,1,0,peeringdb_ix,3
+977,AKL-IX (Auckland NZ),Auckland,NZ,Australia,Ethernet,98,9,1,0,peeringdb_ix,3
+983,UNY-IX,Yogyakarta,ID,Asia Pacific,Ethernet,35,2,1,0,peeringdb_ix,3
+984,MegaIX Auckland,Auckland,NZ,Australia,Ethernet,86,10,1,0,peeringdb_ix,3
+985,BDX BTN1,Brighton,GB,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+986,FD-IX - Indianapolis,"Indianapolis, Indiana",US,North America,Ethernet,43,8,1,1,peeringdb_ix,3
+993,PIX Palestine,Ramallah,PS,Middle East,Ethernet,3,0,1,0,peeringdb_ix,3
+1002,DE-CIX Richmond,Ashland,US,North America,Ethernet,23,3,1,0,peeringdb_ix,3
+1006,DET-iX,Detroit,US,North America,Ethernet,84,5,1,0,peeringdb_ix,3
+1007,angonix,Luanda,AO,Africa,Ethernet,24,1,1,1,peeringdb_ix,3
+1009,Tirol-IX,Innsbruck/Tirol,AT,Europe,Ethernet,13,2,1,0,peeringdb_ix,3
+1013,NOVO NIX,Dhaka,BD,Asia Pacific,Ethernet,11,0,0,0,peeringdb_ix,3
+1016,LINX Wales,Cardiff,GB,Europe,Ethernet,10,1,1,1,peeringdb_ix,3
+1017,BENIN-IX,Cotonou,BJ,Africa,Ethernet,5,0,0,0,peeringdb_ix,3
+1019,AuvernIX,Clermont-Ferrand,FR,Europe,Ethernet,13,0,1,0,peeringdb_ix,3
+1023,CRIX,San Jose,CR,North America,Ethernet,46,0,1,0,peeringdb_ix,3
+1025,BKNIX (Thailand),Bangkok,TH,Asia Pacific,Ethernet,73,7,1,0,peeringdb_ix,3
+1026,Equinix Melbourne,Melbourne,AU,Australia,Ethernet,55,2,1,0,peeringdb_ix,3
+1028,Nap Peru,Lima,PE,South America,Ethernet,4,0,1,0,peeringdb_ix,3
+1032,RINEX,Kigali,RW,Africa,Ethernet,17,2,1,0,peeringdb_ix,3
+1038,NashIX,Nashville,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+1040,NormandIX,Normandy,FR,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+1042,NAP.EC - GYE,Guayaquil/GYE,EC,South America,Ethernet,13,1,1,0,peeringdb_ix,3
+1046,CGIX-BZV,Brazzaville,CG,Africa,Ethernet,9,1,1,1,peeringdb_ix,3
+1054,Transhybrid IX Network,Jakarta,ID,Asia Pacific,Ethernet,65,25,1,0,peeringdb_ix,3
+1056,MegaIX Sofia,Sofia,BG,Europe,Ethernet,16,2,1,0,peeringdb_ix,3
+1073,SAIX,Salzburg,AT,Europe,Ethernet,17,3,1,0,peeringdb_ix,3
+1086,MASS-IX,Boston,US,North America,Ethernet,72,7,1,0,peeringdb_ix,3
+1088,Global-IX,Amsterdam,NL,Europe,Ethernet,139,29,1,0,peeringdb_ix,3
+1089,T-CIX,Sofia,BG,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+1094,GE-CIX,Zurich,CH,Europe,Ethernet,0,13,1,0,peeringdb_ix,3
+1095,IIX-Rimba-2,Pekanbaru,ID,Asia Pacific,Ethernet,5,1,0,1,peeringdb_ix,3
+1105,TunIXP,Tunis,TN,Africa,Ethernet,4,0,1,0,peeringdb_ix,3
+1117,CyrusOne IX Sterling,Sterling,US,North America,Ethernet,0,2,1,0,peeringdb_ix,3
+1123,IXP-HN,Tegucigalpa,HN,South America,Ethernet,4,0,0,0,peeringdb_ix,3
+1127,MARTINIX,Fort-de-France,MQ,North America,Ethernet,2,0,0,0,peeringdb_ix,3
+1131,DE-CIX Palermo,Palermo,IT,Europe,Ethernet,18,1,1,0,peeringdb_ix,3
+1134,Guyanix,Cayenne,GF,South America,Ethernet,3,0,0,0,peeringdb_ix,3
+1142,CyrusOne IX Chicago,Chicago,US,North America,Ethernet,0,1,1,0,peeringdb_ix,3
+1146,ESpanix Madrid Upper LAN,Madrid,ES,Europe,Ethernet,56,8,1,0,peeringdb_ix,3
+1149,DE-CIX Marseille,Marseille,FR,Europe,Ethernet,106,2,1,0,peeringdb_ix,3
+1150,DE-CIX Istanbul,Istanbul,TR,Europe,Ethernet,70,10,1,0,peeringdb_ix,3
+1151,CentralIX,Bremen,DE,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+1154,SFO-IX,"Barnaul, Novosibirsk",RU,Europe,Ethernet,30,5,1,0,peeringdb_ix,3
+1156,United Peering - UP-IXP,Wuppertal,DE,Europe,Ethernet,3,0,1,1,peeringdb_ix,3
+1160,NIXVAL-IX,Valencia,ES,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+1168,Kherson Traffic Exchange,Kherson,UA,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+1169,YEGIX,Edmonton,CA,North America,Ethernet,9,1,1,0,peeringdb_ix,3
+1171,KIVIX,Chisinau,MD,Europe,Ethernet,19,1,1,0,peeringdb_ix,3
+1172,CHN-IX Beijing,Beijing,CN,Asia Pacific,Ethernet,7,1,1,0,peeringdb_ix,3
+1174,MegaIX Seattle,Seattle,US,North America,Ethernet,15,8,1,0,peeringdb_ix,3
+1175,MegaIX Los Angeles,Los Angeles,US,North America,Ethernet,23,14,1,0,peeringdb_ix,3
+1178,MegaIX Ashburn,Ashburn,US,North America,Ethernet,45,38,1,0,peeringdb_ix,3
+1180,MegaIX Dallas,Dallas,US,North America,Ethernet,28,29,1,0,peeringdb_ix,3
+1183,6NGIX,Seoul,KR,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+1187,SYMPHONY THAI - IX BANGKOK - 1,Bangkok,TH,Asia Pacific,Ethernet,3,19,1,0,peeringdb_ix,3
+1188,TC-IX,Phnom Penh,KH,Asia Pacific,Ethernet,0,1,0,0,peeringdb_ix,3
+1191,SerinIX IX,Kiev,UA,Europe,Ethernet,1,0,0,0,peeringdb_ix,3
+1201,TIX Tanzania - Arusha (AIXP),Arusha,TZ,Africa,Ethernet,16,0,1,0,peeringdb_ix,3
+1207,IX-Denver,Denver,US,North America,Ethernet,91,9,1,0,peeringdb_ix,3
+1209,CNX,Phnom Penh,KH,Asia Pacific,Ethernet,48,4,1,0,peeringdb_ix,3
+1210,M-IX,Simferopol,RU,Europe,Ethernet,6,0,0,0,peeringdb_ix,3
+1212,MGMix Montgomery,Montgomery,US,North America,Ethernet,19,1,1,0,peeringdb_ix,3
+1214,DE-CIX Dusseldorf,Düsseldorf,DE,Europe,Ethernet,207,5,1,0,peeringdb_ix,3
+1228,CDIX,Jakarta,ID,Asia Pacific,Ethernet,84,1,1,0,peeringdb_ix,3
+1229,CODIX,St.Petersburg,RU,Europe,Ethernet,2,0,0,0,peeringdb_ix,3
+1235,MegaIX Perth,Perth,AU,Australia,Ethernet,60,6,1,0,peeringdb_ix,3
+1242,W-IX,Moscow,RU,Europe,Ethernet,66,5,1,0,peeringdb_ix,3
+1249,DE-CIX Dallas,Dallas,US,North America,Ethernet,164,18,1,0,peeringdb_ix,3
+1262,INEX Cork,Cork,IE,Europe,Ethernet,11,1,1,0,peeringdb_ix,3
+1276,IX.br (PTT.br) Foz do Iguaçu,Foz do Iguaçu/PR,BR,South America,Ethernet,29,2,1,0,peeringdb_ix,3
+1277,DE-CIX Madrid,Madrid,ES,Europe,Ethernet,189,4,1,0,peeringdb_ix,3
+1284,CHN-IX Guangzhou,Guangzhou,CN,Asia Pacific,Ethernet,1,1,1,0,peeringdb_ix,3
+1285,SIX Seattle (Jumbo),Seattle,US,North America,Ethernet,67,15,1,1,peeringdb_ix,3
+1302,IX Liverpool - MICT,Liverpool,GB,Europe,Ethernet,3,3,1,1,peeringdb_ix,3
+1303,CNIX,Beijing,CN,Asia Pacific,Ethernet,20,0,1,0,peeringdb_ix,3
+1307,MegaIX Toronto,Toronto,CA,North America,Ethernet,16,13,1,0,peeringdb_ix,3
+1308,LSIX,"Amsterdam, The Hague, Rotterdam, Naaldwijk",NL,Europe,Ethernet,105,15,1,0,peeringdb_ix,3
+1317,NIXI Kolkata,Kolkata,IN,Asia Pacific,Ethernet,29,2,1,0,peeringdb_ix,3
+1320,Hopus,"Paris, Lyon, Marseille, Geneva, Zurich, Amsterdam, Frankfurt",FR,Europe,Ethernet,35,14,1,0,peeringdb_ix,3
+1323,Extreme IX Delhi,Delhi,IN,Asia Pacific,Ethernet,172,13,1,0,peeringdb_ix,3
+1329,Community-IX,"Berlin, Frankfurt",DE,Europe,Ethernet,25,6,1,0,peeringdb_ix,3
+1332,FICIX 1 (Espoo),Espoo,FI,Europe,Ethernet,36,2,1,0,peeringdb_ix,3
+1335,MGIX,Antananarivo,MG,Africa,Ethernet,5,1,1,0,peeringdb_ix,3
+1354,LebIX,Beirut,LB,Middle East,Ethernet,17,1,0,0,peeringdb_ix,3
+1375,CHN-IX Shanghai,Shanghai,CN,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+1387,DataLine-IX,Moscow,RU,Europe,Ethernet,4,0,1,0,peeringdb_ix,3
+1409,BINX,Gaborone,BW,Africa,Ethernet,0,0,0,0,peeringdb_ix,3
+1418,TIX Tromsø,Tromsø,NO,Europe,Ethernet,8,0,1,0,peeringdb_ix,3
+1419,SIX Stavanger,Stavanger,NO,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+1420,TRDIX Trondheim,Trondheim,NO,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+1421,BW-IX Karlsruhe,Karlsruhe,DE,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+1423,WRIX,Wrocław,PL,Europe,Ethernet,39,1,1,0,peeringdb_ix,3
+1449,BBIX Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,105,2,1,0,peeringdb_ix,3
+1464,Equinix Helsinki,Helsinki,FI,Europe,Ethernet,17,4,1,0,peeringdb_ix,3
+1488,Ninja-IX Las Vegas,Las Vegas,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+1490,Ninja-IX Richmond,Richmond,US,North America,Ethernet,8,1,1,0,peeringdb_ix,3
+1508,MIXP,Ebene,MU,Africa,Ethernet,22,2,1,0,peeringdb_ix,3
+1514,PIT Santiago - PIT Chile,Santiago,CL,South America,Ethernet,151,13,1,0,peeringdb_ix,3
+1516,IX.LODZ.PL,Łódź,PL,Europe,Ethernet,10,0,0,1,peeringdb_ix,3
+1519,FD-IX - St. Louis,"St. Louis, MO",US,North America,Ethernet,18,4,1,0,peeringdb_ix,3
+1522,IXpy,San Lorenzo,PY,South America,Ethernet,24,1,1,0,peeringdb_ix,3
+1533,inet2,"Mowsow, St.Petersburg, Novosibirsk, Ekaterinburg",RU,Europe,Ethernet,6,0,1,0,peeringdb_ix,3
+1561,PhOpenIX-Manila,Manila,PH,Asia Pacific,Ethernet,48,0,1,0,peeringdb_ix,3
+1574,TIX Tanzania - Mwanza,Mwanza,TZ,Africa,Ethernet,6,0,1,0,peeringdb_ix,3
+1577,MX-IX Kolkata,Kolkata,IN,Asia Pacific,Ethernet,34,3,1,1,peeringdb_ix,3
+1582,MegaFon-IX,Moscow,RU,Europe,Ethernet,12,0,0,0,peeringdb_ix,3
+1623,AMS-IX Mumbai,Mumbai,IN,Asia Pacific,Ethernet,69,3,1,0,peeringdb_ix,3
+1627,Extreme IX Mumbai,Mumbai,IN,Asia Pacific,Ethernet,243,15,1,0,peeringdb_ix,3
+1628,MegaIX Las Vegas,Las Vegas,US,North America,Ethernet,4,3,1,0,peeringdb_ix,3
+1658,npIX AWT,Lalitpur,NP,Asia Pacific,Ethernet,19,1,1,0,peeringdb_ix,3
+1660,IXP Ecuador - STD,Santo Domingo,EC,South America,Ethernet,2,0,1,0,peeringdb_ix,3
+1663,RIX (RYUKYUIX),"Urasoe,  Naha, Ginoza, Nago, Uruma, Okinawa",JP,Asia Pacific,Ethernet,6,4,1,0,peeringdb_ix,3
+1668,CIX-ATL,Atlanta,US,North America,Ethernet,119,11,1,1,peeringdb_ix,3
+1669,BAIKAL-IX,Irkutsk,RU,Europe,Ethernet,10,0,1,0,peeringdb_ix,3
+1670,BreizhIX,Rennes,FR,Europe,Ethernet,20,2,1,0,peeringdb_ix,3
+1679,NNENIX,Portland,US,North America,Ethernet,10,3,1,0,peeringdb_ix,3
+1684,IX.br (PTT.br) Aracaju,Aracaju/SE,BR,South America,Ethernet,35,1,1,0,peeringdb_ix,3
+1689,NIXI Bangalore,Bangalore,IN,Asia Pacific,Ethernet,6,2,1,0,peeringdb_ix,3
+1690,NIXI Ahmedabad,Ahmedabad,IN,Asia Pacific,Ethernet,0,2,0,0,peeringdb_ix,3
+1748,MSK-IX Riga,Riga,LV,Europe,Ethernet,0,1,1,0,peeringdb_ix,3
+1754,MIXP.me,Podgorica,ME,Europe,Ethernet,2,0,1,1,peeringdb_ix,3
+1771,VNIX-HCM,Ho Chi Minh City,VN,Asia Pacific,Ethernet,6,0,1,0,peeringdb_ix,3
+1772,VNIX-HN,Hanoi,VN,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+1773,VNIX-DN,Da Nang,VN,Asia Pacific,Ethernet,5,0,1,0,peeringdb_ix,3
+1776,GABIX,Libreville,GA,Africa,Ethernet,8,2,1,0,peeringdb_ix,3
+1785,Extreme IX Hyderabad,Hyderabad,IN,Asia Pacific,Ethernet,24,5,1,0,peeringdb_ix,3
+1786,Extreme IX Chennai,Chennai,IN,Asia Pacific,Ethernet,90,10,1,0,peeringdb_ix,3
+1790,GREX,St. George's,GD,North America,Ethernet,12,0,1,0,peeringdb_ix,3
+1812,Asteroid Amsterdam,Amsterdam,NL,Europe,Ethernet,20,2,1,0,peeringdb_ix,3
+1816,A.IX,Beirut,LB,Middle East,Ethernet,12,0,0,0,peeringdb_ix,3
+1829,YXEIX,Saskatoon,CA,North America,Ethernet,24,1,1,0,peeringdb_ix,3
+1833,IXP Ecuador - MEC,Manta,EC,South America,Ethernet,0,0,0,0,peeringdb_ix,3
+1836,HIX-NZ,Hamilton,NZ,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+1837,DPE,Dunedin,NZ,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+1842,Speed-IX,Dronten,NL,Europe,Ethernet,273,12,1,0,peeringdb_ix,3
+1847,IX.br (PTT.br) Santa Maria,Santa Maria/RS,BR,South America,Ethernet,9,2,1,0,peeringdb_ix,3
+1861,CN-IX-SH,ShangHai,CN,Asia Pacific,Ethernet,4,0,0,0,peeringdb_ix,3
+1862,CN-IX-BJ,BeiJing,CN,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+1863,CN-IX-GZ,GuangZhou,CN,Asia Pacific,Ethernet,2,0,0,0,peeringdb_ix,3
+1868,STHIX - Gothenburg,Gothenburg,SE,Europe,Ethernet,12,2,1,0,peeringdb_ix,3
+1869,STHIX - Copenhagen,Copenhagen,DK,Europe,Ethernet,20,3,1,0,peeringdb_ix,3
+1870,IXPN Abuja,Abuja,NG,Africa,Ethernet,17,0,0,0,peeringdb_ix,3
+1886,Cnean,BeiJing,CN,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+1896,InteRed Panama,Panama,PA,South America,Ethernet,26,0,1,0,peeringdb_ix,3
+1915,PIT Concepcion - PIT Chile,Concepcion,CL,South America,Ethernet,7,1,1,0,peeringdb_ix,3
+1917,PIT Temuco - PIT Chile,Temuco,CL,South America,Ethernet,4,1,0,0,peeringdb_ix,3
+1923,Equinix Stockholm,Stockholm,SE,Europe,Ethernet,17,3,1,0,peeringdb_ix,3
+1925,Equinix Milan,Milan,IT,Europe,Ethernet,35,4,1,0,peeringdb_ix,3
+1926,Equinix Dublin,Dublin,IE,Europe,Ethernet,15,4,1,0,peeringdb_ix,3
+1927,Equinix Manchester,Manchester,GB,Europe,Ethernet,20,4,1,0,peeringdb_ix,3
+1933,PCIX,Piacenza,IT,Europe,Ethernet,33,8,1,0,peeringdb_ix,3
+1958,Mesh.IX,Dnipro,UA,Europe,Ethernet,3,3,1,1,peeringdb_ix,3
+1977,CLOUD-IX MSK,Moscow,RU,Europe,Ethernet,52,19,1,1,peeringdb_ix,3
+1978,CLOUD-IX SPB,St. Petersburg,RU,Europe,Ethernet,25,8,1,1,peeringdb_ix,3
+1982,CLOUD-IX EKT,Ekaterinburg,RU,Europe,Ethernet,6,3,1,1,peeringdb_ix,3
+1983,IX.br (PTT.br) João Pessoa,João Pessoa/PB,BR,South America,Ethernet,28,2,1,0,peeringdb_ix,3
+1984,RomandIX,Lausanne,CH,Europe,Ethernet,21,2,1,0,peeringdb_ix,3
+1997,Equinix London,London,GB,Europe,Ethernet,53,7,1,0,peeringdb_ix,3
+1998,Equinix Frankfurt,Frankfurt,DE,Europe,Ethernet,78,6,1,0,peeringdb_ix,3
+1999,PIT-IX,Pittsburgh,US,North America,Ethernet,36,3,1,0,peeringdb_ix,3
+2004,ANIX,Tirana,AL,Europe,Ethernet,26,1,1,0,peeringdb_ix,3
+2005,BALT-IX,Vilnius,LT,Europe,Ethernet,63,8,1,0,peeringdb_ix,3
+2013,Community-IX.ch,Zurich,CH,Europe,Ethernet,18,3,1,0,peeringdb_ix,3
+2031,Equinix Amsterdam,Amsterdam,NL,Europe,Ethernet,51,6,1,0,peeringdb_ix,3
+2032,Ninja-IX Sacramento,Sacramento,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+2035,Eurasia Peering IX,Moscow,RU,Europe,Ethernet,136,2,1,0,peeringdb_ix,3
+2036,MEX-IX McAllen,McAllen,US,North America,Ethernet,20,1,1,0,peeringdb_ix,3
+2050,GPIEX,Albany,US,North America,Ethernet,2,3,1,0,peeringdb_ix,3
+2051,IF-IX,Ivano-Frankivsk,UA,Europe,Ethernet,8,1,1,0,peeringdb_ix,3
+2062,Bharat IX - Mumbai,Mumbai,IN,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+2066,IXP.MX - Mexico City,Ciudad de México,MX,North America,Ethernet,6,1,1,0,peeringdb_ix,3
+2070,CANIX Moncton,Moncton,CA,North America,Ethernet,10,1,1,0,peeringdb_ix,3
+2078,IX.br (PTT.br) Teresina,Teresina/PI,BR,South America,Ethernet,36,0,1,0,peeringdb_ix,3
+2084,LOCIX FRANKFURT,Frankfurt am Main,DE,Europe,Ethernet,200,14,1,0,peeringdb_ix,3
+2086,IX.br (PTT.br) São Luís,São Luís/MA,BR,South America,Ethernet,55,1,1,0,peeringdb_ix,3
+2088,PhillyIX,Philadelphia,US,North America,Ethernet,29,3,1,0,peeringdb_ix,3
+2102,MMIX Yangon,Yangon,MM,Asia Pacific,Ethernet,46,2,1,0,peeringdb_ix,3
+2116,GOREX,Piti,GU,Asia Pacific,Ethernet,5,1,1,0,peeringdb_ix,3
+2130,Equinix Madrid,Madrid,ES,Europe,Ethernet,12,1,1,0,peeringdb_ix,3
+2131,Equinix Lisbon,Lisbon,PT,Europe,Ethernet,18,2,1,0,peeringdb_ix,3
+2145,KG-IX Bishkek,Bishkek,KG,Europe,Ethernet,23,1,1,0,peeringdb_ix,3
+2149,PITER-IX Saint-Petersburg,Saint-Petersburg,RU,Europe,Ethernet,244,12,1,0,peeringdb_ix,3
+2163,FCIX,Fremont,US,North America,Ethernet,141,2,1,0,peeringdb_ix,3
+2167,Extreme IX Kolkata,Kolkata,IN,Asia Pacific,Ethernet,25,2,1,0,peeringdb_ix,3
+2176,PIT entel,Santiago,CL,South America,Ethernet,3,2,1,0,peeringdb_ix,3
+2182,Equinix Denver,Denver,US,North America,Ethernet,4,2,1,0,peeringdb_ix,3
+2183,Equinix Houston,Houston,US,North America,Ethernet,0,1,1,0,peeringdb_ix,3
+2186,Baltimore IX,Baltimore,US,North America,Ethernet,3,2,0,0,peeringdb_ix,3
+2195,Amaravati IX,Amaravati,IN,Asia Pacific,Ethernet,13,1,1,0,peeringdb_ix,3
+2207,DV-IX,Chita,RU,Asia Pacific,Ethernet,1,0,0,1,peeringdb_ix,3
+2208,TIX Tanzania - Zanzibar,Zanzibar,TZ,Africa,Ethernet,6,0,1,0,peeringdb_ix,3
+2210,ANI-IX Delhi,Delhi,IN,Asia Pacific,Ethernet,30,3,1,0,peeringdb_ix,3
+2239,BHNIX,Sarajevo,BA,Europe,Ethernet,9,1,1,0,peeringdb_ix,3
+2245,NIXA,Kabul,AF,Asia Pacific,Ethernet,16,0,0,1,peeringdb_ix,3
+2250,KAZ-GOV-IX Astana,Astana,KZ,Asia Pacific,Ethernet,15,1,1,0,peeringdb_ix,3
+2251,Remki Internet Exchange (RIX),Guntur,IN,Asia Pacific,Ethernet,1,1,1,0,peeringdb_ix,3
+2253,ix.kw,Kuwait City,KW,Middle East,Ethernet,15,2,1,0,peeringdb_ix,3
+2272,TTIX2,Princes Town,TT,South America,Ethernet,8,1,1,0,peeringdb_ix,3
+2274,EVIX,Fremont,US,North America,Ethernet,190,2,1,0,peeringdb_ix,3
+2276,IXP.mk,Skopje,MK,Europe,Ethernet,17,3,1,0,peeringdb_ix,3
+2286,FD-IX - Ohio,"Cleveland, Ohio",US,North America,Ethernet,5,10,1,1,peeringdb_ix,3
+2289,Equinix Bogota,Bogota,CO,South America,Ethernet,45,2,1,0,peeringdb_ix,3
+2291,IX.br (PTT.br) Maceió,Maceió/AL,BR,South America,Ethernet,31,1,1,0,peeringdb_ix,3
+2299,SAIX Saudi Arabia Riyadh,Riyadh,SA,Middle East,Ethernet,35,1,1,0,peeringdb_ix,3
+2301,MARIIX,Mangilao,GU,Asia Pacific,Ethernet,9,1,1,0,peeringdb_ix,3
+2317,Ninja-IX Charlotte,Charlotte,US,North America,Ethernet,3,2,1,0,peeringdb_ix,3
+2318,Ninja-IX Dallas,Dallas,US,North America,Ethernet,7,2,1,0,peeringdb_ix,3
+2319,Ninja-IX Houston,Houston,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+2320,SIXP Sudan,Khartoum,SD,Africa,Ethernet,4,0,1,0,peeringdb_ix,3
+2332,PNG Neutral IX POM,Port Moresby,PG,Asia Pacific,Ethernet,13,0,0,0,peeringdb_ix,3
+2341,REDIX Chennai,Chennai,IN,Asia Pacific,Ethernet,2,2,1,0,peeringdb_ix,3
+2345,GetaFIX Manila,Manila,PH,Asia Pacific,Ethernet,128,7,1,0,peeringdb_ix,3
+2353,PR-IX,San Juan,PR,North America,Ethernet,30,15,1,0,peeringdb_ix,3
+2355,btIX,Thimphu,BT,Asia Pacific,Ethernet,15,1,1,0,peeringdb_ix,3
+2362,KIXP-Mombasa,Mombasa,KE,Africa,Ethernet,41,2,1,0,peeringdb_ix,3
+2365,CHIX-CH,Frauenfeld,CH,Europe,Ethernet,66,11,1,1,peeringdb_ix,3
+2381,AMS-IX Lagos,Lagos,NG,Africa,Ethernet,53,1,1,0,peeringdb_ix,3
+2386,GR-IX::Thessaloniki,Thessaloniki,GR,Europe,Ethernet,21,1,1,0,peeringdb_ix,3
+2387,CANIX Saint John,Saint John,CA,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+2388,TGIX,Lomé,TG,Africa,Ethernet,9,1,1,0,peeringdb_ix,3
+2402,SPACE-IX,Moscow,RU,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+2407,MISPA-IXP,Ulaanbaatar,MN,Asia Pacific,Ethernet,14,0,1,0,peeringdb_ix,3
+2410,SoIXP,Mogadishu,SO,Africa,Ethernet,0,0,1,1,peeringdb_ix,3
+2414,IXPN Kano,Kano,NG,Africa,Ethernet,6,0,1,0,peeringdb_ix,3
+2415,IXPN Port Harcourt,Port Harcourt,NG,Africa,Ethernet,3,0,1,0,peeringdb_ix,3
+2447,4b42 Internet Exchange Point,Zurich,CH,Europe,Ethernet,283,1,1,0,peeringdb_ix,3
+2452,UNM-Exch Canada-West,Vancouver,CA,North America,Ethernet,66,2,1,0,peeringdb_ix,3
+2454,CSL Thai-IX Malaysia,Bangkok,TH,Asia Pacific,Ethernet,13,5,1,0,peeringdb_ix,3
+2457,SR-IX,Bishkek,KG,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+2467,BBIX Thailand,Bangkok,TH,Asia Pacific,Ethernet,49,4,1,0,peeringdb_ix,3
+2476,JKT-IX,Jakarta,ID,Asia Pacific,Ethernet,874,6,1,0,peeringdb_ix,3
+2486,CMH-IX,Columbus,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+2494,CSL Thai-IX Singapore,Bangkok,TH,Asia Pacific,Ethernet,16,4,1,0,peeringdb_ix,3
+2495,CSL Thai-IX Bangkok,Bangkok,TH,Asia Pacific,Ethernet,18,4,1,0,peeringdb_ix,3
+2496,BelgiumIX,"Brussels, Ghent, Leuven, Antwerp, Hasselt",BE,Europe,Ethernet,32,13,1,0,peeringdb_ix,3
+2497,KazNIX,Semey,KZ,Asia Pacific,Ethernet,12,1,1,0,peeringdb_ix,3
+2516,BDIX,Dhaka,BD,Asia Pacific,Ethernet,170,3,1,0,peeringdb_ix,3
+2520,IXP-GUINEE,Conakry,GN,Africa,Ethernet,10,0,0,0,peeringdb_ix,3
+2522,KRIX(SEJONG),Seoul,KR,Asia Pacific,Ethernet,10,1,1,0,peeringdb_ix,3
+2531,DE-CIX Lisbon,Lisbon,PT,Europe,Ethernet,62,3,1,0,peeringdb_ix,3
+2537,STIX,Bozen/Bolzano,IT,Europe,Ethernet,11,1,1,0,peeringdb_ix,3
+2541,CAMIX Douala,Douala,CM,Africa,Ethernet,10,1,1,1,peeringdb_ix,3
+2551,Digital Realty Chicago,Chicago,US,North America,Ethernet,7,3,1,0,peeringdb_ix,3
+2552,BDIXP,Bujumbura,BI,Africa,Ethernet,9,1,0,0,peeringdb_ix,3
+2553,LVIV-IX,Lviv,UA,Europe,Ethernet,16,0,1,0,peeringdb_ix,3
+2554,CAMIX Yaounde,Yaoundé,CM,Africa,Ethernet,4,1,0,1,peeringdb_ix,3
+2558,NYIIX Philadelphia,Philadelphia,US,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+2563,EdgeIX - Darwin,Darwin,AU,Australia,Ethernet,9,2,1,0,peeringdb_ix,3
+2564,iX-OKC,Oklahoma City,US,North America,Ethernet,16,1,1,0,peeringdb_ix,3
+2569,NL-ix 2,Amsterdam,NL,Europe,Ethernet,13,4,1,0,peeringdb_ix,3
+2571,SBIX Zurich,Lupfig,CH,Europe,Ethernet,41,1,1,1,peeringdb_ix,3
+2572,Digital Realty Ashburn,Ashburn,US,North America,Ethernet,9,2,1,0,peeringdb_ix,3
+2584,CANIX Ottawa,Ottawa / Gatineau,CA,North America,Ethernet,15,1,1,0,peeringdb_ix,3
+2585,STLIX,"Saint Louis, MO",US,North America,Ethernet,85,4,1,0,peeringdb_ix,3
+2587,DE-CIX Delhi,Delhi,IN,Asia Pacific,Ethernet,109,11,1,0,peeringdb_ix,3
+2588,DE-CIX Chennai,Chennai,IN,Asia Pacific,Ethernet,78,10,1,0,peeringdb_ix,3
+2589,DE-CIX Kolkata,Kolkata,IN,Asia Pacific,Ethernet,19,3,1,0,peeringdb_ix,3
+2601,LOCIX NETHERLANDS,Meppel,NL,Europe,Ethernet,46,2,1,0,peeringdb_ix,3
+2602,EdgeIX - Hobart,Hobart,AU,Australia,Ethernet,7,0,1,0,peeringdb_ix,3
+2611,KM-IX old,Хмельницький,UA,Europe,Ethernet,2,0,1,0,peeringdb_ix,3
+2612,SAT-IX,"San Antonio, TX",US,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+2617,Harare IX,Harare,ZW,Africa,Ethernet,2,0,1,0,peeringdb_ix,3
+2622,IIX-Bali,Denpasar,ID,Asia Pacific,Ethernet,36,2,1,0,peeringdb_ix,3
+2624,TIX Tanzania - Dodoma,Dodoma,TZ,Africa,Ethernet,8,0,1,0,peeringdb_ix,3
+2627,Equinix Perth,Perth,AU,Australia,Ethernet,27,1,1,0,peeringdb_ix,3
+2628,center3 IX Jeddah,Jeddah,SA,Middle East,Ethernet,25,2,1,0,peeringdb_ix,3
+2631,Manama IX,Manama,BH,Middle East,Ethernet,29,1,1,0,peeringdb_ix,3
+2633,Equinix Barcelona,Barcelona,ES,Europe,Ethernet,11,1,1,0,peeringdb_ix,3
+2658,EdgeIX - Adelaide,Adelaide,AU,Australia,Ethernet,36,4,1,0,peeringdb_ix,3
+2665,MLIX,Bamako,ML,Africa,Ethernet,7,1,1,0,peeringdb_ix,3
+2670,BatamIX Jakarta,Jakarta,ID,Asia Pacific,Ethernet,7,3,1,0,peeringdb_ix,3
+2672,DACS-IX East,Washington DC,US,North America,Ethernet,15,5,1,0,peeringdb_ix,3
+2675,VarnaIX,Varna,BG,Europe,Ethernet,18,0,1,0,peeringdb_ix,3
+2677,STHIX - Sundsvall,Sundsvall,SE,Europe,Ethernet,3,1,1,0,peeringdb_ix,3
+2680,PIT - Peru - Lima,Lima,PE,South America,Ethernet,89,4,1,0,peeringdb_ix,3
+2682,SIXP Gambia,Serekunda,GM,Africa,Ethernet,2,0,0,0,peeringdb_ix,3
+2685,Equinix Seoul,Seoul,KR,Asia Pacific,Ethernet,9,2,1,0,peeringdb_ix,3
+2693,UEPG Internet Exchange,Ponta Grossa/PR,BR,South America,Ethernet,11,1,1,0,peeringdb_ix,3
+2700,IXP FI HEL,Helsinki,FI,Europe,Ethernet,14,0,1,0,peeringdb_ix,3
+2704,IXP UK LON,London,GB,Europe,Ethernet,18,0,1,0,peeringdb_ix,3
+2705,IXP NL DRO,Dronten,NL,Europe,Ethernet,17,0,1,0,peeringdb_ix,3
+2706,IXP NUR,Nürnberg,DE,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+2713,CAS-IX,Casablanca,MA,Africa,Ethernet,3,1,0,1,peeringdb_ix,3
+2715,MYNAP,Cyberjaya,MY,Asia Pacific,Ethernet,1,1,1,0,peeringdb_ix,3
+2718,EdgeIX - Perth,Perth,AU,Australia,Ethernet,69,5,1,0,peeringdb_ix,3
+2722,LUBIX,Lubumbashi,CD,Africa,Ethernet,12,0,0,0,peeringdb_ix,3
+2726,BrestIX,Brest,FR,Europe,Ethernet,2,0,0,0,peeringdb_ix,3
+2728,IXP LI VAD,Vaduz,LI,Europe,Ethernet,9,0,1,0,peeringdb_ix,3
+2729,BFIX Ouagadougou,Ouagadougou,BF,Africa,Ethernet,16,3,1,0,peeringdb_ix,3
+2730,LOCIX DUSSELDORF,Dusseldorf,DE,Europe,Ethernet,194,2,1,0,peeringdb_ix,3
+2732,RO-IX,Bucharest,RO,Europe,Ethernet,2,3,1,1,peeringdb_ix,3
+2737,CXC Jakarta,Jakarta,ID,Asia Pacific,Ethernet,201,10,1,0,peeringdb_ix,3
+2741,QCIX,Davenport,US,North America,Ethernet,65,6,1,0,peeringdb_ix,3
+2746,IXP US FRE,Fremont,US,North America,Ethernet,12,0,1,0,peeringdb_ix,3
+2753,SBIX Amsterdam,Amsterdam,NL,Europe,Ethernet,5,0,1,0,peeringdb_ix,3
+2756,EdgeIX - Brisbane,Brisbane,AU,Australia,Ethernet,53,3,1,0,peeringdb_ix,3
+2761,EdgeIX - Sydney,Sydney,AU,Australia,Ethernet,130,10,1,0,peeringdb_ix,3
+2762,EdgeIX - Melbourne,Melbourne,AU,Australia,Ethernet,73,5,1,0,peeringdb_ix,3
+2766,IIX-Jabar,Bandung,ID,Asia Pacific,Ethernet,43,1,1,0,peeringdb_ix,3
+2767,IIX-Lampung,Bandar Lampung,ID,Asia Pacific,Ethernet,16,1,0,0,peeringdb_ix,3
+2774,Rottweiler Internet Exchange,Rottweil,DE,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+2775,NIX-BD,Noakhali,BD,Asia Pacific,Ethernet,0,1,1,0,peeringdb_ix,3
+2776,CSIX,Vancouver,CA,North America,Ethernet,16,4,1,0,peeringdb_ix,3
+2783,Gig IX Ashburn,Ashburn,US,North America,Ethernet,3,0,1,0,peeringdb_ix,3
+2784,FURB IX,Blumenau,BR,South America,Ethernet,3,1,0,0,peeringdb_ix,3
+2785,STHIX - Umeå,Umeå,SE,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+2786,AIX-BD,Dhaka,BD,Asia Pacific,Ethernet,35,1,1,1,peeringdb_ix,3
+2787,TR-IX,Istanbul,TR,Europe,Ethernet,12,3,1,0,peeringdb_ix,3
+2797,CHC-IX (Christchurch NZ),Christchurch,NZ,Asia Pacific,Ethernet,16,2,1,0,peeringdb_ix,3
+2798,IXP BEA,Beauharnois,CA,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+2799,ITI-IX,Tashkent,UZ,Asia Pacific,Ethernet,0,2,1,1,peeringdb_ix,3
+2801,LONAP Multicast (defunct),London,GB,Europe,Ethernet,0,0,0,1,peeringdb_ix,3
+2802,MekongIX,Phnom Penh,KH,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+2804,RO-CIX,Braila,RO,Europe,Ethernet,4,4,1,1,peeringdb_ix,3
+2812,NIXI Guwahati,Guwahati,IN,Asia Pacific,Ethernet,1,1,0,0,peeringdb_ix,3
+2815,Asteroid Mombasa,Mombasa,KE,Africa,Ethernet,1,0,1,0,peeringdb_ix,3
+2819,QIX Qatar,Doha,QA,Middle East,Ethernet,31,3,1,0,peeringdb_ix,3
+2822,IX.br (PTT.br) Cascavel,Cascavel/PR,BR,South America,Ethernet,34,3,1,0,peeringdb_ix,3
+2830,MUS-IX,"Dallas, TX",US,North America,Ethernet,11,2,1,1,peeringdb_ix,3
+2835,HOUIX,Houston,US,North America,Ethernet,59,4,1,0,peeringdb_ix,3
+2836,SNS-IX,Tashkent,UZ,Asia Pacific,Ethernet,18,1,1,1,peeringdb_ix,3
+2845,Netnod Stockholm GREEN -- MTU4470,Stockholm,SE,Europe,Ethernet,76,12,1,0,peeringdb_ix,3
+2846,Netnod Stockholm BLUE -- MTU1500,Stockholm,SE,Europe,Ethernet,182,12,1,0,peeringdb_ix,3
+2847,Netnod Stockholm BLUE -- MTU4470,Stockholm,SE,Europe,Ethernet,76,12,1,0,peeringdb_ix,3
+2848,NIX.CZ FENIX,Prague,CZ,Europe,Ethernet,8,11,1,0,peeringdb_ix,3
+2849,GigaPIX - LAN 2,Lisbon,PT,Europe,Ethernet,17,5,1,0,peeringdb_ix,3
+2853,FICIX 2 (Helsinki) IPv6 MTU 9000,Helsinki,FI,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+2861,JINX Voice,Johannesburg,ZA,Africa,Ethernet,4,4,1,0,peeringdb_ix,3
+2865,Netnod Gothenburg -- MTU4470,Gothenburg,SE,Europe,Ethernet,13,2,1,0,peeringdb_ix,3
+2868,Netnod Copenhagen BLUE -- MTU9K,Malmo / Copenhagen,DK,Europe,Ethernet,69,4,1,0,peeringdb_ix,3
+2869,Netnod Sundsvall -- MTU4470,Sundsvall / Gavle,SE,Europe,Ethernet,11,3,1,0,peeringdb_ix,3
+2899,CINX Voice,Cape Town,ZA,Africa,Ethernet,0,3,1,0,peeringdb_ix,3
+2904,FICIX 3 (Oulu) IPv6 MTU 9000,Oulu,FI,Europe,Ethernet,2,1,1,0,peeringdb_ix,3
+2915,Giganet IXN Odesa,Odessa,UA,Europe,Ethernet,22,6,1,0,peeringdb_ix,3
+2916,Giganet IXN Kharkіv,Kharkiv,UA,Europe,Ethernet,13,7,1,0,peeringdb_ix,3
+2918,Giganet IXN Warsaw,Warsaw,PL,Europe,Ethernet,49,9,1,0,peeringdb_ix,3
+2955,IX Liverpool - Baltic Bubble,Liverpool,GB,Europe,Ethernet,3,3,1,0,peeringdb_ix,3
+2956,IX Liverpool Internet of Things LAN,Liverpool,GB,Europe,Ethernet,0,3,1,0,peeringdb_ix,3
+2957,IX Liverpool GRX Peering Exchange (5G),Liverpool,GB,Europe,Ethernet,0,3,0,0,peeringdb_ix,3
+2963,FICIX 1 (Espoo) IPv6 MTU 9000,Espoo,FI,Europe,Ethernet,5,1,1,0,peeringdb_ix,3
+3017,PITER-IX Moscow,Moscow,RU,Europe,Ethernet,240,14,1,0,peeringdb_ix,3
+3018,PITER-IX Tallinn,Tallinn,EE,Europe,Ethernet,60,2,0,0,peeringdb_ix,3
+3019,PITER-IX Riga,Riga,LV,Europe,Ethernet,63,1,0,0,peeringdb_ix,3
+3069,ARIX,"Fremont, Portland, Flagstaff",US,North America,Ethernet,20,1,1,0,peeringdb_ix,3
+3072,Linxdatacenter-IX,Moscow,RU,Europe,Ethernet,5,1,0,0,peeringdb_ix,3
+3079,SUMMIT NIX,Dhaka,BD,Asia Pacific,Ethernet,20,0,1,0,peeringdb_ix,3
+3081,Statewide NC-IX,Charlotte,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+3085,Fiji-IXP,Suva,FJ,Asia Pacific,Ethernet,3,0,0,0,peeringdb_ix,3
+3087,IIX-Jogja,Yogyakarta,ID,Asia Pacific,Ethernet,28,1,0,0,peeringdb_ix,3
+3090,SpokaneIX,Spokane,US,North America,Ethernet,11,4,1,0,peeringdb_ix,3
+3091,Navégalo IXPCR,San Jose,CR,South America,Ethernet,0,0,0,1,peeringdb_ix,3
+3093,FSIX Shanghai,Shanghai,CN,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+3096,IX.br (PTT.br) Campo Grande,Campo Grande/MS,BR,South America,Ethernet,32,3,1,0,peeringdb_ix,3
+3097,TIX Tanzania - Mbeya,Mbeya,TZ,Africa,Ethernet,2,0,1,0,peeringdb_ix,3
+3098,BFD-IX,Bradford,GB,Europe,Ethernet,11,2,1,0,peeringdb_ix,3
+3105,DACS-IX Central,Chicago,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+3106,DACS-IX West,Silicon Valley,US,North America,Ethernet,14,2,1,0,peeringdb_ix,3
+3117,FEZIX,Fez,MA,Africa,Ethernet,3,1,0,1,peeringdb_ix,3
+3118,SBIX Dusseldorf,Dusseldorf,DE,Europe,Ethernet,5,1,1,0,peeringdb_ix,3
+3122,PIONIER-IX,"Białystok, Poznań, Wrocław, Szczecin, Opole, Częstochowa",PL,Europe,Ethernet,5,1,1,0,peeringdb_ix,3
+3148,HPT1-IX,honolulu,US,Asia Pacific,Ethernet,1,1,0,0,peeringdb_ix,3
+3149,IXPlay Global Peers,Madrid,ES,Europe,Ethernet,63,6,1,0,peeringdb_ix,3
+3156,JTIX (Thailand),Nonthaburi,TH,Asia Pacific,Ethernet,11,2,1,0,peeringdb_ix,3
+3160,NEO-IX,"Akron, Ohio",US,North America,Ethernet,7,3,1,0,peeringdb_ix,3
+3166,ZXIX Hangzhou,Hangzhou,CN,Asia Pacific,Ethernet,25,0,1,0,peeringdb_ix,3
+3168,Palestine Internet Exchange Point - PSIX,Ramallah,PS,Middle East,Ethernet,21,1,1,0,peeringdb_ix,3
+3170,DCI Indonesia DCI-IX,Bekasi,ID,Asia Pacific,Ethernet,60,8,1,0,peeringdb_ix,3
+3175,TOHU IX,Guangzhou,CN,Asia Pacific,Ethernet,19,0,1,0,peeringdb_ix,3
+3179,48 IX,Phoenix,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+3182,PIT - Guatemala - Guatemala City,Guatemala City,GT,North America,Ethernet,25,1,1,1,peeringdb_ix,3
+3184,DE-CIX Athens,Athens,GR,Europe,Ethernet,17,1,1,0,peeringdb_ix,3
+3185,BBIX US-West,West Coast,US,North America,Ethernet,88,3,1,0,peeringdb_ix,3
+3186,BBIX Dallas,Dallas,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+3187,BBIX Chicago,Chicago,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+3188,BBIX Miami,Miami,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+3189,BBIX London,London,GB,Europe,Ethernet,3,1,1,0,peeringdb_ix,3
+3190,BBIX Amsterdam,Amsterdam,NL,Europe,Ethernet,50,2,1,0,peeringdb_ix,3
+3192,ManxIX,Douglas,IM,Europe,Ethernet,0,0,1,1,peeringdb_ix,3
+3195,SpringIX,"Springfield, MO",US,North America,Ethernet,17,2,1,0,peeringdb_ix,3
+3211,STACIX,Frankfurt,DE,Europe,Ethernet,5,4,1,0,peeringdb_ix,3
+3212,Equinix Rio de Janeiro,Rio de Janeiro,BR,South America,Ethernet,20,2,1,0,peeringdb_ix,3
+3224,BVIX,Road Town,VG,North America,Ethernet,8,0,1,0,peeringdb_ix,3
+3226,IX42 LAS,Las Vegas,US,North America,Ethernet,11,0,1,0,peeringdb_ix,3
+3230,IXRR Internet Exchange Roraima,Boa Vista,BR,South America,Ethernet,7,1,1,0,peeringdb_ix,3
+3232,OpenSwitch-IX,Kolkata,IN,Asia Pacific,Ethernet,9,0,1,0,peeringdb_ix,3
+3237,IX42 SG,Singapore,SG,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+3238,IXP INFOCOM,San José,CR,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+3246,ZXIX Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,86,0,1,0,peeringdb_ix,3
+3247,FD-IX - Austin,Austin,US,North America,Ethernet,4,4,1,1,peeringdb_ix,3
+3261,IXP.MX - Querétaro,Querétaro,MX,North America,Ethernet,0,1,1,0,peeringdb_ix,3
+3264,FD-IX - Houston,Houston,US,North America,Ethernet,6,7,1,1,peeringdb_ix,3
+3266,Equinix Mexico,Mexico City,MX,North America,Ethernet,8,1,1,0,peeringdb_ix,3
+3278,IXBradford,Bradford,GB,Europe,Ethernet,9,1,1,1,peeringdb_ix,3
+3280,KA-NIX,Karlsruhe,DE,Europe,Ethernet,8,3,1,0,peeringdb_ix,3
+3283,THESS-IX,Thessaloniki,GR,Europe,Ethernet,7,1,1,0,peeringdb_ix,3
+3285,GeekIX Taoyuan (Jumbo),Taoyuan,TW,Asia Pacific,Ethernet,11,0,1,0,peeringdb_ix,3
+3286,SBIX FRE,Fremont / Neuheim,US,Europe,Ethernet,10,0,1,0,peeringdb_ix,3
+3288,GrunIX,Groningen,NL,Europe,Ethernet,8,1,1,1,peeringdb_ix,3
+3290,MIX Palermo,Palermo,IT,Europe,Ethernet,19,1,1,0,peeringdb_ix,3
+3299,PITER-IX Helsinki,Helsinki,FI,Europe,Ethernet,125,1,0,0,peeringdb_ix,3
+3302,PyramIX,Cairo,EG,Africa,Ethernet,16,3,1,1,peeringdb_ix,3
+3303,BKNIX Chiang Mai (Thailand),Chiang Mai,TH,Asia Pacific,Ethernet,8,0,1,0,peeringdb_ix,3
+3312,JumboIX Peru,Lima,PE,South America,Ethernet,26,11,1,0,peeringdb_ix,3
+3322,ABQIX,Albuquerque,US,North America,Ethernet,12,4,1,0,peeringdb_ix,3
+3329,IIX-Jateng,Semarang,ID,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+3333,PIT Bolivia,La Paz,BO,South America,Ethernet,18,1,1,1,peeringdb_ix,3
+3335,Equinix Muscat,Muscat,OM,Middle East,Ethernet,9,1,1,0,peeringdb_ix,3
+3337,BIX Surabaya,"Surabaya, East Java",ID,Asia Pacific,Ethernet,13,1,1,0,peeringdb_ix,3
+3338,BIX Malang,"Malang, East Java",ID,Asia Pacific,Ethernet,6,1,1,0,peeringdb_ix,3
+3339,BIX Semarang,"Semarang, Central Java",ID,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+3340,BIX Denpasar,"Denpasar, Bali",ID,Asia Pacific,Ethernet,8,1,1,0,peeringdb_ix,3
+3341,BIX Bandung,"Bandung, West Java",ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+3342,IX-DO,Santo Domingo,DO,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+3348,JPNAP Fukuoka,Fukuoka,JP,Asia Pacific,Ethernet,19,3,1,0,peeringdb_ix,3
+3352,STUIX,Taipei City,TW,Asia Pacific,Ethernet,129,2,1,0,peeringdb_ix,3
+3365,BatamIX Batam,Batam,ID,Asia Pacific,Ethernet,3,2,1,0,peeringdb_ix,3
+3366,Aqaba IX,Aqaba,JO,Middle East,Ethernet,19,1,1,0,peeringdb_ix,3
+3373,NCL-IX,Newcastle,GB,Europe,Ethernet,6,2,1,0,peeringdb_ix,3
+3378,DE-CIX Chicago,Chicago,US,North America,Ethernet,83,11,1,0,peeringdb_ix,3
+3379,PCTA-IX Luzon,Pasig City,PH,Asia Pacific,Ethernet,14,3,0,0,peeringdb_ix,3
+3384,BéarnIX,Pau,FR,Europe,Ethernet,9,0,1,0,peeringdb_ix,3
+3387,NCJX-Neutral Connect J-Xchange,Jakarta,ID,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+3393,HamroIX-Amsterdam,Amsterdam,NL,Europe,Ethernet,4,0,1,0,peeringdb_ix,3
+3401,BFIX Bobo-Dioulasso,Bobo-Dioulasso,BF,Africa,Ethernet,6,0,1,0,peeringdb_ix,3
+3403,NAPAfrica MAPS Johannesburg,Johannesburg,ZA,Africa,Ethernet,26,1,0,0,peeringdb_ix,3
+3405,Ruhr-CIX,Ruhr Region,DE,Europe,Ethernet,9,3,1,0,peeringdb_ix,3
+3407,PaducahIX,Paducah,US,North America,Ethernet,10,1,1,0,peeringdb_ix,3
+3408,HSIX-NZ,Auckland,NZ,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3409,HSIX-QLD,Brisbane,AU,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3410,HSIX-NSW,Sydney,AU,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3411,HSIX-VIC,Melbourne,AU,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3412,HSIX-WA,Perth,AU,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3413,HSIX-SA,Adelaide,AU,Australia,Ethernet,1,0,0,0,peeringdb_ix,3
+3414,HSIX-APAC,Sydney,AU,Australia,Ethernet,0,0,0,0,peeringdb_ix,3
+3416,PITER-IX Kiev,Киев,UA,Europe,Ethernet,23,0,0,0,peeringdb_ix,3
+3417,PNG Neutral IX Lae,Lae,PG,Asia Pacific,Ethernet,4,0,0,0,peeringdb_ix,3
+3418,PIT - Peru - Arequipa,Arequipa,PE,South America,Ethernet,14,1,1,0,peeringdb_ix,3
+3422,kremen-IX,Kremenchuk,UA,Europe,Ethernet,9,2,1,1,peeringdb_ix,3
+3428,TRUE-IX,Bangkok,TH,Asia Pacific,Ethernet,21,6,1,0,peeringdb_ix,3
+3430,HamroIX-Rome,Rome,IT,Europe,Ethernet,1,1,1,0,peeringdb_ix,3
+3436,Ouest.Network,Nantes,FR,Europe,Ethernet,9,2,1,0,peeringdb_ix,3
+3440,Borneo-IX,Bandar Seri Begawan,BN,Asia Pacific,Ethernet,11,4,1,0,peeringdb_ix,3
+3445,Ninja-IX Raleigh,"Raleigh, NC",US,North America,Ethernet,2,1,1,0,peeringdb_ix,3
+3446,DE-CIX Barcelona,Barcelona,ES,Europe,Ethernet,42,4,1,0,peeringdb_ix,3
+3447,GeekIX Taoyuan,Taoyuan,TW,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+3448,Múli IXP,Reykjavik,IS,Europe,Ethernet,4,1,1,0,peeringdb_ix,3
+3449,IXSY,Mérida,MX,North America,Ethernet,14,2,1,0,peeringdb_ix,3
+3450,IPNET-DELHI,Delhi,IN,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+3463,SP-iXP Mumbai,Mumbai,IN,Asia Pacific,Ethernet,2,4,0,1,peeringdb_ix,3
+3464,IX42 NYC,New York City,US,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+3466,Willamette Internet Exchange,Eugene,US,North America,Ethernet,13,1,1,0,peeringdb_ix,3
+3467,KTL-IX,Dhaka,BD,Asia Pacific,Ethernet,17,1,1,0,peeringdb_ix,3
+3471,Aperture-IX,Hong Kong,HK,Asia Pacific,Ethernet,12,1,1,0,peeringdb_ix,3
+3472,DE-CIX ASEAN,Singapore,SG,Asia Pacific,Ethernet,139,21,1,0,peeringdb_ix,3
+3473,DE-CIX Kuala Lumpur,Kuala Lumpur,MY,Asia Pacific,Ethernet,39,7,1,0,peeringdb_ix,3
+3474,DE-CIX Malaysia,"Kuala Lumpur, Cyberjaya, Johor Bahru",MY,Asia Pacific,Ethernet,13,7,1,0,peeringdb_ix,3
+3476,Global Peer Exchange,Washington,US,North America,Ethernet,6,114,0,0,peeringdb_ix,3
+3477,DSIX,Bucharest,RO,Europe,Ethernet,9,1,1,0,peeringdb_ix,3
+3478,ixFabric,Global,AU,Australia,Ethernet,2,20,1,0,peeringdb_ix,3
+3480,BTCL IX,Dhaka,BD,Asia Pacific,Ethernet,39,0,0,1,peeringdb_ix,3
+3487,PERM-IX,Perm,RU,Europe,Ethernet,1,0,0,0,peeringdb_ix,3
+3495,JinIX,Gianyar,ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+3496,Denver IX,Denver,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+3512,Frys-IX,Fryslân,NL,Europe,Ethernet,327,15,1,0,peeringdb_ix,3
+3528,SIIX Pomezia,Pomezia,IT,Europe,Ethernet,11,2,1,1,peeringdb_ix,3
+3530,SXMIX,SAINT-MARTIN,MF,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+3532,CNI-IX,Jakarta,ID,Asia Pacific,Ethernet,18,6,0,0,peeringdb_ix,3
+3534,Tehran IX,Tehran,IR,Middle East,Ethernet,3,0,0,0,peeringdb_ix,3
+3540,OPTIX,Fremont,US,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+3541,JumboIX Cyprus,Limassol,CY,Middle East,Ethernet,4,1,1,0,peeringdb_ix,3
+3543,IXPSU Hangzhou,Hangzhou,CN,Asia Pacific,Ethernet,5,0,1,0,peeringdb_ix,3
+3553,IXP APROSVA PASAJE,PASAJE,EC,South America,Ethernet,4,0,0,0,peeringdb_ix,3
+3557,PIT - Peru - Trujillo,Trujillo,PE,South America,Ethernet,6,0,1,0,peeringdb_ix,3
+3558,GetaFIX Cebu,Cebu,PH,Asia Pacific,Ethernet,10,2,1,0,peeringdb_ix,3
+3560,DesMoinesIX,Des Moines,US,North America,Ethernet,8,2,1,0,peeringdb_ix,3
+3561,Douala-IX,Douala,CM,Africa,Ethernet,8,1,1,0,peeringdb_ix,3
+3562,1-IX UA,Kyiv,UA,Europe,Ethernet,109,0,1,0,peeringdb_ix,3
+3568,WLG-IX (Wellington NZ),Wellington,NZ,Australia,Ethernet,24,2,1,0,peeringdb_ix,3
+3570,Free-IX Switzerland,"Geneva, Zurich, Lugano",CH,Europe,Ethernet,20,3,1,0,peeringdb_ix,3
+3572,SaarCix,Saarbrücken,DE,Europe,Ethernet,1,3,1,0,peeringdb_ix,3
+3573,FMIX,"Fargo, ND",US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+3574,Baoshuo Internet Exchange,/,CN,Asia Pacific,Ethernet,1,0,1,0,peeringdb_ix,3
+3582,IIX-Sumut,Medan,ID,Asia Pacific,Ethernet,7,1,0,0,peeringdb_ix,3
+3589,GIX Cebu,Cebu,PH,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+3594,EPIX.Poznan,Poznan,PL,Europe,Ethernet,23,1,1,0,peeringdb_ix,3
+3603,ZXIX Wuhan (L),Wuhan,CN,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+3607,SONIX Stockholm,Stockholm,SE,Europe,Ethernet,81,8,1,0,peeringdb_ix,3
+3612,IX-LGS,Lages,BR,South America,Ethernet,1,0,1,0,peeringdb_ix,3
+3616,IX.br (PTT.br) Boa Vista,Boa Vista/RR,BR,South America,Ethernet,11,1,1,0,peeringdb_ix,3
+3626,IXSal,San Salvador,SV,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+3633,GOMIX,Goma,CD,Africa,Ethernet,11,0,0,0,peeringdb_ix,3
+3634,Lambda-IX,Fremont,US,North America,Ethernet,22,1,1,0,peeringdb_ix,3
+3646,IFXVE - Lebrun,Petare,VE,South America,Ethernet,0,0,0,0,peeringdb_ix,3
+3654,NNIX,Hangzhou,CN,Asia Pacific,Ethernet,10,0,1,0,peeringdb_ix,3
+3655,VOLGA-IX,Yaroslavl,RU,Europe,Ethernet,2,0,0,0,peeringdb_ix,3
+3659,GIBIRIX,İstanbul,TR,Europe,Ethernet,20,13,1,0,peeringdb_ix,3
+3671,NCIX - neuCentrIX,Jakarta,ID,Asia Pacific,Ethernet,66,13,0,0,peeringdb_ix,3
+3674,IXP.ge,Tbilisi,GE,Europe,Ethernet,14,2,1,0,peeringdb_ix,3
+3675,Insta-IX Delhi,Delhi,IN,Asia Pacific,Ethernet,8,2,0,0,peeringdb_ix,3
+3680,IX.br (PTT.br) Palmas,Palmas/TO,BR,South America,Ethernet,26,2,1,0,peeringdb_ix,3
+3681,RUDAKI-IX,Kiev,UA,Europe,Ethernet,38,9,1,0,peeringdb_ix,3
+3682,SURAJ IX,Ghaziabad,IN,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+3685,FREMIX,Fremont,US,North America,Ethernet,112,1,1,0,peeringdb_ix,3
+3702,SOLIX MTU4470,Stockholm,SE,Europe,Ethernet,18,5,1,0,peeringdb_ix,3
+3708,X3M-IX,Mumbai,IN,Asia Pacific,Ethernet,6,1,1,0,peeringdb_ix,3
+3709,PoIX,Presov,SK,Europe,Ethernet,5,0,1,0,peeringdb_ix,3
+3712,Netnod Helsinki BLUE -- MTU9K,Helsinki,FI,Europe,Ethernet,20,3,1,0,peeringdb_ix,3
+3713,Netnod Helsinki GREEN -- MTU9K,Helsinki,FI,Europe,Ethernet,20,3,1,0,peeringdb_ix,3
+3717,PIT - Colombia - Medellin,Medellin,CO,South America,Ethernet,11,1,1,0,peeringdb_ix,3
+3720,CAN'L IX,NOUMEA,NC,Asia Pacific,Ethernet,5,1,1,0,peeringdb_ix,3
+3721,JPIX FUKUOKA,Fukuoka,JP,Asia Pacific,Ethernet,15,3,1,0,peeringdb_ix,3
+3722,BBIX Fukuoka,Fukuoka,JP,Asia Pacific,Ethernet,21,2,1,0,peeringdb_ix,3
+3730,MIX Bologna,Bologna,IT,Europe,Ethernet,20,1,1,0,peeringdb_ix,3
+3732,RapidIX LON1,London,GB,Europe,Ethernet,7,1,1,0,peeringdb_ix,3
+3733,"CNIX (Qianhai, Shenzhen)",Shenzhen,CN,Asia Pacific,Ethernet,10,2,1,0,peeringdb_ix,3
+3734,Asteroid Nairobi,Nairobi,KE,Africa,Ethernet,5,0,1,0,peeringdb_ix,3
+3735,PhIX,Manila,PH,Asia Pacific,Ethernet,12,4,1,0,peeringdb_ix,3
+3737,PITER-IX Rostov,Rostov,RU,Europe,Ethernet,30,0,0,0,peeringdb_ix,3
+3739,PITER-IX Frankfurt,Frankfurt,DE,Europe,Ethernet,167,2,1,0,peeringdb_ix,3
+3743,PKIX Lahore,Lahore,PK,Asia Pacific,Ethernet,0,1,0,0,peeringdb_ix,3
+3745,SONIX Gothenburg,Gothenburg,SE,Europe,Ethernet,7,2,1,0,peeringdb_ix,3
+3750,GLV-IX,Riga,LV,Europe,Ethernet,8,6,1,0,peeringdb_ix,3
+3751,IIX Estonia,Tallinn,EE,Europe,Ethernet,4,3,1,0,peeringdb_ix,3
+3756,FogIXP,Avers,CH,Europe,Ethernet,439,11,1,0,peeringdb_ix,3
+3761,Ninja-IX Norfolk,Norfolk,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+3769,Skywolf IX US,Fremont,US,North America,Ethernet,3,0,1,0,peeringdb_ix,3
+3774,AMS-IX Kolkata,Kolkata,IN,Asia Pacific,Ethernet,6,2,1,0,peeringdb_ix,3
+3775,DE-CIX Phoenix,Phoenix,US,North America,Ethernet,37,7,1,0,peeringdb_ix,3
+3777,RV-IX,Rivne,UA,Europe,Ethernet,7,1,1,0,peeringdb_ix,3
+3782,Namex Bari,Bari,IT,Europe,Ethernet,27,1,1,0,peeringdb_ix,3
+3786,DartPoints Bridge IX Dublin,Dublin,US,North America,Ethernet,2,0,0,0,peeringdb_ix,3
+3787,"DartPoints Bridge IX Baton Rouge, LA",Baton Rouge,US,North America,Ethernet,2,1,1,0,peeringdb_ix,3
+3788,AR-IX Cabase - Argentina,Argentina,AR,South America,Ethernet,372,29,1,0,peeringdb_ix,3
+3789,ERA-IX Amsterdam,Amsterdam,NL,Europe,Ethernet,193,30,1,0,peeringdb_ix,3
+3791,Filanco-IX,Kiev,UA,Europe,Ethernet,2,2,1,0,peeringdb_ix,3
+3792,Poema IX,Taipei City,TW,Asia Pacific,Ethernet,59,0,1,0,peeringdb_ix,3
+3794,PNG Neutral IX Hagen,Mt Hagen,PG,Asia Pacific,Ethernet,2,0,0,0,peeringdb_ix,3
+3800,AMS-IX Singapore,Singapore,SG,Asia Pacific,Ethernet,13,1,1,0,peeringdb_ix,3
+3812,EG-IX,Cairo,EG,Middle East,Ethernet,18,1,1,0,peeringdb_ix,3
+3813,Extreme IX Bangalore,Bangalore,IN,Asia Pacific,Ethernet,46,6,1,0,peeringdb_ix,3
+3814,Equinix Montreal,Montreal,CA,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+3816,ixFabric - Melbourne,Melbourne,AU,Australia,Ethernet,12,0,1,0,peeringdb_ix,3
+3817,ixFabric - Adelaide,Adelaide,AU,Australia,Ethernet,9,1,1,0,peeringdb_ix,3
+3818,ixFabric - Los Angeles,Los Angeles,US,North America,Ethernet,34,0,1,0,peeringdb_ix,3
+3820,ixFabric - Singapore,Singapore,SG,Asia Pacific,Ethernet,62,0,1,0,peeringdb_ix,3
+3821,ixFabric - London,London,GB,Europe,Ethernet,114,0,1,0,peeringdb_ix,3
+3822,ixFabric - Amsterdam,Amsterdam,NL,Europe,Ethernet,179,4,1,0,peeringdb_ix,3
+3823,ixFabric - Sydney,Sydney,AU,Australia,Ethernet,19,0,1,0,peeringdb_ix,3
+3824,ixFabric - Rome,Rome,IT,Europe,Ethernet,32,0,1,0,peeringdb_ix,3
+3825,ixFabric - Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,53,1,1,0,peeringdb_ix,3
+3826,ixFabric - Moscow,Moscow,RU,Europe,Ethernet,12,0,1,0,peeringdb_ix,3
+3827,ixFabric - Auckland,Auckland,NZ,Asia Pacific,Ethernet,11,0,1,0,peeringdb_ix,3
+3828,ixFabric - Fremont,Fremont,US,North America,Ethernet,49,0,1,0,peeringdb_ix,3
+3829,ixFabric - Frankfurt,Frankfurt,DE,Europe,Ethernet,212,0,1,0,peeringdb_ix,3
+3830,ixFabric - Zurich,Zurich,CH,Europe,Ethernet,87,0,1,0,peeringdb_ix,3
+3832,ixFabric - Barcelona,Barcelona,ES,Europe,Ethernet,53,1,1,0,peeringdb_ix,3
+3835,ixFabric - Kansas,Kansas,US,North America,Ethernet,47,0,1,0,peeringdb_ix,3
+3840,ixFabric - Tel-Aviv,Tel-Aviv,IL,Europe,Ethernet,7,0,1,0,peeringdb_ix,3
+3842,ixFabric - Valdivia,Valdivia,CL,South America,Ethernet,7,0,1,0,peeringdb_ix,3
+3843,ixFabric - Johannesburg,Johannesburg,ZA,Africa,Ethernet,16,0,1,0,peeringdb_ix,3
+3844,ixFabric - Dusseldorf,Dusseldorf,DE,Europe,Ethernet,138,0,1,0,peeringdb_ix,3
+3849,ixFabric - Brisbane,Brisbane,AU,Australia,Ethernet,9,0,1,0,peeringdb_ix,3
+3850,ixFabric - Perth,Perth,AU,Australia,Ethernet,9,0,1,0,peeringdb_ix,3
+3853,SUR-IX,Paramaribo,SR,South America,Ethernet,8,0,1,0,peeringdb_ix,3
+3855,SKNIX,Basseterre,KN,North America,Ethernet,12,0,1,0,peeringdb_ix,3
+3868,Giganet IXN Zaporizhia,Zaporizhia,UA,Europe,Ethernet,5,1,1,0,peeringdb_ix,3
+3871,Giganet IXN Lviv,Lviv,UA,Europe,Ethernet,14,1,1,0,peeringdb_ix,3
+3872,SBH-IX,Saint-Barthélemy,BL,North America,Ethernet,11,1,1,0,peeringdb_ix,3
+3877,SBIX London,London,GB,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+3880,PIT - Colombia - Bogota,Bogota,CO,South America,Ethernet,60,4,1,0,peeringdb_ix,3
+3884,NAPAfrica MAPS Cape Town,Cape Town,ZA,Africa,Ethernet,5,0,0,0,peeringdb_ix,3
+3890,PTT São João M.,São João de Meriti,BR,South America,Ethernet,5,3,1,0,peeringdb_ix,3
+3891,IXRR Internet Exchange Amazonas,Manaus,BR,North America,Ethernet,5,0,1,0,peeringdb_ix,3
+3893,DANIX,Roseau,DM,North America,Ethernet,3,0,0,0,peeringdb_ix,3
+3898,Ninja-IX Bahamas,Nassau,BS,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+3903,ISPAB-NIX,Dhaka,BD,Asia Pacific,Ethernet,128,0,1,0,peeringdb_ix,3
+3910,ixFabric - Seoul,Seoul,KR,Asia Pacific,Ethernet,8,0,1,0,peeringdb_ix,3
+3911,ixFabric - Tokyo,Tokyo,JP,Asia Pacific,Ethernet,52,0,1,0,peeringdb_ix,3
+3913,ixFabric - Paris,Paris,FR,Europe,Ethernet,55,0,1,0,peeringdb_ix,3
+3915,ixFabric - Sao Paulo,Sao Paulo,BR,South America,Ethernet,21,0,1,0,peeringdb_ix,3
+3922,ixFabric - Chicago,Chicago,US,North America,Ethernet,14,0,1,0,peeringdb_ix,3
+3923,ixFabric - Miami,Miami,US,North America,Ethernet,41,0,1,0,peeringdb_ix,3
+3925,ixFabric - Kyiv,Kyiv,UA,Europe,Ethernet,10,0,1,0,peeringdb_ix,3
+3928,ixFabric - Bangkok,Bangkok,TH,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+3930,ixFabric - Bogata,Bogata,CO,South America,Ethernet,21,0,1,0,peeringdb_ix,3
+3931,ixFabric - Buenos Aires,Buenos Aires,AR,South America,Ethernet,13,0,1,0,peeringdb_ix,3
+3932,ixFabric - Fortaleza,Fortaleza,BR,South America,Ethernet,11,0,1,0,peeringdb_ix,3
+3933,ixFabric - Rio de Janeiro,Rio de Janeiro,BR,South America,Ethernet,18,0,1,0,peeringdb_ix,3
+3934,ixFabric - Lima,Lima,PE,South America,Ethernet,9,0,1,0,peeringdb_ix,3
+3935,ixFabric - Mexico City,Mexico City,MX,South America,Ethernet,12,0,1,0,peeringdb_ix,3
+3936,ixFabric - Panama City,Panama City,PA,South America,Ethernet,9,0,1,0,peeringdb_ix,3
+3937,ixFabric - Santiago,Santiago,CL,South America,Ethernet,14,0,1,0,peeringdb_ix,3
+3938,ixFabric - Quito,Quito,EC,South America,Ethernet,7,0,1,0,peeringdb_ix,3
+3941,Banyumas Internet Exchange,"Banyumas, Jawa Tengah, Indonesia",ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+3946,TheSCAX,Brookings,US,North America,Ethernet,2,1,1,0,peeringdb_ix,3
+3952,Matrix Internet Exchange (MIX),Jakarta,ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+3958,1-IX EU,"New-York, London, Paris, Madrid, Frankfurt, Amsterdam, Warsaw, Bratislava, Hong Kong",PL,Europe,Ethernet,187,33,1,0,peeringdb_ix,3
+3962,PIT - Colombia - Barranquilla,Barranquilla,CO,South America,Ethernet,11,1,1,0,peeringdb_ix,3
+3968,Grunn-IX,Groningen,NL,Europe,Ethernet,1,3,1,0,peeringdb_ix,3
+3970,Super Internet eXchange (SIX),Bogor,ID,Asia Pacific,Ethernet,4,3,0,0,peeringdb_ix,3
+3973,Ninja-IX Bay Area,Northern California,US,North America,Ethernet,5,2,1,0,peeringdb_ix,3
+3974,Ninja-IX Auburn,Auburn,US,North America,Ethernet,6,1,1,0,peeringdb_ix,3
+3986,IXP-PR,Carolina,PR,North America,Ethernet,1,0,1,0,peeringdb_ix,3
+3987,MVIXP,Male',MV,Asia Pacific,Ethernet,8,1,1,0,peeringdb_ix,3
+3990,INTERIX,Amsterdam,NL,Europe,Ethernet,232,19,1,0,peeringdb_ix,3
+3991,Port IX,"Fremont, CA",US,North America,Ethernet,2,1,0,0,peeringdb_ix,3
+3995,Mountain West Internet Exchange,Salt Lake City,US,North America,Ethernet,11,9,1,0,peeringdb_ix,3
+3997,PIT - Peru - Chiclayo,Chiclayo,PE,South America,Ethernet,13,0,1,0,peeringdb_ix,3
+3998,PIT - Peru - Cuzco,Cuzco,PE,South America,Ethernet,0,0,1,0,peeringdb_ix,3
+4000,AF-CIX,Lagos,NG,Africa,Ethernet,40,1,1,0,peeringdb_ix,3
+4002,Mario IX,Elche,ES,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4004,DE-CIX Leipzig,Leipzig,DE,Europe,Ethernet,17,2,1,0,peeringdb_ix,3
+4005,France-IX Lille,Lille,FR,Europe,Ethernet,21,1,1,0,peeringdb_ix,3
+4006,FOX,Tainan,TW,Asia Pacific,Ethernet,22,4,1,0,peeringdb_ix,3
+4007,AMS-IX Hyderabad,Hyderabad,IN,Asia Pacific,Ethernet,8,2,1,0,peeringdb_ix,3
+4008,SMART-IX,Marigot,MF,North America,Ethernet,4,0,1,0,peeringdb_ix,3
+4011,CENTRO-IX,Pekanbaru - Jakarta,ID,Asia Pacific,Ethernet,39,5,1,0,peeringdb_ix,3
+4012,Pejuang IX,Jakarta,ID,Asia Pacific,Ethernet,0,2,1,0,peeringdb_ix,3
+4015,IIX-Banten,Serang,ID,Asia Pacific,Ethernet,9,1,0,0,peeringdb_ix,3
+4018,SAIX Saudi Arabia Jeddah,Jeddah,SA,Middle East,Ethernet,16,0,1,0,peeringdb_ix,3
+4027,IIX-Rimba-1,Pekanbaru,ID,Asia Pacific,Ethernet,17,1,1,0,peeringdb_ix,3
+4028,IIX-Sulampua,Makassar,ID,Asia Pacific,Ethernet,2,1,0,0,peeringdb_ix,3
+4029,IIX-Sumsel,Palembang,ID,Asia Pacific,Ethernet,7,1,1,0,peeringdb_ix,3
+4030,IIX-Jambi,Jambi,ID,Asia Pacific,Ethernet,0,1,1,0,peeringdb_ix,3
+4033,ODIX Omadata,Surabaya,ID,Asia Pacific,Ethernet,214,2,1,0,peeringdb_ix,3
+4034,SeptemberIX,Amsterdam,NL,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4036,Electron IX,Frankfurt,DE,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4037,CV-IXP,Praia,CV,Africa,Ethernet,5,0,1,0,peeringdb_ix,3
+4040,Edge IX Birmingham,Birmingham,GB,Europe,Ethernet,0,1,0,0,peeringdb_ix,3
+4041,DE-CIX Oslo,Oslo,NO,Europe,Ethernet,9,1,1,0,peeringdb_ix,3
+4042,DE-CIX Kristiansand,Kristiansand,NO,Europe,Ethernet,7,1,1,0,peeringdb_ix,3
+4043,DE-CIX Copenhagen,Copenhagen,DK,Europe,Ethernet,11,1,1,0,peeringdb_ix,3
+4044,DE-CIX Helsinki,Helsinki,FI,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+4046,Namex Napoli,Napoli,IT,Europe,Ethernet,14,1,1,0,peeringdb_ix,3
+4047,Digital Edge EPIX Jakarta,Jakarta,ID,Asia Pacific,Ethernet,99,2,1,0,peeringdb_ix,3
+4051,PIT MX,Queretaro,MX,North America,Ethernet,45,2,1,0,peeringdb_ix,3
+4053,sumIX,Pekanbaru,ID,Asia Pacific,Ethernet,5,1,1,0,peeringdb_ix,3
+4059,ONIX,Toronto,CA,North America,Ethernet,176,3,1,0,peeringdb_ix,3
+4064,ELX-IX,Elche,ES,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4065,REMIX,Capital Region,IS,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4066,CitraIX Surakarta,Surakarta,ID,Asia Pacific,Ethernet,19,1,1,0,peeringdb_ix,3
+4069,DE-CIX Esbjerg,Esbjerg,DK,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+4073,BGPHaus,London,GB,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+4081,N'Djamena IX,N'Djamena,TD,Africa,Ethernet,9,1,1,0,peeringdb_ix,3
+4082,MoeIX SEA,Seattle,US,North America,Ethernet,15,0,1,0,peeringdb_ix,3
+4085,ADRIA-IX,Rijeka,HR,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4091,MEX-IX El Paso,El Paso,US,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+4092,Miaowoo Ashburn,Ashburn,US,North America,Ethernet,3,0,1,0,peeringdb_ix,3
+4095,PeeringDB Example IX,Example Town,AQ,South America,Ethernet,2,2,0,0,peeringdb_ix,3
+4096,Nephren IX,Hong Kong,HK,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+4105,BEE-IX,Lviv,UA,Europe,Ethernet,16,1,1,0,peeringdb_ix,3
+4109,PIT - Colombia - Cali,Cali,CO,South America,Ethernet,12,1,1,0,peeringdb_ix,3
+4110,PIT - Ecuador - Quito,Quito,EC,South America,Ethernet,14,1,1,0,peeringdb_ix,3
+4122,ACIX,Kinshasa,CD,Africa,Ethernet,6,2,1,0,peeringdb_ix,3
+4132,SIOUIX,Sioux City,US,North America,Ethernet,1,1,0,0,peeringdb_ix,3
+4133,WSNL-IX,Mumbai,IN,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+4138,KM-IX,Khmelnitsky,UA,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+4148,NMBINX,Gqeberha,ZA,Africa,Ethernet,11,1,1,0,peeringdb_ix,3
+4149,Digital Edge EPIX Philippines,Metro Manila,PH,Asia Pacific,Ethernet,7,1,1,0,peeringdb_ix,3
+4150,PIT - Argentina - Buenos Aires,Buenos Aires,AR,South America,Ethernet,22,4,1,0,peeringdb_ix,3
+4151,PIT - Peru - Piura,Piura,PE,South America,Ethernet,2,0,1,0,peeringdb_ix,3
+4152,PIT - Ecuador - Guayaquil,Guayaquil,EC,South America,Ethernet,4,1,1,0,peeringdb_ix,3
+4154,NorthIX,Copenhagen,DK,Europe,Ethernet,10,1,1,0,peeringdb_ix,3
+4159,IX.br (PTT.br) Rio Branco,Rio Branco/AC,BR,South America,Ethernet,11,0,1,0,peeringdb_ix,3
+4161,NXIXP,ZhongWei,CN,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4162,France-IX Toulouse,Toulouse,FR,Europe,Ethernet,13,1,1,0,peeringdb_ix,3
+4163,EdgeNXT,Jakarta,ID,Asia Pacific,Ethernet,133,2,1,0,peeringdb_ix,3
+4164,XSIX VAN,Vancouver,CA,North America,Ethernet,1,0,1,0,peeringdb_ix,3
+4167,Maharlika IX,Manila,PH,Asia Pacific,Ethernet,57,3,1,0,peeringdb_ix,3
+4171,SHIXP,上海市,CN,Asia Pacific,Ethernet,19,0,1,0,peeringdb_ix,3
+4172,Ge-DIX,Genova,IT,Europe,Ethernet,7,2,1,0,peeringdb_ix,3
+4174,Equinix Jeddah,Jeddah,SA,Middle East,Ethernet,5,1,1,0,peeringdb_ix,3
+4175,City-IX Frankfurt,Frankfurt,DE,Europe,Ethernet,7,3,1,0,peeringdb_ix,3
+4176,PIT Honduras,San Pedro Sula,HN,South America,Ethernet,34,0,1,0,peeringdb_ix,3
+4184,ONIX PERU,Lima,PE,South America,Ethernet,5,0,1,0,peeringdb_ix,3
+4185,Impart IX,Singapore,SG,Asia Pacific,Ethernet,10,2,1,0,peeringdb_ix,3
+4186,TurkIX Sofia,Sofia,BG,Europe,Ethernet,37,11,1,0,peeringdb_ix,3
+4189,MMIX Mandalay,Mandalay,MM,Asia Pacific,Ethernet,24,0,1,0,peeringdb_ix,3
+4191,Metta-IX,Jakarta,ID,Asia Pacific,Ethernet,16,3,1,0,peeringdb_ix,3
+4193,LabIX,Copenhagen,DK,Europe,Ethernet,4,1,1,0,peeringdb_ix,3
+4194,TrustIX,Bandung,ID,Asia Pacific,Ethernet,1,3,0,0,peeringdb_ix,3
+4200,FogIXP Frankfurt,Frankfurt,DE,Europe,Ethernet,66,5,1,0,peeringdb_ix,3
+4205,GNM-IX SG,Singapore,SG,Asia Pacific,Ethernet,15,3,1,0,peeringdb_ix,3
+4211,Equinix Mumbai,Mumbai,IN,Asia Pacific,Ethernet,24,2,1,0,peeringdb_ix,3
+4220,JKT-IX Surabaya,Surabaya,ID,Asia Pacific,Ethernet,59,1,1,0,peeringdb_ix,3
+4221,JKT-IX Bali,Denpasar,ID,Asia Pacific,Ethernet,10,0,0,0,peeringdb_ix,3
+4228,TUSIX,Tucson,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4231,LINX Nairobi,Nairobi,KE,Africa,Ethernet,65,4,1,0,peeringdb_ix,3
+4232,AMS-IX Bangkok,Bangkok,TH,Asia Pacific,Ethernet,16,2,1,0,peeringdb_ix,3
+4233,Giganet IXN Frankfurt,Frankfurt,DE,Europe,Ethernet,50,1,1,0,peeringdb_ix,3
+4242,Zero Internet eXchange San Jose,San Jose,US,North America,Ethernet,15,3,1,0,peeringdb_ix,3
+4245,ixFabric - Lyon,Lyon,FR,Europe,Ethernet,26,0,1,0,peeringdb_ix,3
+4252,irix Internet Exchange,Kuching,MY,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+4257,GPMIX,Lampung Timur,ID,Asia Pacific,Ethernet,13,2,1,0,peeringdb_ix,3
+4259,Accra Internet Exchange LBG,Accra,GH,Africa,Ethernet,24,1,1,0,peeringdb_ix,3
+4260,Grand Rapids Internet Exchange (GRR-iX),"Grand Rapids, MI",US,North America,Ethernet,16,1,1,0,peeringdb_ix,3
+4262,EdgeIX - Auckland,Auckland,NZ,Australia,Ethernet,49,4,1,0,peeringdb_ix,3
+4263,DE-CIX Hyderabad,Hyderabad,IN,Asia Pacific,Ethernet,14,4,1,0,peeringdb_ix,3
+4265,Computing ID Internet Exchange,Mojokerto,ID,Asia Pacific,Ethernet,0,1,0,0,peeringdb_ix,3
+4269,Penang IX,Penang,MY,Asia Pacific,Ethernet,15,1,1,0,peeringdb_ix,3
+4271,Pakistan Internet Exchange (PIE) Karachi,Karachi,PK,Asia Pacific,Ethernet,9,1,1,0,peeringdb_ix,3
+4274,BBIX Manila,Manila,PH,Asia Pacific,Ethernet,101,7,1,0,peeringdb_ix,3
+4281,STIX.DO,Santiago,DO,North America,Ethernet,32,1,1,0,peeringdb_ix,3
+4282,DD-IX,Dresden,DE,Europe,Ethernet,12,2,1,0,peeringdb_ix,3
+4292,SONIX Malmo,Malmö,SE,Europe,Ethernet,7,1,1,0,peeringdb_ix,3
+4293,CGIX-PNR,Pointe-Noire,CG,Africa,Ethernet,1,0,1,0,peeringdb_ix,3
+4294,GDL-IX,Guadalajara,MX,North America,Ethernet,1,1,0,0,peeringdb_ix,3
+4296,Japan Community IX - INIXP,Japan,JP,Asia Pacific,Ethernet,15,5,1,0,peeringdb_ix,3
+4298,MegaIX Charlotte,Charlotte,US,North America,Ethernet,6,4,1,0,peeringdb_ix,3
+4299,NRIX,Taipei City,TW,Asia Pacific,Ethernet,39,1,1,0,peeringdb_ix,3
+4301,UZ-IX,Tashkent,UZ,Asia Pacific,Ethernet,5,0,1,0,peeringdb_ix,3
+4302,IRAQ-IXP,Baghdad,IQ,Middle East,Ethernet,35,0,1,0,peeringdb_ix,3
+4309,MorePeering Los Angeles,Los Angeles,US,North America,Ethernet,1,4,1,0,peeringdb_ix,3
+4310,NetIX Greece,Thessaloniki / Athens,GR,Europe,Ethernet,42,5,1,0,peeringdb_ix,3
+4316,Kent Internet Exchange Point,Kent,GB,Europe,Ethernet,77,5,1,0,peeringdb_ix,3
+4318,MegaIX New York,New York,US,North America,Ethernet,22,26,1,0,peeringdb_ix,3
+4321,Vitro Internet Exchange,Pasig,PH,Asia Pacific,Ethernet,18,5,1,0,peeringdb_ix,3
+4322,Barcelona-IX,Barcelona,ES,Europe,Ethernet,26,1,1,0,peeringdb_ix,3
+4323,SON-IX,Wolfsburg,DE,Europe,Ethernet,10,3,1,0,peeringdb_ix,3
+4326,NaissIX IXP,Nis,RS,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4327,GetaFIX Davao,Davao,PH,Asia Pacific,Ethernet,6,2,1,0,peeringdb_ix,3
+4338,JPNAP Sendai/Sapporo,Sendai/Sapporo,JP,Asia Pacific,Ethernet,6,2,1,0,peeringdb_ix,3
+4339,American IX ☆ Massachusetts,Boston Springfield Syracuse Burlington Worcester,US,North America,Ethernet,4,2,1,0,peeringdb_ix,3
+4340,American IX ☆ Vermont (Vermont IX 🍁),"Burlington White River Junction Hanover, NH Montpelier",US,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+4341,BSCIX,Dhaka,BD,Asia Pacific,Ethernet,3,1,1,0,peeringdb_ix,3
+4345,OMGNET-SGIX,新加坡,SG,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4346,OMGNET-HKIX,香港,HK,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4348,PIT - LATAM Interconnect,Miami,US,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+4351,PIT AR,Buenos Aires,AR,South America,Ethernet,11,2,1,0,peeringdb_ix,3
+4352,DartNode IXP - Houston,"Houston, Texas",US,North America,Ethernet,0,1,0,0,peeringdb_ix,3
+4353,LIS-IX,Lisbon,PT,Europe,Ethernet,2,1,1,0,peeringdb_ix,3
+4357,Addix,Addis Ababa,ET,Africa,Ethernet,3,0,0,0,peeringdb_ix,3
+4358,IXP-MN,Ulaanbaatar,MN,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+4360,Noord-IX,Leeuwarden,NL,Europe,Ethernet,4,4,1,0,peeringdb_ix,3
+4361,MegaIX Atlanta,Atlanta,US,North America,Ethernet,11,13,1,0,peeringdb_ix,3
+4362,MegaIX Miami,Miami,US,North America,Ethernet,10,4,1,0,peeringdb_ix,3
+4363,MegaIX Denver,Denver,US,North America,Ethernet,7,10,1,0,peeringdb_ix,3
+4366,CM-IX,Mount Pleasant,US,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+4367,FIX Berlin,Berlin,DE,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+4371,Oman-IX,Muscat,OM,Middle East,Ethernet,12,1,1,0,peeringdb_ix,3
+4374,Stelia IX,London,GB,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4375,IX Australia Hobart (TAS-IX),Hobart,AU,Asia Pacific,Ethernet,5,1,1,0,peeringdb_ix,3
+4377,MIX Roma,Rome,IT,Europe,Ethernet,21,2,1,0,peeringdb_ix,3
+4378,F4IX MCI,Kansas City,US,North America,Ethernet,56,1,1,0,peeringdb_ix,3
+4379,HN Internet Exchange (Main),North Kansas City,US,North America,Ethernet,27,1,1,0,peeringdb_ix,3
+4380,West Virginia Internet Exchange,Charleston,US,North America,Ethernet,2,3,1,0,peeringdb_ix,3
+4381,KeFF-IX,"Stockholm, Gothenburg, Malmö, Amsterdam",SE,Europe,Ethernet,11,9,1,0,peeringdb_ix,3
+4384,Giganet IXN Amsterdam,Amsterdam,NL,Europe,Ethernet,47,2,1,0,peeringdb_ix,3
+4401,TMW-iX,Frankfurt am Main,DE,Europe,Ethernet,4,5,1,0,peeringdb_ix,3
+4405,IFORTE Xchange,Jakarta,ID,Asia Pacific,Ethernet,7,3,0,0,peeringdb_ix,3
+4410,Pfcloud IX,Frankfurt,DE,Europe,Ethernet,1,1,0,0,peeringdb_ix,3
+4411,DE-CIX Jakarta,Jakarta,ID,Asia Pacific,Ethernet,177,6,1,0,peeringdb_ix,3
+4414,CSNIX - Hamburg,Hamburg,DE,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+4415,CSNIX - Kehrsen,Kehrsen,DE,Europe,Ethernet,2,0,1,0,peeringdb_ix,3
+4416,CSNIX - Gudow,Gudow,DE,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+4417,CSNIX - Hamburg RemotePeering,Hamburg,DE,Europe,Ethernet,0,0,1,0,peeringdb_ix,3
+4418,Helix-IX,RIFFA,BH,Middle East,Ethernet,0,0,1,0,peeringdb_ix,3
+4424,SN-IX,Eygelshoven,NL,Europe,Ethernet,1,1,1,0,peeringdb_ix,3
+4431,FlooydIX Kansas,Kansas City,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+4432,JAMUANFC-IX,Jakarta,ID,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4434,INTERLINK IXP,Jakarta,ID,Asia Pacific,Ethernet,8,0,0,0,peeringdb_ix,3
+4437,ixFabric - Santa Clara,Santa Clara,US,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+4438,ixFabric - Dallas,Dallas,US,North America,Ethernet,23,1,1,0,peeringdb_ix,3
+4440,DataSphere Internet Exchange (Hong Kong),Hong Kong,HK,Asia Pacific,Ethernet,28,1,1,0,peeringdb_ix,3
+4444,CitraIX Semarang,Semarang,ID,Asia Pacific,Ethernet,10,1,1,0,peeringdb_ix,3
+4446,LIONEX1,Lilongwe,MW,Africa,Ethernet,5,0,1,0,peeringdb_ix,3
+4447,IX ANDESPARK SAC,Lima - Huancayo - Huanuco,PE,South America,Ethernet,6,0,1,0,peeringdb_ix,3
+4448,Japan Community IX,Japan,JP,Asia Pacific,Ethernet,31,5,1,0,peeringdb_ix,3
+4449,AIX,"Tapos, Depok",ID,Asia Pacific,Ethernet,324,5,1,0,peeringdb_ix,3
+4450,Tripoli IXP,Tripoli,LY,Africa,Ethernet,0,0,0,0,peeringdb_ix,3
+4454,PIT DOMINICANO,Santiago,DO,North America,Ethernet,33,1,1,0,peeringdb_ix,3
+4457,GL-IX,Düsseldorf,DE,Europe,Ethernet,2,1,1,0,peeringdb_ix,3
+4458,IX CDE SOCIEDAD ANONIMA,Ciudad Del  Este,PY,South America,Ethernet,30,1,1,0,peeringdb_ix,3
+4460,DFW-IX,Dallas,US,North America,Ethernet,10,7,1,0,peeringdb_ix,3
+4461,Association HwHost,Paris,FR,Europe,Ethernet,0,1,1,0,peeringdb_ix,3
+4462,NVIX,Ashburn,US,North America,Ethernet,61,1,1,0,peeringdb_ix,3
+4475,packet:ix,Seoul,KR,Asia Pacific,Ethernet,8,3,1,0,peeringdb_ix,3
+4478,center3 IX Riyadh,Riyadh,SA,Middle East,Ethernet,13,1,1,0,peeringdb_ix,3
+4480,POM-IX,Gdańsk,PL,Europe,Ethernet,11,2,1,0,peeringdb_ix,3
+4490,Equinix Kuala Lumpur,Kuala Lumpur,MY,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+4491,CL-IX,"Cleveland, OH",US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4493,Free-IX Greece,Thessaloniki & Athens,GR,Europe,Ethernet,12,2,1,0,peeringdb_ix,3
+4494,Guam IX,Tamuning,GU,Asia Pacific,Ethernet,13,5,1,0,peeringdb_ix,3
+4495,PT. Airlink Media Data,Brebes,ID,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+4498,OnlineNet,Artashat,AM,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4499,MSR IX,shibuya,JP,Asia Pacific,Ethernet,11,0,1,0,peeringdb_ix,3
+4503,frankonIX,Nuremberg,DE,Europe,Ethernet,21,4,1,0,peeringdb_ix,3
+4504,Azteca Telecom,Santiago,DO,North America,Ethernet,13,1,1,0,peeringdb_ix,3
+4506,MegaIX Adelaide,Adelaide,AU,Australia,Ethernet,22,5,1,0,peeringdb_ix,3
+4507,MegaIX Chicago,Chicago,US,North America,Ethernet,12,17,1,0,peeringdb_ix,3
+4508,MegaIX Bay Area,San Francisco,US,North America,Ethernet,18,14,1,0,peeringdb_ix,3
+4510,MONICA IX (AS 138121),Jakarta,ID,Asia Pacific,Ethernet,20,7,0,0,peeringdb_ix,3
+4511,AxiusIX EIR,Eirenia,ES,Europe,Ethernet,1,0,0,0,peeringdb_ix,3
+4518,CXC Denpasar,Denpasar,ID,Asia Pacific,Ethernet,52,3,1,0,peeringdb_ix,3
+4519,IXP GT,Guatemala,GT,South America,Ethernet,18,1,1,0,peeringdb_ix,3
+4520,AlaskaIX,Anchorage,US,North America,Ethernet,2,1,1,0,peeringdb_ix,3
+4524,NAPVE CCS,Caracas,VE,South America,Ethernet,16,2,1,0,peeringdb_ix,3
+4525,DE-CIX Mexico,Mexico City,MX,North America,Ethernet,28,4,1,0,peeringdb_ix,3
+4530,Exohost CA1,Bradford,CA,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+4534,FD-IX - Amarillo,Amarillo,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4545,Conex - IXP,Lima,PE,South America,Ethernet,10,0,1,0,peeringdb_ix,3
+4550,NIX Monterrey,Monterrey,MX,North America,Ethernet,9,0,1,0,peeringdb_ix,3
+4553,PeersIX Amsterdam,Amsterdam,NL,Europe,Ethernet,13,1,1,0,peeringdb_ix,3
+4555,ABS-IX,JAKARTA,ID,Asia Pacific,Ethernet,3,2,1,0,peeringdb_ix,3
+4556,IX.br (PTT.br) Porto Velho,Porto Velho,BR,South America,Ethernet,14,3,1,0,peeringdb_ix,3
+4560,BJN-IX,Jambi,ID,Asia Pacific,Ethernet,10,0,1,0,peeringdb_ix,3
+4569,RPCI,Lima,PE,South America,Ethernet,4,0,1,0,peeringdb_ix,3
+4573,DarIX,Dar es Salaam,TZ,Africa,Ethernet,5,1,1,0,peeringdb_ix,3
+4574,IdahoIX,Boise,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4575,SVGIX,kingstown,VC,North America,Ethernet,4,0,1,0,peeringdb_ix,3
+4577,MIX Caserta,Caserta,IT,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+4578,IX.br (PTT.br) Feira de Santana,Feira de Santana,BR,South America,Ethernet,26,3,1,0,peeringdb_ix,3
+4583,ESpanix Barcelona Lower LAN,Barcelona,ES,Europe,Ethernet,2,8,1,0,peeringdb_ix,3
+4584,ESpanix Barcelona Upper LAN,Barcelona,ES,Europe,Ethernet,2,8,1,0,peeringdb_ix,3
+4587,IX.br (PTT.br) Caruaru,Caruaru,BR,South America,Ethernet,7,2,1,0,peeringdb_ix,3
+4588,ILIX,Surabaya,ID,Asia Pacific,Ethernet,113,5,1,0,peeringdb_ix,3
+4589,NSIX Amsterdam,Amsterdam,NL,Europe,Ethernet,13,3,1,0,peeringdb_ix,3
+4590,BATI-IX,Serang,ID,Asia Pacific,Ethernet,17,2,1,0,peeringdb_ix,3
+4594,SmartIX,Frankfurt,DE,Europe,Ethernet,2,5,1,0,peeringdb_ix,3
+4598,MegaIX Houston,Houston,US,North America,Ethernet,3,8,1,0,peeringdb_ix,3
+4599,DE-CIX Houston,Houston,US,North America,Ethernet,10,2,1,0,peeringdb_ix,3
+4602,FD-IX - Chicago,Chicago,US,North America,Ethernet,4,5,1,0,peeringdb_ix,3
+4604,CANIX Quebec City,Quebec City,CA,North America,Ethernet,5,1,1,0,peeringdb_ix,3
+4605,Colocix Internet Exchange,Colombo,LK,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+4606,AMS-IX Manila,Manila,PH,Asia Pacific,Ethernet,11,1,1,0,peeringdb_ix,3
+4607,PatagoniaIX,Punta Arenas,CL,South America,Ethernet,7,1,1,0,peeringdb_ix,3
+4608,HN Internet Exchange (HK),Hong Kong,HK,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4609,DACS-IX North,New York,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4610,DACS-IX South,Orlando,US,North America,Ethernet,4,2,1,0,peeringdb_ix,3
+4621,TREX turku,Turku,FI,Europe,Ethernet,6,0,1,0,peeringdb_ix,3
+4622,GraniteIX,"Salt Lake City, UT",US,North America,Ethernet,22,9,1,0,peeringdb_ix,3
+4625,Hong Kong Global Internet Exchange,Hong Kong,HK,Asia Pacific,Ethernet,17,9,1,0,peeringdb_ix,3
+4630,ERA-IX Frankfurt,Frankfurt,DE,Europe,Ethernet,85,10,1,0,peeringdb_ix,3
+4632,IXP GYE,Guayaquil,EC,South America,Ethernet,4,0,1,0,peeringdb_ix,3
+4634,ENTERNET IX,Tokyo,JP,Asia Pacific,Ethernet,27,0,1,0,peeringdb_ix,3
+4635,FCP Network,Arak,IR,Middle East,Ethernet,0,0,1,0,peeringdb_ix,3
+4636,ixFabric - Lisbon,Lisbon,PT,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4637,ixFabric - Taipei,Taipei,TW,Asia Pacific,Ethernet,14,0,1,0,peeringdb_ix,3
+4639,Equinix Jakarta,Jakarta,ID,Asia Pacific,Ethernet,45,1,1,0,peeringdb_ix,3
+4640,GNM-IX UA,Kiev,UA,Europe,Ethernet,62,0,1,0,peeringdb_ix,3
+4641,DE-CIX Rio de Janeiro,Rio de Janeiro,BR,South America,Ethernet,13,2,1,0,peeringdb_ix,3
+4642,DE-CIX Sao Paulo,Sao Paulo,BR,South America,Ethernet,37,3,1,0,peeringdb_ix,3
+4643,TarIX JKT,Jakarta,ID,Asia Pacific,Ethernet,3,1,1,0,peeringdb_ix,3
+4644,ENS-IX,Enschede,NL,Europe,Ethernet,17,7,1,0,peeringdb_ix,3
+4652,MPLIX,Montpellier,FR,Europe,Ethernet,2,2,1,0,peeringdb_ix,3
+4653,LINX Mombasa,Mombasa,KE,Africa,Ethernet,55,2,1,0,peeringdb_ix,3
+4693,France-IX Bordeaux,Bordeaux,FR,Europe,Ethernet,3,1,1,0,peeringdb_ix,3
+4696,DoljNET IX,Craiova,RO,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+4705,nine,"Amsterdam, Bordeaux, Frankfurt, Genève, Lille, London, Lyon, Marseille, Milano, Montpellier, Paris, Zurich",FR,Europe,Ethernet,156,45,1,0,peeringdb_ix,3
+4707,JPIX HOKKAIDO,Sapporo,JP,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+4708,NAPVE MCBO,Maracaibo,VE,South America,Ethernet,19,0,1,0,peeringdb_ix,3
+4709,AMS-IX Eastern Caribbean,Sint Eustatius,BQ,North America,Ethernet,7,1,1,0,peeringdb_ix,3
+4710,MegaIX Dublin,Dublin,IE,Europe,Ethernet,4,5,1,0,peeringdb_ix,3
+4711,MegaIX Osaka,Osaka,JP,Asia Pacific,Ethernet,4,8,1,0,peeringdb_ix,3
+4712,MegaIX Montreal,Montreal,CA,North America,Ethernet,2,4,1,0,peeringdb_ix,3
+4715,Doha IX,Doha,QA,Middle East,Ethernet,11,1,1,0,peeringdb_ix,3
+4717,Fiblib Digital Networks,New Delhi,IN,Asia Pacific,Ethernet,4,6,1,0,peeringdb_ix,3
+4718,AKIX,Zurich,CH,Europe,Ethernet,11,5,1,0,peeringdb_ix,3
+4720,IndyIX,Indianapolis,US,North America,Ethernet,14,1,1,0,peeringdb_ix,3
+4721,CXIX - Great Lakes,NewYork,US,North America,Ethernet,40,2,1,0,peeringdb_ix,3
+4724,ixFabric - Nairobi,Nairobi,KE,Africa,Ethernet,0,1,1,0,peeringdb_ix,3
+4727,OpenIX Beirut,Beirut,LB,Middle East,Ethernet,31,0,1,0,peeringdb_ix,3
+4728,TJ-IX,Dushanbe,TJ,Asia Pacific,Ethernet,21,0,1,0,peeringdb_ix,3
+4737,ISCX Internet Exchange,Jakarta,ID,Asia Pacific,Ethernet,7,2,0,0,peeringdb_ix,3
+4739,NAPVE VLN,Valencia,VE,South America,Ethernet,15,1,1,0,peeringdb_ix,3
+4744,Exchange7,Winterthur,CH,Europe,Ethernet,8,2,1,0,peeringdb_ix,3
+4745,PITER-IX Novosibirsk,Novosibirsk,RU,Europe,Ethernet,3,0,0,0,peeringdb_ix,3
+4746,PITER-IX Vladikavkaz,Vladikavkaz,RU,Europe,Ethernet,1,0,0,0,peeringdb_ix,3
+4761,PIT Paraguay,Ciudad del Este,PY,South America,Ethernet,18,2,1,0,peeringdb_ix,3
+4767,MOCIX,Kansas City,US,North America,Ethernet,3,1,1,0,peeringdb_ix,3
+4769,LINX Accra,Accra,GH,Africa,Ethernet,8,3,1,0,peeringdb_ix,3
+4770,PIT Lima - PIT Chile,Lima,PE,South America,Ethernet,3,1,1,0,peeringdb_ix,3
+4771,PANDA-IX,Semarang,ID,Asia Pacific,Ethernet,14,1,1,0,peeringdb_ix,3
+4774,OMNIIX INDONESIA,"Batam, Jakarta",ID,Asia Pacific,Ethernet,81,9,1,0,peeringdb_ix,3
+4775,NVL-IX,Athens,GR,Europe,Ethernet,11,3,1,0,peeringdb_ix,3
+4776,CXC Surabaya,Surabaya,ID,Asia Pacific,Ethernet,9,3,1,0,peeringdb_ix,3
+4777,AKIX - TFU,ChengDu,CN,Asia Pacific,Ethernet,5,0,1,0,peeringdb_ix,3
+4778,SONIA IX,Jakarta & Sidoarjo,ID,Asia Pacific,Ethernet,4,3,0,0,peeringdb_ix,3
+4779,TievoluIX,Frankfurt,DE,Europe,Ethernet,4,2,1,0,peeringdb_ix,3
+4781,EURASIA-IX.NET,Istanbul,TR,Europe,Ethernet,6,20,1,0,peeringdb_ix,3
+4783,IL-IX,Multiple,IL,Middle East,Ethernet,23,3,1,0,peeringdb_ix,3
+4792,WHY2025 IXP,Geesterambacht,NL,Europe,Ethernet,2,0,1,0,peeringdb_ix,3
+4795,MMIX Tachileik,Tachileik,MM,Asia Pacific,Ethernet,10,1,1,0,peeringdb_ix,3
+4796,CIX-NoVA,"Ashburn, Reston, Washington DC",US,North America,Ethernet,28,6,1,0,peeringdb_ix,3
+4797,MIX Thessaloniki,Thessaloniki,GR,Europe,Ethernet,16,1,1,0,peeringdb_ix,3
+4799,CXIX - Yangtze Delta,Shanghai,CN,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+4802,AKIX - HKG,HongKong,HK,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4803,Gateway Internet Exchange,Saint Louis,US,North America,Ethernet,0,1,1,0,peeringdb_ix,3
+4805,Extreme IX Pune,Pune,IN,Asia Pacific,Ethernet,11,3,1,0,peeringdb_ix,3
+4814,JEIX,Tokyo,JP,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+4818,KOIX,Seoul,KR,Asia Pacific,Ethernet,9,9,1,0,peeringdb_ix,3
+4819,Lynqia IX Berlin,Berlin,DE,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+4820,Chile IX by PIT.net,Santiago,CL,South America,Ethernet,19,3,1,0,peeringdb_ix,3
+4823,PITER-IX Bishkek,Bishkek,KG,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+4825,Spider Net Ltd - IXP,erbil,IQ,Middle East,Ethernet,3,0,1,0,peeringdb_ix,3
+4828,SAKURA IX Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,7,0,1,0,peeringdb_ix,3
+4830,LoLi-IX - NGB,Ningbo,CN,Asia Pacific,Ethernet,11,1,1,0,peeringdb_ix,3
+4836,LONIX UK,London,GB,Europe,Ethernet,1,4,1,0,peeringdb_ix,3
+4837,FogIXP Amsterdam,Amsterdam,NL,Europe,Ethernet,54,5,1,0,peeringdb_ix,3
+4838,Amateur IX,Ashland,US,North America,Ethernet,6,1,1,0,peeringdb_ix,3
+4839,Ciallo～(∠·ω< )⌒★ IX - HK,Hong Kong,HK,Asia Pacific,Ethernet,4,2,1,0,peeringdb_ix,3
+4841,ixFabric - Edinburgh,Edinburgh,AU,Australia,Ethernet,0,1,1,0,peeringdb_ix,3
+4842,ixFabric - Berlin,Berlin,DE,Europe,Ethernet,35,0,1,0,peeringdb_ix,3
+4843,ixFabric - Toronto,Toronto,CA,North America,Ethernet,18,0,1,0,peeringdb_ix,3
+4851,BIX Palembang,"Palembang, South Sumatra",ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+4855,Netnod Oslo BLUE -- MTU9K,Oslo,NO,Europe,Ethernet,5,2,1,0,peeringdb_ix,3
+4856,Netnod Oslo GREEN -- MTU9K,Oslo,NO,Europe,Ethernet,5,2,1,0,peeringdb_ix,3
+4857,TBAX 🌴 Tampa Bay IX 🏴‍☠️,Tampa,US,North America,Ethernet,4,2,1,0,peeringdb_ix,3
+4858,Schleyer-IX,Düsseldorf,DE,Europe,Ethernet,2,1,0,0,peeringdb_ix,3
+4861,CANIX Toronto,Toronto,CA,North America,Ethernet,10,7,1,0,peeringdb_ix,3
+4862,IX.br (PTT.br) Ribeirão Preto,Ribeirão Preto,BR,South America,Ethernet,15,5,1,0,peeringdb_ix,3
+4866,TYIX,Tokyo,JP,Asia Pacific,Ethernet,50,2,1,0,peeringdb_ix,3
+4867,PIT LATITUD 0° - IXECUADOR,Quito,EC,South America,Ethernet,10,0,1,0,peeringdb_ix,3
+4879,MAINPORT Peer-Exchange,Frankfurt am Main,DE,Europe,Ethernet,14,7,1,0,peeringdb_ix,3
+4880,Jamaica Internet Exchange Point,Kingston,JM,North America,Ethernet,9,0,1,0,peeringdb_ix,3
+4884,American IX ☆ New York,Syracuse Rochester Buffalo Albany Toronto Binghamton,US,North America,Ethernet,1,1,1,0,peeringdb_ix,3
+4885,Nell-IX NoVA,Reston,US,North America,Ethernet,4,2,1,0,peeringdb_ix,3
+4891,MegaIX São Paulo,São Paulo,BR,South America,Ethernet,1,0,1,0,peeringdb_ix,3
+4892,Michcom-IX,Freetown,SL,Africa,Ethernet,5,4,1,0,peeringdb_ix,3
+4893,FD-IX - Nashville,Nashville,US,North America,Ethernet,4,1,1,0,peeringdb_ix,3
+4895,ixFabric - New York,New York,US,North America,Ethernet,45,2,1,0,peeringdb_ix,3
+4896,ixFabric - Atlanta,Atlanta,US,North America,Ethernet,16,0,1,0,peeringdb_ix,3
+4898,PLUGINS IX,NAIROBI,KE,Africa,Ethernet,0,7,0,0,peeringdb_ix,3
+4900,JDX,Jakarta,ID,Asia Pacific,Ethernet,9,4,1,0,peeringdb_ix,3
+4902,Jambi Access Exchange,JAMBI,ID,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+4904,Swin Exchange,Depok,ID,Asia Pacific,Ethernet,13,2,1,0,peeringdb_ix,3
+4911,Chameleon-NAP,Miami,US,North America,Ethernet,4,10,1,0,peeringdb_ix,3
+4912,IXMidlands,Wolverhampton,GB,Europe,Ethernet,4,3,1,0,peeringdb_ix,3
+4915,KAZ-GOV-IX Almaty,Almaty,KZ,Asia Pacific,Ethernet,10,0,1,0,peeringdb_ix,3
+4916,1-PL FREE,"Warsaw, Wroclaw, Katowice",PL,Europe,Ethernet,33,7,1,0,peeringdb_ix,3
+4917,1-DE FREE,Frankfurt,DE,Europe,Ethernet,27,6,1,0,peeringdb_ix,3
+4918,1-NL FREE,Amsterdam,NL,Europe,Ethernet,56,8,1,0,peeringdb_ix,3
+4920,HubSIX,Dakar,SN,Africa,Ethernet,6,1,1,0,peeringdb_ix,3
+4921,KAZ-GOV-IX Qaraganda,Qaraganda,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4922,KAZ-GOV-IX Shymkent,Shymkent,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4923,KAZ-GOV-IX Pavlodar,Pavlodar,KZ,Asia Pacific,Ethernet,6,0,1,0,peeringdb_ix,3
+4924,Protocol 7 IX - Lycheen Japan,Tokyo,JP,Asia Pacific,Ethernet,21,0,1,0,peeringdb_ix,3
+4925,KAZ-GOV-IX Semey,Semey,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4926,KAZ-GOV-IX Aqtobe,Aqtobe,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4927,TurkIX Istanbul,Istanbul,TR,Europe,Ethernet,3,8,1,0,peeringdb_ix,3
+4931,Protocol 7 IX - Tokyo,Tokyo,JP,Asia Pacific,Ethernet,0,0,1,0,peeringdb_ix,3
+4932,Protocol 7 IX - Hong Kong,Hong Kong,HK,Asia Pacific,Ethernet,93,0,1,0,peeringdb_ix,3
+4935,KAZ-GOV-IX Aqtau,Aqtau,KZ,Asia Pacific,Ethernet,3,0,1,0,peeringdb_ix,3
+4937,Ligtel IXP,Ligonier,US,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+4941,KAZ-GOV-IX Atyrau,Atyrau,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4942,KAZ-GOV-IX Kokshetau,Kokshetau,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4943,KAZ-GOV-IX Qostanay,Qostanay,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4944,KAZ-GOV-IX Qyzylorda,Qyzylorda,KZ,Asia Pacific,Ethernet,4,0,1,0,peeringdb_ix,3
+4946,VexIX,Frankfurt,DE,Europe,Ethernet,1,0,1,0,peeringdb_ix,3
+4948,KAZ-GOV-IX Taldyqorgan,Taldyqorgan,KZ,North America,Ethernet,1,0,1,0,peeringdb_ix,3
+4953,MCT-IX,"McAllen, TX, 78501",US,North America,Ethernet,2,1,1,0,peeringdb_ix,3
+4957,MX-IX Mumbai,Mumbai,IN,Asia Pacific,Ethernet,5,8,1,0,peeringdb_ix,3
+4959,MX-IX Dubai,Dubai,AE,Middle East,Ethernet,2,3,1,0,peeringdb_ix,3
+4960,Chicago Open Pipes,Chicago,US,North America,Ethernet,8,5,1,0,peeringdb_ix,3
+4963,MyNet Broadband (Pvt.) Ltd,karachi,PK,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+4964,IXP LATAM,Tegucicgalpa,HN,South America,Ethernet,0,0,0,0,peeringdb_ix,3
+4965,European Edge IX,London,GB,Europe,Ethernet,0,7,1,0,peeringdb_ix,3
+4967,GENTONG IX,Batu,ID,Asia Pacific,Ethernet,1,0,0,0,peeringdb_ix,3
+4968,EuroRhine-IX,Strasbourg,FR,Europe,Ethernet,12,4,1,0,peeringdb_ix,3
+4970,SSIX,Olbia,IT,Europe,Ethernet,4,0,1,0,peeringdb_ix,3
+4972,PT RINJANI CITRA SOLUSI,Selong,ID,Asia Pacific,Ethernet,0,2,1,0,peeringdb_ix,3
+4973,Kawaii IX AMS,Amsterdam,NL,Europe,Ethernet,45,1,1,0,peeringdb_ix,3
+4983,MX-IX Delhi,Delhi,IN,Asia Pacific,Ethernet,9,6,1,0,peeringdb_ix,3
+4984,Kawaii IX MCI,Kansas City,US,North America,Ethernet,0,0,1,0,peeringdb_ix,3
+4985,ERA-IX Paris,Paris,FR,Europe,Ethernet,13,2,1,0,peeringdb_ix,3
+4986,RegPEX,Ankara,TR,Europe,Ethernet,14,11,1,0,peeringdb_ix,3
+4987,Natural State Community Internet Exchange,Little Rock,US,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+4988,NAPVE ORI,Oriente,VE,South America,Ethernet,6,0,1,0,peeringdb_ix,3
+4989,FogIXP Zurich,Zurich,CH,Europe,Ethernet,8,3,1,0,peeringdb_ix,3
+4993,1-ES FREE,Madrid,ES,Europe,Ethernet,18,1,1,0,peeringdb_ix,3
+4994,1-FR FREE,Paris,FR,Europe,Ethernet,14,1,1,0,peeringdb_ix,3
+4995,1-CZ FREE,Prague,CZ,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+4996,1-BG FREE,Sofia,BG,Europe,Ethernet,22,3,1,0,peeringdb_ix,3
+4997,1-SK FREE,Bratislava,SK,Europe,Ethernet,5,1,1,0,peeringdb_ix,3
+5002,Digital Delta IX,Gaborone,BW,Africa,Ethernet,4,1,1,0,peeringdb_ix,3
+5004,GAS-IX,Surabaya,ID,Asia Pacific,Ethernet,2,1,0,0,peeringdb_ix,3
+5005,NextIX,Global,DE,Europe,Ethernet,0,8,0,0,peeringdb_ix,3
+5008,NobiDev IX,Ho Chi Minh,VN,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+5011,nine - six in Paris,Paris,FR,Europe,Ethernet,24,11,1,0,peeringdb_ix,3
+5012,Cotel Ltda,Villa Gesell,AR,South America,Ethernet,0,0,1,0,peeringdb_ix,3
+5014,NubiHost,Casano Madeno,IT,Europe,Ethernet,0,0,0,0,peeringdb_ix,3
+5015,Lesotho Internet Exchange Point,Maseru,LS,Africa,Ethernet,3,0,0,0,peeringdb_ix,3
+5020,Brothers Online BD,Pabna,BD,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+5023,3AM Network IX,Amsterdam,NL,Europe,Ethernet,24,1,1,0,peeringdb_ix,3
+5026,KOSIX,Pristine,XK,Europe,Ethernet,6,0,0,0,peeringdb_ix,3
+5027,MX-IX Fujairah,Fujairah,AE,Middle East,Ethernet,1,1,1,0,peeringdb_ix,3
+5029,ERA-IX Vienna,Vienna,AT,Europe,Ethernet,16,1,1,0,peeringdb_ix,3
+5030,Better CNIX,上海,CN,Asia Pacific,Ethernet,22,2,1,0,peeringdb_ix,3
+5040,France-IX Paris Essentiel,Paris,FR,Europe,Ethernet,6,1,1,0,peeringdb_ix,3
+5041,GNM-IX US,New York,US,North America,Ethernet,4,3,1,0,peeringdb_ix,3
+5045,DE-CIX Bengaluru,Bengaluru,IN,Asia Pacific,Ethernet,6,4,1,0,peeringdb_ix,3
+5048,Konek Internet Exchange,general santos city,PH,Asia Pacific,Ethernet,7,5,1,0,peeringdb_ix,3
+5051,PIT - Colombia - Cucuta,Cucuta,CO,South America,Ethernet,1,0,1,0,peeringdb_ix,3
+5052,DE-CIX Stockholm,Stockholm,SE,Europe,Ethernet,4,2,1,0,peeringdb_ix,3
+5053,PIT - Colombia - Pasto,Pasto,CO,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+5054,ALPSiX,Klagenfurt/Villach,AT,Europe,Ethernet,2,2,1,0,peeringdb_ix,3
+5058,MetroPort IX,Viña del Mar,CL,South America,Ethernet,2,2,1,0,peeringdb_ix,3
+5059,MegaIX Portland,Portland,US,North America,Ethernet,2,0,1,0,peeringdb_ix,3
+5060,MegaIX Milan,Milan,IT,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+5061,MegaIX Boston,Boston,US,North America,Ethernet,3,0,1,0,peeringdb_ix,3
+5062,MegaIX Phoenix,Phoenix,US,North America,Ethernet,4,0,1,0,peeringdb_ix,3
+5063,MegaIX Madrid,Madrid,ES,Europe,Ethernet,3,0,1,0,peeringdb_ix,3
+5068,NIX Surabaya,Surabaya,ID,Asia Pacific,Ethernet,2,2,0,0,peeringdb_ix,3
+5077,nusa-IX Surabaya,Surabaya,ID,Asia Pacific,Ethernet,2,1,1,0,peeringdb_ix,3
+5079,MX-IX Chennai,Chennai,IN,Asia Pacific,Ethernet,2,3,1,0,peeringdb_ix,3
+5082,IX GDL,Guadalajara,MX,North America,Ethernet,5,0,1,0,peeringdb_ix,3
+5087,Intermountain IX,Spokane,US,North America,Ethernet,1,2,1,0,peeringdb_ix,3
+5088,CANIX Charlottetown,Charlottetown,CA,North America,Ethernet,1,0,1,0,peeringdb_ix,3
+5095,EdgeIX - Canberra,Canberra,AU,Australia,Ethernet,3,2,1,0,peeringdb_ix,3
+5098,KCIXP,Seoul,KR,Asia Pacific,Ethernet,5,0,1,0,peeringdb_ix,3
+5100,Omnexus Wichita,Wichita,US,North America,Ethernet,0,0,0,0,peeringdb_ix,3
+5102,IX.br (PTT.br) Macapá,Macapá,BR,South America,Ethernet,3,2,1,0,peeringdb_ix,3
+5106,Clue-IX,Amsterdam,NL,Europe,Ethernet,32,3,1,0,peeringdb_ix,3
+5109,BIX Lampung,Bandar Lampung,ID,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+5113,BIX Medan,Medan,ID,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+5114,BIX Pekanbaru,Pekanbaru,ID,Asia Pacific,Ethernet,2,0,1,0,peeringdb_ix,3
+5115,91-IX,Frankfurt,DE,Europe,Ethernet,51,1,1,0,peeringdb_ix,3
+5118,BIX Batam,Batam,ID,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+5119,BIX Padang,Padang,ID,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3
+5120,BIX Jambi,Jambi,ID,Asia Pacific,Ethernet,0,0,0,0,peeringdb_ix,3

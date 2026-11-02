@@ -1,0 +1,61 @@
+CountryKey,ISO2,ISO3,CountryName,Region,Subregion,CentroidLatitude,CentroidLongitude
+US,US,USA,United States,North America,Northern America,37.0902,-95.7129
+IN,IN,IND,India,Asia,Southern Asia,20.5937,78.9629
+GB,GB,GBR,United Kingdom,Europe,Northern Europe,55.3781,-3.436
+DE,DE,DEU,Germany,Europe,Western Europe,51.1657,10.4515
+FR,FR,FRA,France,Europe,Western Europe,46.2276,2.2137
+NL,NL,NLD,Netherlands,Europe,Western Europe,52.1326,5.2913
+SG,SG,SGP,Singapore,Asia,South-Eastern Asia,1.3521,103.8198
+JP,JP,JPN,Japan,Asia,Eastern Asia,36.2048,138.2529
+AU,AU,AUS,Australia,Oceania,Australia and New Zealand,-25.2744,133.7751
+BR,BR,BRA,Brazil,South America,South America,-14.235,-51.9253
+ZA,ZA,ZAF,South Africa,Africa,Southern Africa,-30.5595,22.9375
+KE,KE,KEN,Kenya,Africa,Eastern Africa,-0.0236,37.9062
+NG,NG,NGA,Nigeria,Africa,Western Africa,9.082,8.6753
+EG,EG,EGY,Egypt,Africa,Northern Africa,26.8206,30.8025
+AE,AE,ARE,United Arab Emirates,Middle East,Western Asia,23.4241,53.8478
+CA,CA,CAN,Canada,North America,Northern America,56.1304,-106.3468
+MX,MX,MEX,Mexico,North America,Central America,23.6345,-102.5528
+ES,ES,ESP,Spain,Europe,Southern Europe,40.4637,-3.7492
+IT,IT,ITA,Italy,Europe,Southern Europe,41.8719,12.5674
+SE,SE,SWE,Sweden,Europe,Northern Europe,60.1282,18.6435
+NO,NO,NOR,Norway,Europe,Northern Europe,60.472,8.4689
+FI,FI,FIN,Finland,Europe,Northern Europe,61.9241,25.7482
+CH,CH,CHE,Switzerland,Europe,Western Europe,46.8182,8.2275
+IE,IE,IRL,Ireland,Europe,Northern Europe,53.1424,-7.6921
+HK,HK,HKG,Hong Kong,Asia,Eastern Asia,22.3193,114.1694
+KR,KR,KOR,South Korea,Asia,Eastern Asia,35.9078,127.7669
+CN,CN,CHN,China,Asia,Eastern Asia,35.8617,104.1954
+TW,TW,TWN,Taiwan,Asia,Eastern Asia,23.6978,120.9605
+ID,ID,IDN,Indonesia,Asia,South-Eastern Asia,-0.7893,113.9213
+MY,MY,MYS,Malaysia,Asia,South-Eastern Asia,4.2105,101.9758
+TH,TH,THA,Thailand,Asia,South-Eastern Asia,15.87,100.9925
+VN,VN,VNM,Vietnam,Asia,South-Eastern Asia,14.0583,108.2772
+PH,PH,PHL,Philippines,Asia,South-Eastern Asia,12.8797,121.774
+NZ,NZ,NZL,New Zealand,Oceania,Australia and New Zealand,-40.9006,174.886
+CL,CL,CHL,Chile,South America,South America,-35.6751,-71.543
+AR,AR,ARG,Argentina,South America,South America,-38.4161,-63.6167
+CO,CO,COL,Colombia,South America,South America,4.5709,-74.2973
+SA,SA,SAU,Saudi Arabia,Middle East,Western Asia,23.8859,45.0792
+IL,IL,ISR,Israel,Middle East,Western Asia,31.0461,34.8516
+TR,TR,TUR,Turkey,Middle East,Western Asia,38.9637,35.2433
+RU,RU,RUS,Russia,Europe/Asia,Eastern Europe,61.524,105.3188
+PL,PL,POL,Poland,Europe,Eastern Europe,51.9194,19.1451
+CZ,CZ,CZE,Czech Republic,Europe,Eastern Europe,49.8175,15.473
+AT,AT,AUT,Austria,Europe,Western Europe,47.5162,14.5501
+BE,BE,BEL,Belgium,Europe,Western Europe,50.5039,4.4699
+PT,PT,PRT,Portugal,Europe,Southern Europe,39.3999,-8.2245
+GR,GR,GRC,Greece,Europe,Southern Europe,39.0742,21.8243
+DK,DK,DNK,Denmark,Europe,Northern Europe,56.2639,9.5018
+GH,GH,GHA,Ghana,Africa,Western Africa,7.9465,-1.0232
+DJ,DJ,DJI,Djibouti,Africa,Eastern Africa,11.8251,42.5903
+OM,OM,OMN,Oman,Middle East,Western Asia,21.4735,55.9754
+PK,PK,PAK,Pakistan,Asia,Southern Asia,30.3753,69.3451
+BD,BD,BGD,Bangladesh,Asia,Southern Asia,23.685,90.3563
+LK,LK,LKA,Sri Lanka,Asia,Southern Asia,7.8731,80.7718
+MA,MA,MAR,Morocco,Africa,Northern Africa,31.7917,-7.0926
+MU,MU,MUS,Mauritius,Africa,Eastern Africa,-20.3484,57.5522
+PA,PA,PAN,Panama,North America,Central America,8.5379,-80.7821
+CR,CR,CRI,Costa Rica,North America,Central America,9.7489,-83.7534
+PE,PE,PER,Peru,South America,South America,-9.19,-75.0152
+EC,EC,ECU,Ecuador,South America,South America,-1.8312,-78.1834

@@ -1,0 +1,5 @@
+TypeKey,TypeName,PhysicalDomain,Layer
+1,Submarine Cable,Maritime/Subsea,L1 Physical
+2,Cable Landing Station,Terrestrial Coastal,L1/L2 Termination
+3,Internet Exchange Point,Terrestrial Facility,L2 Peering Fabric
+4,Colocation Facility,Terrestrial Data Centre,L1/L2 Interconnection
